@@ -1,0 +1,7356 @@
+﻿1
+00:00:07,216 --> 00:00:09,676
+[presenter]
+<i>She spent 20 years studying courage,</i>
+
+2
+00:00:09,760 --> 00:00:11,970
+<i>vulnerability, shame, and empathy,</i>
+
+3
+00:00:12,054 --> 00:00:15,015
+<i>wrote five </i>New York Times
+<i>number one best sellers,</i>
+
+4
+00:00:15,098 --> 00:00:18,352
+<i>and her TED Talk is one</i>
+<i>of the most watched in the world.</i>
+
+5
+00:00:18,435 --> 00:00:20,687
+<i>Please welcome Brené Brown.</i>
+
+6
+00:00:20,771 --> 00:00:22,773
+[audience cheering and applauding]
+
+7
+00:00:31,657 --> 00:00:32,658
+[Brené] Hey!
+
+8
+00:00:34,826 --> 00:00:35,786
+Hi!
+
+9
+00:00:39,456 --> 00:00:40,457
+Hi!
+
+10
+00:00:41,291 --> 00:00:43,544
+Oh, my God. Hi!
+
+11
+00:00:54,638 --> 00:00:56,014
+Hi, everybody.
+
+12
+00:00:56,848 --> 00:00:58,016
+Whoo!
+
+13
+00:00:59,059 --> 00:01:00,978
+-Hi!
+-[audience] Hi!
+
+14
+00:01:01,061 --> 00:01:02,813
+How-- How's it going?
+
+15
+00:01:02,896 --> 00:01:04,147
+[audience cheers]
+
+16
+00:01:04,982 --> 00:01:07,150
+It was so funny.
+I'm backstage. They're<i> </i>like,
+
+17
+00:01:07,234 --> 00:01:09,319
+"Can we take your purse?" I'm like, "No."
+
+18
+00:01:09,403 --> 00:01:12,281
+-[audience laughs]
+-It's, like, totally a Texas thing
+
+19
+00:01:12,364 --> 00:01:14,992
+where I always have to have my purse
+and an exit plan.
+
+20
+00:01:15,075 --> 00:01:19,788
+Uh, like, I'm not sure until I walk
+out here that I'm actually going to do it.
+
+21
+00:01:19,871 --> 00:01:20,831
+[audience laughs]
+
+22
+00:01:20,914 --> 00:01:22,874
+Uh, but I am so happy
+to be with y'all tonight.
+
+23
+00:01:22,958 --> 00:01:24,793
+And I have to say, honestly,
+
+24
+00:01:24,876 --> 00:01:29,381
+the older I get, the more I realize
+that time is the big, precious,
+
+25
+00:01:29,631 --> 00:01:31,508
+unrenewable resource.
+
+26
+00:01:31,800 --> 00:01:33,218
+Um, yes or no?
+
+27
+00:01:33,302 --> 00:01:34,803
+-[audience applauds]
+-Yeah.
+
+28
+00:01:36,722 --> 00:01:39,433
+So, thank you
+for spending it with me tonight.
+
+29
+00:01:39,516 --> 00:01:41,018
+I really appreciate<i> </i>it.
+
+30
+00:01:41,101 --> 00:01:42,811
+I think we're gonna have some fun,
+
+31
+00:01:42,894 --> 00:01:45,689
+talk about some hard stuff,
+laugh a little bit,
+
+32
+00:01:45,772 --> 00:01:48,150
+and hopefully learn something
+from each other.
+
+33
+00:01:48,233 --> 00:01:50,319
+I'm always laughing
+when I'm listening to the bio.
+
+34
+00:01:50,402 --> 00:01:51,987
+That, you know, "She studies shame,
+
+35
+00:01:52,070 --> 00:01:53,780
+empathy, courage, and vulnerability."
+
+36
+00:01:53,864 --> 00:01:57,618
+You have no idea how handy
+that comes in my life. So...
+
+37
+00:01:57,701 --> 00:01:59,870
+Really, not just in my work,
+but in my life
+
+38
+00:01:59,953 --> 00:02:01,955
+because how many of you know...
+
+39
+00:02:02,456 --> 00:02:05,834
+I recognize some of y'all,
+so I know you know me,
+
+40
+00:02:05,917 --> 00:02:08,629
+but how many of you know
+that I'm super introverted?
+
+41
+00:02:09,004 --> 00:02:10,714
+-[woman whoops]
+-Like, yeah.
+
+42
+00:02:11,256 --> 00:02:14,426
+-Where are all the introverts? Like...
+-[audience members whoop]
+
+43
+00:02:15,677 --> 00:02:19,014
+It's super handy when I'm traveling
+because I'll be sitting next to someone,
+
+44
+00:02:19,097 --> 00:02:21,516
+and sometimes I'm in the mood to chat,
+and sometimes I'm not.
+
+45
+00:02:21,600 --> 00:02:23,644
+So they'll say, "So, what do you do?"
+
+46
+00:02:23,727 --> 00:02:25,604
+And if I'm not in the mood to chat,
+I'll be like,
+
+47
+00:02:25,687 --> 00:02:27,898
+-"I study shame. What do you do?"
+-[audience laughs]
+
+48
+00:02:27,981 --> 00:02:30,484
+[Brené] And they're just--
+They're just like...
+
+49
+00:02:30,567 --> 00:02:33,362
+-[imitates window whirring]
+-[audience laughs]
+
+50
+00:02:33,445 --> 00:02:34,363
+Um...
+
+51
+00:02:34,446 --> 00:02:37,032
+And then recently, it was really funny,
+'cause I was like,
+
+52
+00:02:37,115 --> 00:02:40,035
+"Oh, I study courage and vulnerability,"
+and the guy was like,
+
+53
+00:02:40,118 --> 00:02:42,913
+"Oh, opposite ends
+
+54
+00:02:42,996 --> 00:02:44,247
+of the spectrum."
+
+55
+00:02:44,331 --> 00:02:46,333
+[audience laughs]
+
+56
+00:02:46,917 --> 00:02:51,004
+And there's that minute where you're like,
+"Do I engage or do I not engage?"
+
+57
+00:02:52,255 --> 00:02:54,383
+I was like, "No, actually,
+they're the same.
+
+58
+00:02:54,466 --> 00:02:55,842
+You know, courage-- You can't really--
+
+59
+00:02:55,926 --> 00:02:58,011
+You can't really be brave
+without vulnerability."
+
+60
+00:02:58,095 --> 00:03:01,056
+And he's like, "Ha! Yeah.
+No, the opposite ends."
+
+61
+00:03:01,139 --> 00:03:02,224
+[audience laughs]
+
+62
+00:03:03,475 --> 00:03:07,646
+Now, I can understand why it's complicated
+for some people to get that.
+
+63
+00:03:08,063 --> 00:03:11,608
+It took me 20 years of trying to disprove
+that I had to be vulnerable,
+
+64
+00:03:11,692 --> 00:03:13,360
+um, to be brave,
+
+65
+00:03:13,443 --> 00:03:15,112
+but I really--
+
+66
+00:03:15,195 --> 00:03:16,780
+This came to life for me
+
+67
+00:03:16,863 --> 00:03:19,950
+when we started looking
+at covers for <i>Daring Greatly,</i>
+
+68
+00:03:20,033 --> 00:03:23,662
+which was the first book where I wrote
+about courage and vulnerability, right?
+
+69
+00:03:23,745 --> 00:03:25,539
+So I say to them,
+
+70
+00:03:25,956 --> 00:03:29,126
+"Let's make sure
+we really capture the spirit...
+
+71
+00:03:29,793 --> 00:03:31,461
+of vulnerability and courage,
+
+72
+00:03:31,545 --> 00:03:34,047
+that we really have to put ourselves
+out there."
+
+73
+00:03:34,131 --> 00:03:35,882
+And they're like, "We've got it.
+
+74
+00:03:35,966 --> 00:03:37,968
+Do you need to see the cover?"
+
+75
+00:03:38,468 --> 00:03:41,054
+And I was like, "Uh, yeah.
+I need to see the cover."
+
+76
+00:03:41,388 --> 00:03:43,390
+So they sent me the cover.
+
+77
+00:03:45,976 --> 00:03:48,311
+[audience laughs]
+
+78
+00:03:54,192 --> 00:03:56,987
+I've named that piece
+"White Guy on a Wire."
+
+79
+00:03:57,070 --> 00:04:00,198
+[audience laughs]
+
+80
+00:04:00,282 --> 00:04:01,408
+[laughing] I was like,
+
+81
+00:04:01,908 --> 00:04:03,744
+"I would never buy that book."
+
+82
+00:04:03,827 --> 00:04:04,786
+[audience laughs]
+
+83
+00:04:07,080 --> 00:04:08,582
+Had I known what was coming next,
+
+84
+00:04:08,665 --> 00:04:10,876
+this would have been the cover
+of <i>Daring Greatly,</i>
+
+85
+00:04:10,959 --> 00:04:12,878
+I guarantee it, because...
+
+86
+00:04:14,087 --> 00:04:15,922
+I go back and I'm like,
+"That's not gonna work.
+
+87
+00:04:16,006 --> 00:04:18,675
+I don't want a white dude
+on the front of the book, period."
+
+88
+00:04:19,092 --> 00:04:22,179
+Uh, especially with,
+like, a 1980s briefcase.
+
+89
+00:04:23,555 --> 00:04:26,808
+[laughing] Uh... And so then,
+I get an email that says...
+
+90
+00:04:29,060 --> 00:04:31,688
+"This is it. We all love it."
+
+91
+00:04:32,564 --> 00:04:34,483
+And I'm like, "Oh, man. Dude.
+
+92
+00:04:34,900 --> 00:04:36,818
+Don't use your invisible army with me.
+
+93
+00:04:36,902 --> 00:04:38,111
+Like, I'm a shame researcher.
+
+94
+00:04:38,195 --> 00:04:42,866
+Like, you can't do
+the "we all love it" thing with me.
+
+95
+00:04:42,949 --> 00:04:45,952
+Like, I will drill you down
+till you are crying.
+
+96
+00:04:47,162 --> 00:04:48,622
+And, who is the "we"?
+
+97
+00:04:48,705 --> 00:04:52,459
+Unless you've got a mouse in your pocket,
+that is chickenshit, like...
+
+98
+00:04:52,876 --> 00:04:55,378
+No "we." Just like, <i>"I </i>love it."
+
+99
+00:04:56,004 --> 00:04:58,089
+So I'm looking at it like,
+"Oh, God. <i>We </i>all love it.
+
+100
+00:04:58,173 --> 00:05:00,509
+<i>We</i> all think this is it.
+<i>We're </i>all excited.
+
+101
+00:05:00,592 --> 00:05:02,469
+<i>We're</i> all behind it."
+
+102
+00:05:02,552 --> 00:05:04,554
+So you know, right?<i> </i>[scoffs]
+
+103
+00:05:05,430 --> 00:05:06,473
+I'm gonna test...
+
+104
+00:05:07,057 --> 00:05:08,892
+your empathic powers here.
+
+105
+00:05:08,975 --> 00:05:10,310
+[audience chuckles]
+
+106
+00:05:10,393 --> 00:05:12,771
+If you're really highly empathic,
+
+107
+00:05:12,854 --> 00:05:14,064
+there'll be no laughter.
+
+108
+00:05:17,067 --> 00:05:18,985
+[audience laughs]
+
+109
+00:05:21,279 --> 00:05:23,031
+I was like, "What?"
+
+110
+00:05:26,117 --> 00:05:27,661
+I-- Okay, so here's the thing.
+
+111
+00:05:27,744 --> 00:05:31,623
+Like every woman born in this country,
+
+112
+00:05:32,290 --> 00:05:34,793
+I've had to do my share
+of body image work.
+
+113
+00:05:34,876 --> 00:05:35,961
+[audience laughs]
+
+114
+00:05:37,045 --> 00:05:38,255
+[Brené] And I have.
+
+115
+00:05:38,463 --> 00:05:41,383
+To the point where I am dangerous,
+I like myself so much.
+
+116
+00:05:41,466 --> 00:05:44,845
+Like, I-- I'm good with everything.
+Right? Yeah.
+
+117
+00:05:44,928 --> 00:05:47,055
+-[audience cheers]
+-[Brené] Pretty good.
+
+118
+00:05:48,932 --> 00:05:49,808
+Okay.
+
+119
+00:05:52,310 --> 00:05:53,436
+But the chance...
+
+120
+00:05:54,187 --> 00:05:57,190
+of my name being under an elephant ass
+
+121
+00:05:57,274 --> 00:05:59,651
+on the front of a book is zero.
+
+122
+00:05:59,943 --> 00:06:03,321
+That-- Zero. There is zero opportunity
+for that to happen.
+
+123
+00:06:04,322 --> 00:06:06,241
+So it seems, like, crazy, right?
+
+124
+00:06:06,324 --> 00:06:08,827
+You're like, "These are early concepts,
+and people are trying to--"
+
+125
+00:06:08,910 --> 00:06:09,828
+But let me show you.
+
+126
+00:06:09,911 --> 00:06:12,372
+This book has been translated
+into, like, 32 languages.
+
+127
+00:06:12,455 --> 00:06:14,374
+Let me show you
+some of the actual covers
+
+128
+00:06:14,457 --> 00:06:15,959
+of how people have conceptualized
+
+129
+00:06:16,042 --> 00:06:18,086
+the relationship between courage
+and vulnerability.
+
+130
+00:06:20,630 --> 00:06:23,133
+This is the Korean.
+This is the real, actual--
+
+131
+00:06:23,216 --> 00:06:24,718
+The funniest thing about this
+
+132
+00:06:24,801 --> 00:06:27,804
+is it was on my-- my kitchen table
+in my house
+
+133
+00:06:27,888 --> 00:06:30,432
+when my daughter and her friends
+got home from high school one day,
+
+134
+00:06:30,515 --> 00:06:31,725
+and her friend was like,
+
+135
+00:06:32,392 --> 00:06:35,145
+"Oh, my God.
+Does your mom know Johnny Depp?"
+
+136
+00:06:35,228 --> 00:06:36,396
+[audience laughs]
+
+137
+00:06:36,771 --> 00:06:38,273
+[Brené] Which I do not.
+
+138
+00:06:39,024 --> 00:06:40,025
+Okay.
+
+139
+00:06:40,108 --> 00:06:44,112
+I totally love the Swedes, I really do.
+Like, I just love them.
+
+140
+00:06:44,613 --> 00:06:47,449
+But they got the saddest cover
+in the whole world.
+
+141
+00:06:47,532 --> 00:06:48,658
+[audience] Aw!
+
+142
+00:06:48,742 --> 00:06:49,576
+[Brené] Okay.
+
+143
+00:06:51,077 --> 00:06:53,914
+Why did you do that involuntarily?
+
+144
+00:06:53,997 --> 00:06:58,084
+Because this is a sign, internationally,
+for, like, abuse and neglect.
+
+145
+00:06:58,168 --> 00:06:59,920
+[audience laughs]
+
+146
+00:07:00,003 --> 00:07:02,631
+[Brené] And then... [chuckling]
+
+147
+00:07:03,214 --> 00:07:05,926
+...we have the cover
+
+148
+00:07:06,009 --> 00:07:08,720
+that completely jacked
+with my kayaking game
+
+149
+00:07:08,803 --> 00:07:10,305
+because I love to kayak.
+
+150
+00:07:10,388 --> 00:07:11,932
+I'm a water person, right?
+
+151
+00:07:12,015 --> 00:07:14,351
+So when I saw this Lithuanian cover,
+
+152
+00:07:14,434 --> 00:07:17,020
+I couldn't get in a kayak for six months.
+
+153
+00:07:17,520 --> 00:07:19,230
+[audience laughs]
+
+154
+00:07:21,566 --> 00:07:23,068
+Yeah. Yeah.
+
+155
+00:07:23,526 --> 00:07:26,947
+This is not what I had in mind,
+but this is what people think. Okay.
+
+156
+00:07:27,739 --> 00:07:30,450
+Here's where <i>Daring Greatly</i>
+actually comes from.
+
+157
+00:07:31,576 --> 00:07:32,661
+Teddy Roosevelt.
+
+158
+00:07:33,620 --> 00:07:35,080
+So the day the book came out,
+
+159
+00:07:35,163 --> 00:07:38,249
+my husband put pictures
+of Teddy Roosevelt all over our house
+
+160
+00:07:38,333 --> 00:07:39,209
+because the epigraph,
+
+161
+00:07:39,292 --> 00:07:41,670
+the quote that kind of is the spine
+of <i>Daring Greatly,</i>
+
+162
+00:07:41,753 --> 00:07:43,213
+comes from Teddy Roosevelt.
+
+163
+00:07:43,296 --> 00:07:44,422
+So I woke up in the morning.
+
+164
+00:07:44,506 --> 00:07:47,175
+I was like, "Oh, my God. That's so sweet."
+And my kids were like...
+
+165
+00:07:47,676 --> 00:07:50,387
+-"Is that Opa? Is that Grandpa?" Um...
+-[audience laughs]
+
+166
+00:07:52,722 --> 00:07:53,932
+So here's the story.
+
+167
+00:07:54,015 --> 00:07:55,767
+How many of you have seen the TED Talk
+on vulnerability?
+
+168
+00:07:56,226 --> 00:07:57,852
+-[audience cheers]
+-[Brené] Okay.
+
+169
+00:08:00,939 --> 00:08:02,065
+I wish I could take credit.
+
+170
+00:08:02,148 --> 00:08:04,150
+It was me.
+It's not that I can't take credit for it,
+
+171
+00:08:04,234 --> 00:08:06,152
+but it was a complete accident.
+
+172
+00:08:06,236 --> 00:08:07,487
+So here's what happened.
+
+173
+00:08:08,780 --> 00:08:10,907
+The curators of TEDx Houston--
+
+174
+00:08:10,991 --> 00:08:13,159
+this is the first people
+to get the license in Houston--
+
+175
+00:08:13,243 --> 00:08:15,537
+call and say,
+"Hey, we got the TEDx license.
+
+176
+00:08:15,620 --> 00:08:18,164
+Would you like to open up TEDx Houston?"
+
+177
+00:08:18,248 --> 00:08:21,710
+And I was like, "Yes!
+My God, yes. Thank you!
+
+178
+00:08:21,793 --> 00:08:23,503
+What do you want me to talk about?"
+
+179
+00:08:23,586 --> 00:08:25,588
+'Cause normally,
+when you spend your career
+
+180
+00:08:25,672 --> 00:08:28,425
+talking about things like shame
+and fear, and scarcity,
+
+181
+00:08:28,508 --> 00:08:29,634
+people get super prescriptive
+
+182
+00:08:29,718 --> 00:08:32,303
+about what they want you to say
+and what they don't want you to say.
+
+183
+00:08:32,721 --> 00:08:34,973
+And this guy was like, "You know what?
+
+184
+00:08:35,056 --> 00:08:38,018
+Whatever you want.
+You have fun. Just crush it.
+
+185
+00:08:38,101 --> 00:08:40,228
+Just have fun and just--
+Whatever you want."
+
+186
+00:08:40,311 --> 00:08:42,522
+-I was like...
+-[audience laughs]
+
+187
+00:08:42,605 --> 00:08:46,067
+"All right. I'll crush it, dude.
+I'll do that. Okay."
+
+188
+00:08:46,818 --> 00:08:50,030
+So I'm on a flight
+the day before TEDx Houston,
+
+189
+00:08:50,113 --> 00:08:52,782
+coming home from Maui,
+where I had spent
+
+190
+00:08:53,408 --> 00:08:56,786
+four days with CEOs from Silicon Valley
+
+191
+00:08:56,870 --> 00:08:58,955
+talking about the importance
+of vulnerability.
+
+192
+00:08:59,039 --> 00:09:01,750
+Talking about courage
+and putting yourself out there.
+
+193
+00:09:01,833 --> 00:09:03,960
+And I turned to Steve,
+my husband, on the flight.
+
+194
+00:09:04,044 --> 00:09:06,212
+My kids are passed out. They went with us.
+
+195
+00:09:06,588 --> 00:09:10,925
+And I said, "I'm not going to do
+my normal talk tomorrow at TEDx Houston."
+
+196
+00:09:11,009 --> 00:09:12,135
+And he's like, "What?"
+
+197
+00:09:12,218 --> 00:09:14,054
+And I said, "I'm not gonna do
+my normal talk
+
+198
+00:09:14,137 --> 00:09:16,639
+on variables
+mitigating self-conscious affect."
+
+199
+00:09:17,557 --> 00:09:19,100
+And he's like, "Why not?"
+
+200
+00:09:19,184 --> 00:09:21,936
+And I said, "I'm gonna be vulnerable
+and talk about vulnerability.
+
+201
+00:09:22,020 --> 00:09:24,522
+I'm<i> </i>just gonna put my whole self
+out there." And he's like,
+
+202
+00:09:24,856 --> 00:09:26,441
+"Why? Why would you do that?"
+
+203
+00:09:26,524 --> 00:09:28,276
+[audience laughs]
+
+204
+00:09:28,359 --> 00:09:30,070
+Which I think was a legitimate question.
+
+205
+00:09:30,153 --> 00:09:32,655
+And I said, "Because I just spent
+four days with these people
+
+206
+00:09:32,739 --> 00:09:35,450
+trying to convince them to be vulnerable
+and put themselves out there,
+
+207
+00:09:35,533 --> 00:09:38,995
+and then I'm gonna walk on the stage
+in my academic armor, you know, like,
+
+208
+00:09:39,079 --> 00:09:42,540
+'This is the variable that, you know.'
+Um, because that's my training."
+
+209
+00:09:43,208 --> 00:09:45,376
+And so, I was like, 
+"I'm not gonna do that.
+
+210
+00:09:45,460 --> 00:09:46,711
+I'm gonna just be vulnerable."
+
+211
+00:09:46,795 --> 00:09:49,464
+So I got up there and,
+as many of you know, I was vulnerable.
+
+212
+00:09:49,547 --> 00:09:52,342
+I talked about how I'm scared
+of vulnerability, how I hate it,
+
+213
+00:09:52,425 --> 00:09:54,636
+how when it emerged from my data
+
+214
+00:09:54,719 --> 00:09:57,680
+as the key
+to wholehearted living and loving,
+
+215
+00:09:57,764 --> 00:09:59,516
+I totally had a breakdown.
+
+216
+00:09:59,599 --> 00:10:02,393
+I went to a therapist
+with an Excel spreadsheet
+
+217
+00:10:02,477 --> 00:10:04,604
+and said, "Here's what I need to work on.
+
+218
+00:10:05,480 --> 00:10:09,067
+I have six weeks."
+It took, like, eight years. Uh...
+
+219
+00:10:09,150 --> 00:10:10,735
+[audience laughs]
+
+220
+00:10:10,819 --> 00:10:12,153
+You know, and I did that.
+
+221
+00:10:12,237 --> 00:10:14,989
+And so when I drove home
+after giving the talk,
+
+222
+00:10:15,573 --> 00:10:16,866
+I just remember thinking,
+
+223
+00:10:16,950 --> 00:10:19,160
+"That was the worst 20 minutes
+of my life."
+
+224
+00:10:19,244 --> 00:10:21,412
+Like,
+I had the worst vulnerability hangover
+
+225
+00:10:21,496 --> 00:10:22,330
+that you can imagine.
+
+226
+00:10:22,413 --> 00:10:26,042
+I thought,
+"Thank God it was just 500 people
+
+227
+00:10:26,417 --> 00:10:28,253
+at the University of Houston,
+where I've taught.
+
+228
+00:10:28,336 --> 00:10:30,171
+I know a hundred of them.
+
+229
+00:10:30,505 --> 00:10:32,298
+Um, thank God that's over.
+
+230
+00:10:32,549 --> 00:10:35,802
+I'm going back to the variables
+mitigating self-conscious affect.
+
+231
+00:10:35,885 --> 00:10:38,638
+That other's bullshit."
+Like, "I'm not doing it."
+
+232
+00:10:39,556 --> 00:10:42,100
+So then I find out it's on YouTube,
+
+233
+00:10:42,183 --> 00:10:44,769
+and I'm thinking,
+"Did I sign a clearance for that?"
+
+234
+00:10:44,853 --> 00:10:47,313
+Like, I'm like--
+I'm trying to get out of it.
+
+235
+00:10:47,397 --> 00:10:49,274
+Then they put it on the big TED,
+
+236
+00:10:49,357 --> 00:10:51,359
+and I go to my husband. I'm, like, crying,
+
+237
+00:10:51,442 --> 00:10:53,736
+"We gotta stop this. What's happening?"
+And he goes,
+
+238
+00:10:53,820 --> 00:10:56,948
+"What are people gonna google?
+'Brené Brown, vulnerability'?"
+
+239
+00:10:57,031 --> 00:11:00,285
+[audience laughs, cheers]
+
+240
+00:11:02,078 --> 00:11:03,079
+[Brené] Yeah.
+
+241
+00:11:04,789 --> 00:11:07,584
+And, of course,
+I'm just embarrassed at that point
+
+242
+00:11:07,667 --> 00:11:09,961
+that I would be like,
+"They're gonna find me!" [whines]
+
+243
+00:11:10,044 --> 00:11:11,921
+I was like, "You're right.
+No one's<i> </i>gonna watch."
+
+244
+00:11:12,255 --> 00:11:16,384
+So I watch it, and it's like,
+three people, four people,
+
+245
+00:11:16,467 --> 00:11:18,469
+five million, six million...
+
+246
+00:11:18,553 --> 00:11:20,430
+-[man whoops]
+-[Brené] And there's this day--
+
+247
+00:11:20,513 --> 00:11:23,141
+Like, yeah.
+You're like, "Whoo!" And I'm like, "Shit!"
+
+248
+00:11:23,224 --> 00:11:25,351
+-[audience laughs]
+-Um, that's the difference.
+
+249
+00:11:25,435 --> 00:11:26,352
+And so, I'm like...
+
+250
+00:11:28,021 --> 00:11:29,480
+"What is happening?"
+
+251
+00:11:29,564 --> 00:11:32,150
+And so, one day, every news outlet, like,
+
+252
+00:11:32,233 --> 00:11:34,611
+in the world was covering this story.
+Like,
+
+253
+00:11:34,694 --> 00:11:38,323
+"Who is Bernie Brown,
+and why is vulnerability important?"
+
+254
+00:11:38,948 --> 00:11:40,825
+So I'm like, "Oh, my God."
+
+255
+00:11:41,618 --> 00:11:43,161
+So, Steve-- My kids are at school.
+
+256
+00:11:43,244 --> 00:11:45,830
+Steve leaves for work,
+and he's like, "Hey, listen.
+
+257
+00:11:46,664 --> 00:11:48,833
+Don't get online.
+Don't read the comments."
+
+258
+00:11:49,584 --> 00:11:50,418
+And I'm like,
+
+259
+00:11:50,960 --> 00:11:54,339
+"I've done a lot of my own work.
+I'm not gonna be reading the comments."
+
+260
+00:11:54,422 --> 00:11:58,218
+And I'm, like, waiting for him
+to back out of the driveway,
+
+261
+00:11:59,302 --> 00:12:00,678
+and then I'm like...
+
+262
+00:12:02,222 --> 00:12:03,514
+Oh, my God.
+
+263
+00:12:04,057 --> 00:12:07,018
+You can study shame,
+yet you are never prepared
+
+264
+00:12:07,435 --> 00:12:09,812
+for... the...
+
+265
+00:12:10,230 --> 00:12:11,731
+terrible stuff online. Right?
+
+266
+00:12:11,814 --> 00:12:14,150
+It's the cesspool of humanity
+on these things.
+
+267
+00:12:14,692 --> 00:12:16,444
+So I start reading the comments,
+
+268
+00:12:16,819 --> 00:12:19,197
+and the best way to describe shame,
+to me,
+
+269
+00:12:19,280 --> 00:12:21,532
+is shame is this--
+the feeling that you would get
+
+270
+00:12:21,616 --> 00:12:24,827
+if you walked out of a room
+that was filled with people who know you,
+
+271
+00:12:24,911 --> 00:12:27,497
+and they start saying
+such hurtful things about you
+
+272
+00:12:27,580 --> 00:12:29,582
+that<i> </i>you don't know
+that you<i> </i>could ever walk back in
+
+273
+00:12:29,666 --> 00:12:31,626
+-and face them again in your life.
+-[woman] Wow.
+
+274
+00:12:32,043 --> 00:12:33,002
+That's what shame is.
+
+275
+00:12:33,086 --> 00:12:33,920
+And for me,
+
+276
+00:12:34,420 --> 00:12:36,506
+the fear of shame,
+
+277
+00:12:36,589 --> 00:12:40,510
+the fear of criticism was so great
+in my life up until that point--
+
+278
+00:12:40,593 --> 00:12:42,220
+I mean, just paralyzing--
+
+279
+00:12:42,303 --> 00:12:44,597
+that I engineered smallness in my life.
+
+280
+00:12:44,681 --> 00:12:47,517
+I did not take chances.
+I did not put myself out there.
+
+281
+00:12:47,600 --> 00:12:49,811
+I mean, I just didn't.
+If I was gonna write an op-ed,
+
+282
+00:12:49,894 --> 00:12:51,854
+I sent it to the <i>Chronicle,</i>
+not the <i>New York Times.</i>
+
+283
+00:12:51,938 --> 00:12:54,107
+Like, I didn't-- It wasn't worth it to me
+
+284
+00:12:54,190 --> 00:12:56,734
+to step into my power and play big
+
+285
+00:12:57,068 --> 00:12:58,403
+because I didn't know
+
+286
+00:12:58,486 --> 00:13:01,531
+if I could literally,
+physically withstand the criticism.
+
+287
+00:13:02,282 --> 00:13:04,200
+And so, I pull up these comments,
+
+288
+00:13:04,284 --> 00:13:08,413
+and there is everything I have feared
+my entire life.
+
+289
+00:13:08,496 --> 00:13:11,749
+First comment says,
+"Less research, more Botox."
+
+290
+00:13:11,833 --> 00:13:14,419
+The next comment says,
+"Of course she embraces imperfection.
+
+291
+00:13:14,502 --> 00:13:16,546
+What choice would you have
+if you look like her?"
+
+292
+00:13:16,629 --> 00:13:18,214
+The next comment says,
+
+293
+00:13:18,298 --> 00:13:21,718
+"She should wait and talk about worthiness
+when she loses 15 pounds."
+
+294
+00:13:21,801 --> 00:13:23,803
+"I feel sorry for her husband
+and her children."
+
+295
+00:13:23,886 --> 00:13:26,889
+"I hope someone kills her."
+"She's what's wrong with the world today."
+
+296
+00:13:26,973 --> 00:13:29,017
+And I was vacillating between...
+
+297
+00:13:30,685 --> 00:13:31,519
+like...
+
+298
+00:13:32,186 --> 00:13:35,398
+"God, just let me die right now.
+Just suck me up, Earth,"
+
+299
+00:13:35,481 --> 00:13:37,984
+and "I am prepared for this.
+
+300
+00:13:38,067 --> 00:13:40,903
+I have three degrees in social work.
+I am prepared for this crisis."
+
+301
+00:13:40,987 --> 00:13:43,489
+-Like, "I am trained for this moment."
+-[audience cheers, laughs]
+
+302
+00:13:45,241 --> 00:13:46,909
+And finally, I was just like,
+"I am trained for this moment.
+
+303
+00:13:46,993 --> 00:13:48,494
+I am trained for this moment.
+
+304
+00:13:48,578 --> 00:13:51,706
+You're in a shame storm.
+You're in a shame shitstorm.
+
+305
+00:13:51,789 --> 00:13:53,416
+You're trained for this moment."
+
+306
+00:13:54,917 --> 00:13:57,378
+And then I was like,
+"Okay, you know what to do.
+
+307
+00:13:57,462 --> 00:13:59,922
+-Peanut butter and <i>Downton Abbey."</i>
+-[audience laughs]
+
+308
+00:14:01,007 --> 00:14:03,301
+-[Brené] Yeah!
+-[all cheer]
+
+309
+00:14:03,926 --> 00:14:06,804
+So I get my "serving size"
+of peanut butter. Arbitrary.
+
+310
+00:14:06,888 --> 00:14:08,890
+[audience laughs]
+
+311
+00:14:10,224 --> 00:14:12,268
+It just says how much you can fit
+on the spoon
+
+312
+00:14:12,352 --> 00:14:15,229
+and nothing about the size of the spoon.
+Like...
+
+313
+00:14:15,688 --> 00:14:16,606
+And so...
+
+314
+00:14:17,106 --> 00:14:19,859
+And I turn on <i>Downton Abbey.</i>
+It's<i> </i>like a hundred degrees in Houston,
+
+315
+00:14:19,942 --> 00:14:22,111
+and I have the thermostat on, like, 58,
+
+316
+00:14:22,195 --> 00:14:26,824
+and I've got on Uggs and a hoodie
+and Woobies and I'm, like, sad,
+
+317
+00:14:26,908 --> 00:14:30,036
+and I'm watching<i> Downton Abbey.</i>
+For seven hours I watch it, just...
+
+318
+00:14:31,454 --> 00:14:33,498
+How many of you have ever numbed
+with TV or a movie?
+
+319
+00:14:33,581 --> 00:14:35,124
+-[scattered applause]
+-[Brené] Yeah.
+
+320
+00:14:35,375 --> 00:14:37,627
+-You're my people. Um...
+-[audience laughs]
+
+321
+00:14:38,086 --> 00:14:40,213
+But how many of you have ever done this?
+It's a lot of you,
+
+322
+00:14:40,296 --> 00:14:42,924
+but fewer of you will confess
+because it seems crazy.
+
+323
+00:14:43,424 --> 00:14:46,344
+When it's over and you don't want
+to go back to the real world,
+
+324
+00:14:46,427 --> 00:14:49,597
+like, you get out your laptop
+and then you start googling, like,
+
+325
+00:14:49,972 --> 00:14:52,266
+"Where is the abbey?"
+"Who plays this person?"
+
+326
+00:14:52,350 --> 00:14:56,187
+-Like, yes or no? Yes or no?
+-[audience laughs and applauds]
+
+327
+00:14:56,270 --> 00:14:58,481
+Yes, I know.<i> </i>Don't lie.
+
+328
+00:14:58,898 --> 00:15:01,776
+"Do you fly into Heathrow?
+How much does it cost?" Like...
+
+329
+00:15:02,777 --> 00:15:04,153
+And so then, I'm like,
+
+330
+00:15:04,237 --> 00:15:06,739
+"Yeah, who was president
+of the United States
+
+331
+00:15:07,073 --> 00:15:09,242
+during this <i>Downton Abbey</i> thing?"
+
+332
+00:15:09,325 --> 00:15:12,370
+And so I was like,
+"Theodore Roosevelt, 1910."
+
+333
+00:15:12,745 --> 00:15:14,497
+Then I had a total God moment.
+
+334
+00:15:14,580 --> 00:15:17,959
+There is no other way.
+This was God, like, descending
+
+335
+00:15:18,251 --> 00:15:20,545
+in my living room in full regalia.
+
+336
+00:15:21,129 --> 00:15:21,963
+I pull it up.
+
+337
+00:15:22,046 --> 00:15:25,633
+The first thing on Google is a speech
+that Theodore Roosevelt gave in 1910.
+
+338
+00:15:25,716 --> 00:15:28,469
+And I start reading it
+because, again, I'm doing anything I can
+
+339
+00:15:28,553 --> 00:15:32,014
+to not go back to Houston, Texas,
+and my life with the haters.
+
+340
+00:15:32,890 --> 00:15:35,309
+So I start reading it, and it says,
+
+341
+00:15:35,393 --> 00:15:37,228
+"It's not the critic who counts.
+
+342
+00:15:37,311 --> 00:15:40,022
+It's not the man who points out
+how the strong man stumbles
+
+343
+00:15:40,106 --> 00:15:42,942
+or where the doer of deeds
+could have done it different.
+
+344
+00:15:43,693 --> 00:15:46,779
+The credit belongs to the person
+who's actually in the arena,
+
+345
+00:15:46,863 --> 00:15:49,907
+whose face is marred
+with dust and sweat and blood,
+
+346
+00:15:49,991 --> 00:15:51,742
+who strives valiantly,
+
+347
+00:15:51,826 --> 00:15:52,785
+who errs,
+
+348
+00:15:52,869 --> 00:15:55,705
+who comes up short
+again and again and again,
+
+349
+00:15:55,788 --> 00:15:57,457
+and who, in the end,
+
+350
+00:15:57,540 --> 00:16:00,042
+while he may know the triumph
+of high achievement,
+
+351
+00:16:00,501 --> 00:16:03,629
+at least when he fails,
+he does so daring greatly."
+
+352
+00:16:04,672 --> 00:16:06,507
+[audience cheers]
+
+353
+00:16:10,303 --> 00:16:13,890
+There is my life before that quote
+and my life after that quote,
+
+354
+00:16:13,973 --> 00:16:15,933
+like, in really one minute.
+
+355
+00:16:16,017 --> 00:16:18,269
+And three things became very clear to me
+
+356
+00:16:18,352 --> 00:16:20,396
+that were really life altering.
+
+357
+00:16:20,480 --> 00:16:23,024
+One, I'm gonna live in the arena.
+
+358
+00:16:23,107 --> 00:16:25,943
+I'm gonna be brave with my life.
+I'm gonna show up.
+
+359
+00:16:26,027 --> 00:16:27,570
+I'm gonna take chances.
+
+360
+00:16:27,653 --> 00:16:29,572
+And here's a thing I can tell you:
+
+361
+00:16:29,655 --> 00:16:34,035
+20 years of doing this research,
+we just crossed 400,000 pieces of data.
+
+362
+00:16:34,118 --> 00:16:36,829
+Here's what I can tell you for sure:
+If you're brave with your life,
+
+363
+00:16:36,913 --> 00:16:39,874
+you choose to live in the arena,
+you're going to get your ass kicked.
+
+364
+00:16:39,957 --> 00:16:41,125
+[audience chuckles]
+
+365
+00:16:41,209 --> 00:16:43,377
+You are going to fall.
+You are going to fail.
+
+366
+00:16:43,461 --> 00:16:45,213
+You are going to know heartbreak.
+
+367
+00:16:47,256 --> 00:16:50,301
+It's a choice.
+It's a choice that I make every day.
+
+368
+00:16:50,384 --> 00:16:53,137
+These are the words I say
+before my feet hit the floor every day.
+
+369
+00:16:53,221 --> 00:16:55,848
+"Today I'll choose courage over comfort.
+
+370
+00:16:56,849 --> 00:17:00,561
+I can't make commitments for tomorrow,
+but today I'm gonna choose to be brave,
+
+371
+00:17:00,645 --> 00:17:01,771
+and I know what that means."
+
+372
+00:17:01,854 --> 00:17:03,773
+And it's so funny
+because I do all of this work
+
+373
+00:17:03,856 --> 00:17:07,527
+with leaders and in organizations today,
+and they'll always say to me,
+
+374
+00:17:07,610 --> 00:17:11,656
+"I hear you, and I'm gonna be brave,
+and I'm willing to risk failing."
+
+375
+00:17:11,739 --> 00:17:15,117
+And I'm like, "You're-- You don't hear me.
+You're not hearing me."
+
+376
+00:17:15,201 --> 00:17:17,662
+Somewhere between what I'm saying
+and what you're hearing,
+
+377
+00:17:17,745 --> 00:17:20,998
+you're-- you're taking out
+the "you're <i>going </i>to fail."
+
+378
+00:17:21,082 --> 00:17:22,583
+Not "you're going to risk failure."
+
+379
+00:17:22,667 --> 00:17:25,628
+"You're going to know failure
+if you're brave with your life."
+
+380
+00:17:26,796 --> 00:17:28,047
+The second thing...
+
+381
+00:17:28,881 --> 00:17:30,216
+that became very clear to me
+
+382
+00:17:30,299 --> 00:17:33,511
+is that quote was everything
+I've learned about vulnerability.
+
+383
+00:17:33,594 --> 00:17:36,514
+Vulnerability's not about winning.
+It's not about losing.
+
+384
+00:17:36,597 --> 00:17:38,516
+It's having the courage to show up
+
+385
+00:17:38,599 --> 00:17:40,977
+when you can't control the outcome.
+
+386
+00:17:41,435 --> 00:17:45,147
+And we have asked thousands of people
+over the last couple of decades,
+
+387
+00:17:45,231 --> 00:17:46,816
+"What is vulnerability to you?"
+
+388
+00:17:47,525 --> 00:17:48,901
+And the answers range from:
+
+389
+00:17:48,985 --> 00:17:52,572
+Vulnerability is the first date
+after my divorce.
+
+390
+00:17:53,197 --> 00:17:55,825
+Trying to get pregnant
+after my second miscarriage.
+
+391
+00:17:55,908 --> 00:17:58,035
+Sitting with my wife
+who has stage four breast cancer
+
+392
+00:17:58,119 --> 00:18:00,079
+making plans for our toddlers.
+
+393
+00:18:00,705 --> 00:18:02,832
+Getting fired. Firing someone.
+
+394
+00:18:02,915 --> 00:18:04,625
+Coming out to my Christian parents.
+
+395
+00:18:05,960 --> 00:18:07,878
+Saying "I love you" first.
+
+396
+00:18:10,172 --> 00:18:12,258
+There's this great story that--
+
+397
+00:18:12,341 --> 00:18:15,595
+It's probably seven
+or eight years ago now. I was in LA,
+
+398
+00:18:15,678 --> 00:18:20,474
+and I was doing a talk
+for a couple of thousand educators,
+
+399
+00:18:20,891 --> 00:18:23,561
+and a young man
+walked up to me afterwards, and he said,
+
+400
+00:18:23,644 --> 00:18:26,063
+"Hey, do you have a minute?
+I want to tell you a story."
+
+401
+00:18:26,147 --> 00:18:27,732
+And I said, "Sure," and he goes,
+
+402
+00:18:27,815 --> 00:18:29,650
+"Your work changed my life."
+
+403
+00:18:30,151 --> 00:18:32,069
+And I said, "Thank you,"
+and he said, "No, really.
+
+404
+00:18:32,153 --> 00:18:35,823
+My parents sent me your TED Talks,
+and they completely changed my life."
+
+405
+00:18:36,115 --> 00:18:38,284
+And I said, "Wow, thank you,"
+and he said, "In fact,
+
+406
+00:18:38,367 --> 00:18:41,287
+they inspired me
+to tell the woman that I'm dating
+
+407
+00:18:41,370 --> 00:18:42,246
+that I love her."
+
+408
+00:18:43,122 --> 00:18:45,750
+And I was like,
+[quietly] "Oh, God. Okay...
+
+409
+00:18:47,793 --> 00:18:49,879
+That's amazing.
+It's so good to meet you."
+
+410
+00:18:49,962 --> 00:18:52,757
+He was like, "No, let me tell you
+what happened." And I was like...
+
+411
+00:18:52,840 --> 00:18:54,592
+-[audience laughs]
+-"Yeah."
+
+412
+00:18:54,675 --> 00:18:56,802
+[audience laughs]
+
+413
+00:18:56,886 --> 00:19:01,265
+And he said, "We went out to dinner,
+and I was gonna wait until dessert,
+
+414
+00:19:01,349 --> 00:19:03,726
+because we get this, like,
+chocolate lava cake.
+
+415
+00:19:03,976 --> 00:19:07,396
+I was gonna tell her when the chocolate
+lava cake came, but I couldn't wait,
+
+416
+00:19:07,480 --> 00:19:09,899
+so I just looked at her
+halfway through dinner and I said,
+
+417
+00:19:10,399 --> 00:19:11,484
+'I love you.'
+
+418
+00:19:12,360 --> 00:19:14,320
+And she looked back at me,
+and she said,
+
+419
+00:19:15,071 --> 00:19:16,489
+'I think you're awesome.
+
+420
+00:19:16,947 --> 00:19:18,574
+[audience groans and chuckles]
+
+421
+00:19:18,991 --> 00:19:20,951
+And I think we should date other people.'
+
+422
+00:19:21,035 --> 00:19:22,703
+[audience groans]
+
+423
+00:19:22,787 --> 00:19:25,289
+And then she left and got a ride home."
+
+424
+00:19:26,624 --> 00:19:29,669
+He said, "So, I just got in my car...
+
+425
+00:19:30,461 --> 00:19:32,254
+and drove home,
+and, just, the whole way home,
+
+426
+00:19:32,338 --> 00:19:33,923
+I just kept saying, over and over,
+
+427
+00:19:34,006 --> 00:19:36,050
+'Fuck Brené Brown.
+Fuck Brené Brown.'"
+
+428
+00:19:36,133 --> 00:19:38,052
+[audience laughs]
+
+429
+00:19:38,886 --> 00:19:40,346
+[Brené] And I was like...
+
+430
+00:19:42,640 --> 00:19:43,641
+I was like,
+
+431
+00:19:44,058 --> 00:19:46,644
+"This is the worst mm-ing story ever!"
+
+432
+00:19:47,436 --> 00:19:49,397
+And he said, "Then I got home,
+
+433
+00:19:49,480 --> 00:19:51,899
+and I just, you know,
+barged into my apartment.
+
+434
+00:19:51,982 --> 00:19:53,651
+Both my roommates
+were sitting on the couch,
+
+435
+00:19:53,734 --> 00:19:55,486
+and they were on their laptops,
+
+436
+00:19:56,612 --> 00:19:58,781
+and they were like,
+'Dude, what's wrong?'" And he's like,
+
+437
+00:19:58,864 --> 00:20:00,074
+"I told her I loved her...
+
+438
+00:20:00,533 --> 00:20:01,992
+and she broke up with me."
+
+439
+00:20:02,076 --> 00:20:04,495
+And his roommate goes, "That was so lame.
+
+440
+00:20:04,578 --> 00:20:06,497
+You can't go after them.
+
+441
+00:20:06,580 --> 00:20:09,417
+When you head toward them, they move away.
+
+442
+00:20:09,500 --> 00:20:12,253
+When you're always moving away,
+they move toward them.
+
+443
+00:20:12,336 --> 00:20:14,338
+This is the way it works."
+
+444
+00:20:14,672 --> 00:20:17,967
+And he was like, "I told them.
+I was like, 'Oh, what? No!
+
+445
+00:20:18,050 --> 00:20:20,636
+Man, that's not who I want to be.
+
+446
+00:20:20,720 --> 00:20:22,054
+I was daring greatly.'"
+
+447
+00:20:22,680 --> 00:20:25,266
+And he said both of them just got
+really misty-eyed and went,
+
+448
+00:20:25,349 --> 00:20:27,852
+-"Right on, man! Right on!"
+-[audience cheers]
+
+449
+00:20:31,731 --> 00:20:33,065
+So number one,
+
+450
+00:20:33,441 --> 00:20:36,986
+if you're gonna be in the arena, join me.
+It's really great.
+
+451
+00:20:37,069 --> 00:20:39,655
+When you're down on the ground,
+blood, sweat, tear--
+
+452
+00:20:39,739 --> 00:20:41,157
+You know, it's an interesting view.
+
+453
+00:20:41,240 --> 00:20:42,867
+You can see other people
+who are brave too.
+
+454
+00:20:43,492 --> 00:20:47,121
+Um, two, vulnerability is not weakness.
+In fact, it's--
+
+455
+00:20:47,204 --> 00:20:49,039
+You know,
+vulnerability is our most accurate way
+
+456
+00:20:49,123 --> 00:20:52,293
+to measure courage,
+and we literally do that as researchers.
+
+457
+00:20:52,376 --> 00:20:56,172
+We can measure how brave you are
+by how vulnerable you're willing to be.
+
+458
+00:20:56,630 --> 00:20:58,299
+The last thing I learned that day
+
+459
+00:20:58,382 --> 00:21:00,384
+in my God moment with Theodore Roosevelt
+
+460
+00:21:01,135 --> 00:21:02,303
+was this:
+
+461
+00:21:02,386 --> 00:21:05,389
+If you are not in the arena
+
+462
+00:21:05,473 --> 00:21:09,518
+getting your ass kicked on occasion
+because you were being brave,
+
+463
+00:21:09,602 --> 00:21:13,814
+I am not interested in
+or open to your feedback about my work.
+
+464
+00:21:13,898 --> 00:21:14,815
+Period.
+
+465
+00:21:14,899 --> 00:21:16,275
+-[audience applauds]
+-[Brené] Just period.
+
+466
+00:21:20,613 --> 00:21:24,742
+And there's a really, really,
+I think, easy...
+
+467
+00:21:25,409 --> 00:21:27,536
+way to think about it, and it's this:
+
+468
+00:21:27,620 --> 00:21:30,539
+There are millions
+of cheap seats in the world today
+
+469
+00:21:31,499 --> 00:21:34,084
+filled with people
+who will never once step foot
+
+470
+00:21:34,168 --> 00:21:35,044
+in that arena.
+
+471
+00:21:35,127 --> 00:21:37,463
+They will never once
+put themselves out there,
+
+472
+00:21:37,546 --> 00:21:39,840
+but they will make it a full-time job
+
+473
+00:21:39,924 --> 00:21:44,720
+to hurl criticism and judgment
+and really hateful things toward us.
+
+474
+00:21:45,304 --> 00:21:49,016
+And we have got to get out of the habit
+of catching them
+
+475
+00:21:49,099 --> 00:21:52,311
+and dissecting and, you know,
+holding them close to our hearts.
+
+476
+00:21:52,394 --> 00:21:54,522
+We've gotta let them drop on the floor.
+
+477
+00:21:54,605 --> 00:21:58,234
+Don't grab that hurtful stuff
+from the cheap seats and pull it close.
+
+478
+00:21:58,317 --> 00:22:00,444
+Don't pull it anywhere near your heart.
+
+479
+00:22:01,111 --> 00:22:04,949
+Just let it fall to the ground.
+You don't have to stomp it or kick it.
+
+480
+00:22:05,032 --> 00:22:07,409
+You just gotta step over it
+and keep going.
+
+481
+00:22:08,369 --> 00:22:11,664
+You can't take criticism and feedback
+
+482
+00:22:11,747 --> 00:22:14,667
+from people who are not being brave
+with their lives.
+
+483
+00:22:16,168 --> 00:22:18,128
+It just will crush you.
+
+484
+00:22:18,921 --> 00:22:21,799
+You know, I've been teaching
+graduate school for 22 years,
+
+485
+00:22:22,007 --> 00:22:23,634
+and here's what's interesting.
+
+486
+00:22:24,844 --> 00:22:29,682
+To kind of deal with this huge,
+
+487
+00:22:30,224 --> 00:22:33,727
+crushing mountain
+of negativity and vitriol everywhere,
+
+488
+00:22:33,811 --> 00:22:35,354
+especially social media,
+
+489
+00:22:35,437 --> 00:22:38,899
+there's this kind of wholesale adoption
+of "I don't give a shit
+
+490
+00:22:38,983 --> 00:22:40,442
+what anyone thinks."
+
+491
+00:22:40,776 --> 00:22:44,280
+How many of you have heard this?
+How many of you have said it?
+
+492
+00:22:44,572 --> 00:22:47,533
+-[audience murmurs]
+-Right. Yes, you do.
+
+493
+00:22:48,117 --> 00:22:50,286
+-[audience chuckles]
+-You totally care.
+
+494
+00:22:50,369 --> 00:22:53,789
+Like, you're neurobiologically hardwired
+to care what people think.
+
+495
+00:22:54,039 --> 00:22:55,708
+You have not hacked that.
+
+496
+00:22:56,000 --> 00:22:57,668
+We care what people think.
+
+497
+00:22:57,751 --> 00:23:00,880
+The deal is
+that you have to be very specific
+
+498
+00:23:00,963 --> 00:23:03,465
+about people whose opinions of you matter.
+
+499
+00:23:03,883 --> 00:23:05,968
+It's not that you don't give a shit
+what anyone thinks.
+
+500
+00:23:06,051 --> 00:23:08,345
+Just don't give a shit
+what <i>some </i>people think.
+
+501
+00:23:08,804 --> 00:23:11,974
+-[audience chuckles]
+-And then really solicit feedback
+
+502
+00:23:12,057 --> 00:23:15,019
+from the people
+that do... give you good feedback.
+
+503
+00:23:15,102 --> 00:23:16,687
+And you know who makes that list?
+
+504
+00:23:17,021 --> 00:23:18,564
+I'll tell you who should make the list.
+
+505
+00:23:18,647 --> 00:23:22,234
+People who love you, not <i>despite</i>
+your imperfection and vulnerability,
+
+506
+00:23:22,318 --> 00:23:25,821
+but <i>because</i> of your imperfection
+and vulnerability. Their feedback matters.
+
+507
+00:23:25,905 --> 00:23:28,616
+Not the "yes" people,
+but the people who say, "Yeah,
+
+508
+00:23:28,991 --> 00:23:30,284
+that kind of sucked,
+
+509
+00:23:30,367 --> 00:23:32,953
+and you were really out of line,
+and you need to clean that shit up,
+
+510
+00:23:33,037 --> 00:23:35,873
+and I'll be here cheering you on,
+but that was not okay."
+
+511
+00:23:39,043 --> 00:23:41,170
+So, for me, this moment,
+
+512
+00:23:41,253 --> 00:23:43,672
+this daring greatly moment
+with Theodore Roosevelt
+
+513
+00:23:43,756 --> 00:23:46,383
+changed everything,
+and it really helped me understand
+
+514
+00:23:47,134 --> 00:23:50,137
+what vulnerability is
+and what it means to be in the arena--
+
+515
+00:23:50,220 --> 00:23:51,639
+to show up and be brave.
+
+516
+00:23:53,140 --> 00:23:54,767
+I want to tell a story
+
+517
+00:23:55,142 --> 00:23:59,980
+that gives some color and context
+to what it means to be vulnerable.
+
+518
+00:24:00,064 --> 00:24:03,317
+So this is Lake Travis in Austin.
+
+519
+00:24:03,609 --> 00:24:06,153
+-[audience whoops]
+-Any Longhorns in the audience? Hook 'em!
+
+520
+00:24:07,863 --> 00:24:09,907
+I knew I liked you
+right from the beginning.
+
+521
+00:24:09,990 --> 00:24:11,575
+-Yes.
+-[laughs]
+
+522
+00:24:11,784 --> 00:24:13,452
+So this is my magic lake. This--
+
+523
+00:24:13,535 --> 00:24:16,205
+I spent every summer of my childhood
+on this lake in Austin.
+
+524
+00:24:16,288 --> 00:24:18,457
+Um, it's where I learned how to, like,
+
+525
+00:24:18,540 --> 00:24:21,293
+do all the things that, you know,
+Texas girls learn how to do.
+
+526
+00:24:21,377 --> 00:24:24,171
+Fish, run a trotline for catfish,
+
+527
+00:24:24,338 --> 00:24:26,799
+um... shoot BB guns, swim.
+
+528
+00:24:26,882 --> 00:24:28,300
+I mean, this was my life.
+
+529
+00:24:28,384 --> 00:24:30,302
+So a couple of years ago,
+Steve and I decide
+
+530
+00:24:30,386 --> 00:24:32,388
+that we're gonna pool our vacation
+for the year
+
+531
+00:24:32,471 --> 00:24:34,848
+and take one long vacation,
+
+532
+00:24:34,932 --> 00:24:37,768
+rent a house on Lake Travis, and go.
+
+533
+00:24:38,185 --> 00:24:40,396
+And I am so excited.
+So, like, two and a half weeks.
+
+534
+00:24:40,479 --> 00:24:43,941
+So we rent this big house,
+we reach out to our families and say,
+
+535
+00:24:44,024 --> 00:24:46,193
+"We've rented this house.
+This is where we're gonna be.
+
+536
+00:24:46,276 --> 00:24:48,612
+If you want to come visit us, do it,
+
+537
+00:24:49,113 --> 00:24:50,239
+but schedule it on your own."
+
+538
+00:24:50,322 --> 00:24:51,824
+'Cause my parents are divorced
+and remarried,
+
+539
+00:24:51,907 --> 00:24:53,325
+his parents are divorced and remarried.
+
+540
+00:24:53,409 --> 00:24:55,995
+It's like NASA-level coordinating
+on stuff like this.
+
+541
+00:24:56,745 --> 00:24:58,163
+So just, "We're gonna be here."
+
+542
+00:24:59,164 --> 00:25:02,835
+So it's great. So we're packing,
+and we always have these--
+
+543
+00:25:02,918 --> 00:25:04,294
+Do y'all have these,
+or are we the only people?
+
+544
+00:25:04,378 --> 00:25:05,629
+Like, we call them the CTJs.
+
+545
+00:25:05,713 --> 00:25:08,757
+The vacation CTJ,
+the vacation come-to-Jesus talk,
+
+546
+00:25:08,841 --> 00:25:09,842
+before we leave.
+
+547
+00:25:09,925 --> 00:25:12,845
+-[audience laughs]
+-Do y'all have these in your lives?
+
+548
+00:25:12,928 --> 00:25:16,348
+Where you have to level set expectation.
+Like, I'll give you an example.
+
+549
+00:25:16,432 --> 00:25:18,767
+This is not this, but this is more recent.
+
+550
+00:25:18,851 --> 00:25:21,687
+We were going to Disney,
+and I was packing, and he said,
+
+551
+00:25:21,770 --> 00:25:24,815
+"I think we need to have our,
+like, CTJ on Disney."
+
+552
+00:25:24,898 --> 00:25:25,733
+And I was like,
+
+553
+00:25:26,316 --> 00:25:27,609
+"Why?" And he said,
+
+554
+00:25:28,235 --> 00:25:31,113
+"You've got five books, man.
+What are you doing with these?"
+
+555
+00:25:31,196 --> 00:25:32,906
+And he-- I'm like,
+"I'm taking them to vacation.
+
+556
+00:25:32,990 --> 00:25:35,325
+Do you know how long it's been
+since I've read good fiction?"
+
+557
+00:25:35,617 --> 00:25:38,078
+He goes, "You ain't reading nothing
+for the next four days
+
+558
+00:25:38,162 --> 00:25:40,998
+but 'too tall to ride,'
+'too short to ride.'"
+
+559
+00:25:41,081 --> 00:25:43,000
+-[audience laughs]
+-I was like, "What?"
+
+560
+00:25:43,417 --> 00:25:45,377
+And he was like,
+"You won't be in the hotel reading.
+
+561
+00:25:45,461 --> 00:25:47,421
+We're taking, like, five kids to Disney."
+
+562
+00:25:48,005 --> 00:25:50,049
+So this was our CTJ for Lake Travis.
+
+563
+00:25:50,132 --> 00:25:52,676
+We're like, "Two and a half weeks.
+How do you do a vacation that long?"
+
+564
+00:25:52,760 --> 00:25:55,596
+We'd never been on a long vacation.
+He's like, "First of all,
+
+565
+00:25:56,221 --> 00:25:57,681
+there's gotta be rules for the kids."
+
+566
+00:25:58,098 --> 00:26:00,100
+If we just, like,
+go crazy on normal vacation,
+
+567
+00:26:00,184 --> 00:26:01,935
+and let them do screen time
+and stay up late,
+
+568
+00:26:02,019 --> 00:26:03,896
+they'll be feral by the time we get back.
+
+569
+00:26:03,979 --> 00:26:08,650
+So we gotta have,
+like, limited screen time, early bedtime.
+
+570
+00:26:08,734 --> 00:26:10,861
+And then I started to get the bug,
+and I'm like,
+
+571
+00:26:11,028 --> 00:26:12,905
+"We're gonna do a healthy vacation.
+
+572
+00:26:12,988 --> 00:26:15,908
+We're gonna do, like,
+a healthy family vacation.
+
+573
+00:26:15,991 --> 00:26:18,869
+And we're gonna cook,
+and we're not gonna eat a lot of crap,
+
+574
+00:26:18,952 --> 00:26:20,537
+and we're gonna work out every day.
+
+575
+00:26:20,621 --> 00:26:21,997
+[audience laughs]
+
+576
+00:26:22,081 --> 00:26:23,957
+And he's like, "I love it."
+
+577
+00:26:24,041 --> 00:26:25,584
+So we decide to swim every day.
+
+578
+00:26:25,667 --> 00:26:27,711
+We're gonna swim this cove every day.
+And so,
+
+579
+00:26:28,087 --> 00:26:31,799
+we met coaching swimming.
+We're both ex-competitive swimmers.
+
+580
+00:26:31,882 --> 00:26:34,051
+He still swims competitively.
+
+581
+00:26:34,134 --> 00:26:35,594
+I'm a shame researcher.
+
+582
+00:26:35,969 --> 00:26:37,846
+[audience laughs]
+
+583
+00:26:37,930 --> 00:26:42,059
+And so, I was like, "But I can do it."
+Like, I can do this. Right?
+
+584
+00:26:42,601 --> 00:26:43,435
+So...
+
+585
+00:26:44,478 --> 00:26:47,189
+you know, I dig in the back of my drawer
+for the old Speedo.
+
+586
+00:26:47,272 --> 00:26:48,690
+I'm like, hm.
+
+587
+00:26:49,983 --> 00:26:50,818
+Hm.
+
+588
+00:26:51,527 --> 00:26:52,653
+Okay.
+
+589
+00:26:52,736 --> 00:26:54,863
+So I get it, the goggles, my cap.
+
+590
+00:26:54,947 --> 00:26:57,074
+So one morning, we head to the lake,
+
+591
+00:26:57,157 --> 00:26:59,868
+and it is beautiful outside,
+and it's early.
+
+592
+00:26:59,952 --> 00:27:03,288
+The sun's coming up.
+Gorgeous rock, turquoise water.
+
+593
+00:27:03,831 --> 00:27:06,166
+We dive in.
+The kids are upstairs sleeping.
+
+594
+00:27:06,250 --> 00:27:08,377
+My sisters are there.
+Their kids are upstairs sleeping.
+
+595
+00:27:09,128 --> 00:27:11,380
+We start swimming, and I'm just like,
+
+596
+00:27:11,463 --> 00:27:14,341
+"Oh, my God. This is like if-- if you die
+and you're good your whole life,
+
+597
+00:27:14,424 --> 00:27:17,427
+this is where you go, right here.
+Lake Travis with your man.
+
+598
+00:27:17,511 --> 00:27:18,679
+Like, this is it."
+
+599
+00:27:18,762 --> 00:27:19,972
+[audience chuckles]
+
+600
+00:27:20,055 --> 00:27:23,308
+And we stop about halfway across
+'cause, you know, open water swimming,
+
+601
+00:27:23,392 --> 00:27:25,602
+you're looking for boats,
+you're looking for those things.
+
+602
+00:27:25,978 --> 00:27:29,606
+And all of a sudden, I catch Steve's eye.
+Now I'm gonna have to, like--
+
+603
+00:27:29,690 --> 00:27:31,900
+Can I use you as my person?
+
+604
+00:27:33,026 --> 00:27:34,653
+Yes? Great. Tell me your name.
+
+605
+00:27:34,736 --> 00:27:36,363
+-[man] Samuel.
+-Samuel.
+
+606
+00:27:36,446 --> 00:27:39,074
+So we're about-- Raise your hand, Samuel,
+for the people in the back.
+
+607
+00:27:39,158 --> 00:27:40,159
+Okay.
+
+608
+00:27:40,242 --> 00:27:42,870
+So we're about this far apart,
+and I'm like...
+
+609
+00:27:44,663 --> 00:27:46,623
+"I'm just gonna-- Steve?"
+And he goes, "Yeah?"
+
+610
+00:27:46,707 --> 00:27:48,834
+And I said, "I feel so connected to you.
+
+611
+00:27:48,917 --> 00:27:53,046
+I'm so glad that we're spending
+this time together doing this."
+
+612
+00:27:53,839 --> 00:27:56,341
+And he looks back at me, and he goes,
+"Yeah, water's good,"
+
+613
+00:27:56,425 --> 00:27:57,968
+and he keeps swimming.
+
+614
+00:27:58,051 --> 00:28:00,012
+[audience laughs]
+
+615
+00:28:01,722 --> 00:28:03,473
+Yeah. [chuckles softly]
+
+616
+00:28:05,142 --> 00:28:07,561
+Oh, boy! So...
+
+617
+00:28:08,061 --> 00:28:11,023
+my first thought, literally, is this.
+
+618
+00:28:11,106 --> 00:28:13,233
+I'm embarrassed to share it with you,
+but I will.
+
+619
+00:28:13,984 --> 00:28:17,487
+-"He is so overwhelmed with love for me."
+-[audience laughs]
+
+620
+00:28:17,988 --> 00:28:21,325
+That is my first thought,
+that he is not functioning.
+
+621
+00:28:21,408 --> 00:28:22,492
+Like, he is--
+
+622
+00:28:22,576 --> 00:28:24,870
+Like, I'm actually thinking to myself,
+
+623
+00:28:25,287 --> 00:28:28,957
+"I hope he's safe
+in this deep water with this feeling."
+
+624
+00:28:29,875 --> 00:28:32,544
+'Cause it was like
+he couldn't process it, and--
+
+625
+00:28:33,045 --> 00:28:35,797
+And I have to be honest with you.
+He is a very courageous guy,
+
+626
+00:28:35,881 --> 00:28:38,800
+and he is much more likely
+to say that in our relationship
+
+627
+00:28:38,884 --> 00:28:40,427
+than I am to say that.
+
+628
+00:28:40,510 --> 00:28:43,096
+He's much more likely to go there
+and be that connecting,
+
+629
+00:28:43,180 --> 00:28:44,431
+and I'm not.
+
+630
+00:28:44,848 --> 00:28:47,935
+I mean, I'm nice,
+but I'm not, you know, I'm not like that.
+
+631
+00:28:48,560 --> 00:28:51,188
+And it was a big reach for me,
+so I thought, "That overwhelmed him."
+
+632
+00:28:51,271 --> 00:28:54,149
+He was like,
+"Man, I gotta keep swimming." Um...
+
+633
+00:28:54,691 --> 00:28:56,568
+So we get to the other end,
+and it's not like, it's like--
+
+634
+00:28:56,652 --> 00:28:59,029
+You're not gonna do a flip turn.
+It's just like mossy and stuff.
+
+635
+00:28:59,112 --> 00:29:00,489
+And so, you just kinda turn around.
+
+636
+00:29:00,864 --> 00:29:03,408
+And we start swimming back,
+
+637
+00:29:03,700 --> 00:29:05,369
+and now all of a sudden,
+
+638
+00:29:05,702 --> 00:29:07,663
+we're about this far from each other.
+
+639
+00:29:07,746 --> 00:29:09,748
+Raise your hand, Samuel,
+for the people in the back.
+
+640
+00:29:09,831 --> 00:29:11,458
+Okay, so we're close now.
+
+641
+00:29:11,541 --> 00:29:13,126
+And I think to myself,
+
+642
+00:29:13,710 --> 00:29:15,128
+"Should I go back in?
+
+643
+00:29:15,462 --> 00:29:17,089
+Should I try it again?"
+
+644
+00:29:17,589 --> 00:29:19,591
+And this is really funny
+because I tell this story--
+
+645
+00:29:19,675 --> 00:29:21,843
+When I tell this story
+on the East Coast...
+
+646
+00:29:22,177 --> 00:29:24,471
+It's rhetorical, this question.
+Like, "Should I go back in?"
+
+647
+00:29:24,554 --> 00:29:28,725
+I'm telling you what I was thinking.
+I was thinking, "Should I go back in?"
+
+648
+00:29:29,059 --> 00:29:31,436
+But for some reason, in New York, Boston,
+
+649
+00:29:31,520 --> 00:29:34,648
+these people feel compelled
+to be like, "No! No!
+
+650
+00:29:35,649 --> 00:29:38,402
+-No, ma'am!
+-[audience laughs]
+
+651
+00:29:38,485 --> 00:29:42,364
+No! That's bullshit. Do not go back there.
+Uh-uh.
+
+652
+00:29:43,365 --> 00:29:44,199
+No."
+
+653
+00:29:44,866 --> 00:29:46,034
+But then...
+
+654
+00:29:46,660 --> 00:29:48,287
+I'm gonna tell you what's worse.
+
+655
+00:29:49,162 --> 00:29:50,622
+In California,
+
+656
+00:29:50,914 --> 00:29:51,915
+people do this...
+
+657
+00:29:51,999 --> 00:29:54,876
+Almost every time I do this in California,
+someone goes...
+
+658
+00:29:55,627 --> 00:29:58,088
+[audience laughs]
+
+659
+00:30:00,257 --> 00:30:02,259
+[mouthing]
+
+660
+00:30:09,224 --> 00:30:12,394
+That shit makes me uncomfortable.
+No, it does.
+
+661
+00:30:12,477 --> 00:30:15,230
+It makes me uncomfortable,
+and it makes me charge extra
+
+662
+00:30:15,314 --> 00:30:16,481
+to come to California.
+
+663
+00:30:16,565 --> 00:30:18,358
+Like, I don't like that.
+
+664
+00:30:18,650 --> 00:30:20,193
+But on this particular day,
+
+665
+00:30:20,861 --> 00:30:22,738
+'cause Samuel and I are so connected,
+
+666
+00:30:23,238 --> 00:30:26,783
+I said, "I'm gonna get my California on,
+and I'm gonna go back in."
+
+667
+00:30:27,367 --> 00:30:29,036
+So we're this far apart,
+
+668
+00:30:29,119 --> 00:30:31,663
+and I'm like, "Hey!" And he's like...
+
+669
+00:30:31,747 --> 00:30:33,790
+And I said, "I feel really close to you.
+
+670
+00:30:33,874 --> 00:30:36,126
+This is a really...
+This is a really special moment.
+
+671
+00:30:36,209 --> 00:30:38,211
+Like, I love doing this with you."
+
+672
+00:30:38,795 --> 00:30:41,923
+And he looks at me, and he goes,
+"Water's good," and he keeps swimming.
+
+673
+00:30:42,007 --> 00:30:44,009
+[audience laughs]
+
+674
+00:30:47,012 --> 00:30:48,722
+I'm pissed off now.
+
+675
+00:30:48,805 --> 00:30:51,350
+Like, I am so mad.
+
+676
+00:30:53,143 --> 00:30:56,980
+So the thing about midlife
+that's so great--
+
+677
+00:30:57,064 --> 00:30:59,358
+For those of you in your 30s, don't fear.
+
+678
+00:30:59,441 --> 00:31:02,110
+-[audience laughs]
+-The thing about midlife that's so great
+
+679
+00:31:02,194 --> 00:31:04,780
+is you can actually,
+in situations like this,
+
+680
+00:31:04,863 --> 00:31:06,490
+play<i> </i>the tape to the end.
+
+681
+00:31:06,865 --> 00:31:08,075
+Like, you know what's gonna happen.
+
+682
+00:31:08,158 --> 00:31:10,369
+Like, you can play the movie
+all the way to the end
+
+683
+00:31:10,452 --> 00:31:11,703
+and make changes accordingly.
+
+684
+00:31:13,413 --> 00:31:14,873
+So I know how this is gonna end.
+
+685
+00:31:14,956 --> 00:31:17,959
+Like, let me ask this.
+There's a lot of men here tonight.
+
+686
+00:31:18,043 --> 00:31:21,713
+How many men in the audience
+are familiar with the term "payback"?
+
+687
+00:31:21,797 --> 00:31:23,298
+[audience laughs]
+
+688
+00:31:23,382 --> 00:31:24,883
+Let's see a show of hands.
+
+689
+00:31:25,717 --> 00:31:27,844
+What's your familiarity? Yeah.
+
+690
+00:31:28,345 --> 00:31:30,180
+This guy's like-- I see you.
+
+691
+00:31:30,263 --> 00:31:32,891
+You're not raising your hand,
+but you're thinking, "Yeah, I know it."
+
+692
+00:31:32,974 --> 00:31:34,851
+-Yeah. Yeah. Yeah.
+-[inaudible]
+
+693
+00:31:35,227 --> 00:31:36,853
+So here's I know how it's gonna end.
+
+694
+00:31:36,937 --> 00:31:38,897
+So I will, like--
+
+695
+00:31:38,980 --> 00:31:41,525
+I will go into complete pissed-off mode.
+
+696
+00:31:41,942 --> 00:31:46,113
+I will beat him back to the dock,
+fueled by nothing but rage and fury.
+
+697
+00:31:47,531 --> 00:31:51,576
+We will get upstairs. We'll be drying off.
+We'll be in the kitchen, and he'll go,
+
+698
+00:31:52,119 --> 00:31:54,454
+"Hey, babe. What's for breakfast?"
+
+699
+00:31:56,498 --> 00:31:58,917
+And I'll say, "I don't know, babe.
+
+700
+00:31:59,000 --> 00:32:01,420
+Let me ask the breakfast fairy.
+Breakfast fairy!
+
+701
+00:32:01,503 --> 00:32:03,422
+[audience laughs]
+
+702
+00:32:03,505 --> 00:32:05,257
+Hey, breakfast fairy.
+
+703
+00:32:05,632 --> 00:32:06,842
+It's Brené.
+
+704
+00:32:07,384 --> 00:32:08,760
+What's for breakfast?
+
+705
+00:32:10,929 --> 00:32:13,640
+Oh, I'm sorry, Steve.
+I forgot how vacation works.
+
+706
+00:32:13,723 --> 00:32:15,183
+I'm in charge of breakfast
+
+707
+00:32:15,267 --> 00:32:17,936
+and lunch, and dinner,
+and packing, and unpacking,
+
+708
+00:32:18,395 --> 00:32:21,022
+and laundry, and sunscreen, and towels,
+
+709
+00:32:21,690 --> 00:32:22,941
+and bug spray."
+
+710
+00:32:23,024 --> 00:32:24,151
+Look, these--
+
+711
+00:32:25,068 --> 00:32:26,611
+[audience laughs]
+
+712
+00:32:26,695 --> 00:32:29,364
+I'm gonna hang out with this whole crew
+after this is over.
+
+713
+00:32:29,448 --> 00:32:31,408
+The crew going like this. "Mm-hmm."
+
+714
+00:32:31,491 --> 00:32:33,326
+That's how vacation works. Yes or no?
+
+715
+00:32:33,577 --> 00:32:35,078
+-[audience] Yes!
+-[Brené] Yeah.
+
+716
+00:32:35,537 --> 00:32:37,789
+And the worst thing is,
+halfway during this,
+
+717
+00:32:37,873 --> 00:32:39,249
+Steve will go like this...
+
+718
+00:32:41,209 --> 00:32:43,128
+[audience laughs]
+
+719
+00:32:43,211 --> 00:32:44,754
+"Did something happen?"
+
+720
+00:32:47,507 --> 00:32:49,134
+And so... [laughing]
+
+721
+00:32:49,217 --> 00:32:52,846
+I'm like, "I know this story.
+I've lived it a thousand times.
+
+722
+00:32:52,929 --> 00:32:55,015
+This shit is not happening
+at my magic lake."
+
+723
+00:32:55,098 --> 00:32:58,935
+And so, I actually do beat him
+to the dock,
+
+724
+00:32:59,603 --> 00:33:01,188
+again, fueled by fury,
+
+725
+00:33:02,105 --> 00:33:03,899
+and when he gets to the dock,
+
+726
+00:33:04,608 --> 00:33:07,152
+I look<i> </i>at him,
+and I'm in 30 feet deep at this thing.
+
+727
+00:33:07,235 --> 00:33:09,404
+Like, so we're, like,
+treading water, right?
+
+728
+00:33:09,488 --> 00:33:11,239
+And I said, "What's going on?
+
+729
+00:33:11,323 --> 00:33:13,492
+I'm trying to reach out
+and connect with you,
+
+730
+00:33:13,575 --> 00:33:16,995
+and you're blowing me off.
+Like, what is happening?"
+
+731
+00:33:17,746 --> 00:33:19,247
+And he kind of turns around,
+
+732
+00:33:19,331 --> 00:33:20,957
+and then he turns back toward me,
+and he goes,
+
+733
+00:33:21,374 --> 00:33:23,251
+"I don't want to do this with you."
+
+734
+00:33:24,002 --> 00:33:25,545
+And, of course, I'm like...
+
+735
+00:33:25,629 --> 00:33:29,007
+-[roars slowly]
+-[audience laughs]
+
+736
+00:33:29,090 --> 00:33:30,967
+[Brené] 'Cause I'm thinking, like...
+
+737
+00:33:31,384 --> 00:33:34,137
+Actually, you wanna know actually
+what I'm thinking?
+
+738
+00:33:34,262 --> 00:33:35,096
+I'm thinking,
+
+739
+00:33:35,680 --> 00:33:38,558
+"If I find out we're getting a divorce
+in a swimsuit,
+
+740
+00:33:38,642 --> 00:33:40,560
+I'm gonna frickin' kill somebody,"
+
+741
+00:33:40,644 --> 00:33:43,188
+is what I'm thinking.
+That's what I'm actually thinking.
+
+742
+00:33:43,647 --> 00:33:46,149
+Um, I'm like, "What do you mean,
+you don't want to do this?"
+
+743
+00:33:46,233 --> 00:33:48,735
+And he goes, "I don't want to have
+this conversation with you now."
+
+744
+00:33:48,818 --> 00:33:50,570
+I'm like, "Oh, tough shit."
+
+745
+00:33:50,654 --> 00:33:53,365
+I'm like, "Okay. We gotta do this, Steve."
+
+746
+00:33:53,740 --> 00:33:56,826
+And he starts to get out of the water.
+I'm like, "Can you please get back in?"
+
+747
+00:33:56,910 --> 00:33:58,912
+So he gets back in the water,
+and I'm like,
+
+748
+00:33:59,162 --> 00:34:00,789
+"I don't understand what's happening."
+
+749
+00:34:00,872 --> 00:34:03,041
+And he's just not looking at me,
+and it's weird.
+
+750
+00:34:03,500 --> 00:34:05,877
+And then I go to this place...
+
+751
+00:34:06,253 --> 00:34:09,214
+You know, when all else fails,
+I go back to the data.
+
+752
+00:34:09,589 --> 00:34:10,966
+I keep thinking about this sentence
+
+753
+00:34:11,049 --> 00:34:14,302
+that's been in my research
+for, like, 15 years.
+
+754
+00:34:15,178 --> 00:34:17,264
+It never saturated--
+like, that's our kinda code word
+
+755
+00:34:17,347 --> 00:34:19,182
+for "it didn't come up enough
+to write about it"--
+
+756
+00:34:19,266 --> 00:34:21,560
+until I wrote <i>Rising Strong.</i>
+
+757
+00:34:21,643 --> 00:34:24,563
+And when we were<i> </i>interviewing
+to understand resilience,
+
+758
+00:34:24,646 --> 00:34:29,276
+the most resilient participants
+that we've met across all these years
+
+759
+00:34:29,359 --> 00:34:30,986
+had this sentence in common.
+
+760
+00:34:31,069 --> 00:34:33,238
+They all used some form of this sentence.
+
+761
+00:34:33,321 --> 00:34:36,283
+And it has become--
+I'm telling you, this is a magic sentence.
+
+762
+00:34:36,366 --> 00:34:40,495
+It's a simple sentence.
+It's just the story I'm telling myself.
+
+763
+00:34:41,204 --> 00:34:42,831
+Because when something hard happens,
+
+764
+00:34:42,914 --> 00:34:47,586
+our brain, which is wired to protect us
+above all else, wants a story.
+
+765
+00:34:47,669 --> 00:34:49,504
+It understands story
+and narrative pattern,
+
+766
+00:34:50,171 --> 00:34:53,800
+and it says, "Give me a story
+so I can understand how to protect you."
+
+767
+00:34:53,883 --> 00:34:57,178
+And it doesn't want a story that's like,
+"Well, I'm not sure. And..."
+
+768
+00:34:57,637 --> 00:34:58,722
+You know, that's not useful.
+
+769
+00:34:58,805 --> 00:35:02,225
+It wants, like, bad guy, good guy,
+safe, dangerous, against you, for you.
+
+770
+00:35:02,767 --> 00:35:05,145
+And so we make up these stories.
+
+771
+00:35:05,604 --> 00:35:07,939
+How many of you get the three dots on text
+
+772
+00:35:08,356 --> 00:35:10,108
+and then it goes away,
+
+773
+00:35:10,191 --> 00:35:11,651
+and then you make up a story?
+
+774
+00:35:11,735 --> 00:35:14,029
+[audience laughs, applauds]
+
+775
+00:35:14,112 --> 00:35:15,280
+[Brené] Right. Yeah. Right.
+
+776
+00:35:18,033 --> 00:35:21,119
+So I look at Steve, and I said,
+
+777
+00:35:21,620 --> 00:35:25,624
+"The story I'm making up right now
+is one of two things just happened."
+
+778
+00:35:25,707 --> 00:35:28,418
+And--- And in all fairness,
+you're gonna want to laugh,
+
+779
+00:35:28,501 --> 00:35:30,712
+but before I tell you,
+I'm gonna ask you not to laugh.
+
+780
+00:35:30,795 --> 00:35:32,297
+'Cause I'm gonna ask you
+to take a deep breath...
+
+781
+00:35:32,380 --> 00:35:33,590
+[audience inhales]
+
+782
+00:35:33,673 --> 00:35:34,966
+...and think about this:
+
+783
+00:35:35,050 --> 00:35:37,719
+When you make an emotional bid
+for connection with someone,
+
+784
+00:35:37,802 --> 00:35:39,512
+and you're pushed away,
+
+785
+00:35:39,596 --> 00:35:41,598
+what is the thing that you feel?
+
+786
+00:35:42,932 --> 00:35:44,059
+[audience] Rejection.
+
+787
+00:35:44,142 --> 00:35:46,144
+Rejection, shame, fear, loneliness.
+
+788
+00:35:46,227 --> 00:35:48,563
+Like, I am hurting when I say this.
+
+789
+00:35:48,647 --> 00:35:53,652
+So I look at Steve, and I say, "Look...
+the story I'm making up right now
+
+790
+00:35:53,735 --> 00:35:57,697
+is either you looked over at me
+while we were swimming and thought,
+
+791
+00:35:58,156 --> 00:35:59,157
+'God...
+
+792
+00:35:59,574 --> 00:36:02,160
+where's the girl I married 25 years ago?
+
+793
+00:36:02,243 --> 00:36:04,788
+Like, you're old. You don't even know
+how to swim anymore.'
+
+794
+00:36:05,205 --> 00:36:07,540
+Or you looked over at me and thought,
+
+795
+00:36:07,624 --> 00:36:09,417
+'Jeez, man. She does not rock a Speedo
+
+796
+00:36:09,501 --> 00:36:11,503
+like she did two decades
+and two kids ago.'
+
+797
+00:36:11,586 --> 00:36:14,047
+Like, that's
+what I'm telling myself right now, Steve.
+
+798
+00:36:14,130 --> 00:36:15,423
+Like, so what's going on?"
+
+799
+00:36:17,050 --> 00:36:18,093
+And he looks at me, and he said,
+
+800
+00:36:18,176 --> 00:36:20,679
+"Look, I don't mind taking care
+of the kids, Brené."
+
+801
+00:36:20,762 --> 00:36:21,930
+And I was like, "What?"
+
+802
+00:36:22,013 --> 00:36:23,431
+He said, "I don't mind taking care
+of the kids.
+
+803
+00:36:23,515 --> 00:36:25,975
+I know the kids want to spend all day
+
+804
+00:36:26,059 --> 00:36:28,311
+back and forth across this cove
+
+805
+00:36:28,395 --> 00:36:31,106
+because the pirate's treasure
+is on the other side.
+
+806
+00:36:31,189 --> 00:36:33,024
+I'll take all six of them back and forth.
+
+807
+00:36:33,108 --> 00:36:34,317
+I don't mind."
+
+808
+00:36:34,776 --> 00:36:38,113
+And, like, my first thought is,
+"There's been a neurological event."
+
+809
+00:36:38,196 --> 00:36:39,030
+[audience laughs]
+
+810
+00:36:40,198 --> 00:36:42,534
+Which explains a lot of what's happening.
+
+811
+00:36:45,036 --> 00:36:46,204
+So I'm like...
+
+812
+00:36:47,372 --> 00:36:49,833
+I'm-- [chuckles] I'm scared a little bit.
+And I'm like,
+
+813
+00:36:50,083 --> 00:36:53,670
+-"Say more. Um..."
+-[audience laughs]
+
+814
+00:36:54,879 --> 00:36:58,007
+Resisting to go into, like, "Can you count
+backwards from by sevens?"
+
+815
+00:36:58,091 --> 00:36:59,926
+Like-- Like-- Going into, like...
+
+816
+00:37:00,802 --> 00:37:02,846
+a full-on intake process.
+
+817
+00:37:03,179 --> 00:37:05,598
+Um, and I was like,
+"Say more," and he said,
+
+818
+00:37:05,682 --> 00:37:07,308
+"Look, I don't mind taking them. I get it.
+
+819
+00:37:07,392 --> 00:37:09,644
+Like, you get to spend time
+with your sisters.
+
+820
+00:37:09,728 --> 00:37:11,438
+The other dads are not great swimmers.
+
+821
+00:37:11,521 --> 00:37:13,982
+I don't mind taking them across."
+And I'm, like, "Okay.
+
+822
+00:37:14,065 --> 00:37:16,860
+I am freaking out right now.
+What is going on?"
+
+823
+00:37:16,943 --> 00:37:18,361
+And he said, "Brené, I don't know.
+
+824
+00:37:18,445 --> 00:37:21,239
+I don't know what you were saying to me
+in the water.
+
+825
+00:37:21,322 --> 00:37:24,159
+I was just fending off a panic attack
+
+826
+00:37:24,242 --> 00:37:25,869
+and counting strokes."
+
+827
+00:37:26,619 --> 00:37:29,330
+And I said, "What?" And he goes,
+"I was just counting strokes, Brené.
+
+828
+00:37:29,414 --> 00:37:32,000
+I was just counting strokes.
+Fending off a panic attack.
+
+829
+00:37:32,083 --> 00:37:34,377
+I don't know what you were saying to me
+in the water."
+
+830
+00:37:35,044 --> 00:37:39,299
+And so, all of a sudden--
+I'm starting to try to process everything.
+
+831
+00:37:39,382 --> 00:37:42,260
+Any competitive swimmers here,
+ex-competitive swimmers?
+
+832
+00:37:42,343 --> 00:37:43,720
+You know how when you learn--
+
+833
+00:37:43,803 --> 00:37:46,306
+You know, when you're a swimmer,
+and you're in a pool,
+
+834
+00:37:46,389 --> 00:37:50,018
+and then all of a sudden you're in a lake,
+it's anxiety-producing
+
+835
+00:37:50,101 --> 00:37:53,062
+because you-- It's not like a pool
+with a black stripe, and you see which--
+
+836
+00:37:53,146 --> 00:37:56,149
+It's like, release the Kraken.
+Like, you don't know what's in there.
+
+837
+00:37:56,232 --> 00:37:58,026
+You lose your sense of control.
+
+838
+00:37:58,109 --> 00:37:59,778
+When you have anxiety
+and you're swimming,
+
+839
+00:37:59,861 --> 00:38:01,696
+you usually just count strokes
+or count breaths.
+
+840
+00:38:02,155 --> 00:38:02,989
+So I'm like,
+
+841
+00:38:03,615 --> 00:38:06,868
+"Why-- Why are you counting strokes?
+Why-- What's the panic attack about?"
+
+842
+00:38:06,951 --> 00:38:10,580
+And he said, "I had a dream last night
+that I had all six of the kids,
+
+843
+00:38:10,663 --> 00:38:13,958
+we were halfway across the cove,
+and a ski boat came,
+
+844
+00:38:14,042 --> 00:38:15,960
+and I waved it off,
+and it didn't slow down,
+
+845
+00:38:16,044 --> 00:38:17,921
+and I waved it off,
+and it didn't slow down again,
+
+846
+00:38:18,004 --> 00:38:19,839
+and it was coming straight at me
+and the kids,
+
+847
+00:38:19,923 --> 00:38:22,801
+so I grabbed all the kids,
+and I went as deep as I could go,
+
+848
+00:38:22,884 --> 00:38:26,304
+and I stayed there and stayed there,
+waiting for that boat to pass
+
+849
+00:38:26,387 --> 00:38:28,765
+'cause I knew it would kill us
+if it hit us.
+
+850
+00:38:29,307 --> 00:38:32,560
+And I just was waiting,
+and then I looked at Charlie,
+
+851
+00:38:32,644 --> 00:38:37,065
+our son, and knew that if we stayed
+two seconds longer, he would drown.
+
+852
+00:38:37,899 --> 00:38:40,235
+And so I don't know
+what you were saying to me.
+
+853
+00:38:40,318 --> 00:38:42,403
+I was just fighting off a panic attack."
+
+854
+00:38:43,738 --> 00:38:45,198
+And so this made complete sense to me
+
+855
+00:38:45,281 --> 00:38:47,826
+because we had arrived at the lake
+on a Monday,
+
+856
+00:38:47,909 --> 00:38:49,786
+and this was our first weekend
+at the lake.
+
+857
+00:38:49,869 --> 00:38:51,162
+And we had gone to bed that night
+
+858
+00:38:51,246 --> 00:38:54,457
+talking about, "Hey, let's not tube
+or do anything like that.
+
+859
+00:38:54,541 --> 00:38:57,418
+Let's<i> </i>stay off the lake
+'cause the boating and drinking is so bad.
+
+860
+00:38:57,502 --> 00:38:58,670
+And let's just stay close."
+
+861
+00:38:58,753 --> 00:39:02,006
+And we had gone to sleep talking
+about that, so that made sense to me.
+
+862
+00:39:02,674 --> 00:39:05,134
+So I looked at him, and I was like,
+
+863
+00:39:05,802 --> 00:39:09,222
+"Oh, my God. I'm so glad
+you shared that with me. Thank you."
+
+864
+00:39:09,305 --> 00:39:11,057
+And he goes, "Bullshit."
+
+865
+00:39:11,516 --> 00:39:13,768
+-[audience laughs]
+-[Brené] And I was like, "What?"
+
+866
+00:39:13,852 --> 00:39:15,144
+And he said, "Bullshit.
+
+867
+00:39:15,228 --> 00:39:18,857
+And don't start quoting your research
+on men and shame to me, either.
+
+868
+00:39:19,148 --> 00:39:21,317
+That's bullshit. Here's what you want.
+
+869
+00:39:21,401 --> 00:39:23,695
+You want the guy
+that, when the speedboat comes,
+
+870
+00:39:23,778 --> 00:39:25,238
+he takes all six of the kids,
+
+871
+00:39:26,447 --> 00:39:29,242
+throws them,
+then swims so fast, catches them,
+
+872
+00:39:29,617 --> 00:39:31,536
+sets them down on the rock
+
+873
+00:39:31,953 --> 00:39:34,497
+and then looks across the lake
+at you and goes,
+
+874
+00:39:34,581 --> 00:39:36,958
+'Don't worry,  little lady.
+I've got this.'"
+
+875
+00:39:37,625 --> 00:39:39,544
+He's like, "That's what you want."
+
+876
+00:39:41,212 --> 00:39:43,923
+And I was like, "Oh, my God." I mean...
+
+877
+00:39:44,924 --> 00:39:47,802
+We're in the perfect shame dance now,
+right?
+
+878
+00:39:49,554 --> 00:39:51,639
+So when you think about feminine norms,
+
+879
+00:39:51,723 --> 00:39:55,143
+what's the number one shame trigger
+around feminine norms?
+
+880
+00:39:55,226 --> 00:39:59,522
+-[audience members speak indistinctly]
+-Body image. Appearance and body image.
+
+881
+00:39:59,606 --> 00:40:02,567
+And for masculine norms,
+it's don't be perceived as what?
+
+882
+00:40:02,984 --> 00:40:04,694
+-[audience] Weak.
+-[Brené] Right.
+
+883
+00:40:04,777 --> 00:40:07,322
+So here we are, in this complete...
+
+884
+00:40:07,864 --> 00:40:10,491
+shame lockdown, right?
+
+885
+00:40:11,784 --> 00:40:13,077
+And so I look at him--
+
+886
+00:40:13,161 --> 00:40:15,330
+And, you know,
+I often say about these situations,
+
+887
+00:40:15,413 --> 00:40:17,498
+"You show me a woman
+who can sit with a man
+
+888
+00:40:17,582 --> 00:40:21,169
+in real shame and fear and vulnerability
+
+889
+00:40:21,544 --> 00:40:22,879
+and<i> </i>just be with him,
+
+890
+00:40:22,962 --> 00:40:25,214
+I'll show you a woman who's done her work
+
+891
+00:40:25,590 --> 00:40:28,593
+and doesn't derive her status or power
+from that guy.
+
+892
+00:40:29,135 --> 00:40:30,428
+-You show me a guy--
+-[man] Whoo!
+
+893
+00:40:30,511 --> 00:40:31,512
+Yeah.
+
+894
+00:40:31,596 --> 00:40:33,431
+-That's a whoo, right? Yes.
+-[man] Yeah.
+
+895
+00:40:33,514 --> 00:40:35,642
+-[audience laughs]
+-[Brené] It is a whoo. It's whoo-worthy.
+
+896
+00:40:35,725 --> 00:40:36,851
+Yeah, I like it.
+
+897
+00:40:37,143 --> 00:40:39,145
+You show me a guy
+who can sit with a woman
+
+898
+00:40:39,228 --> 00:40:41,522
+who's in real shame
+and fear and vulnerability
+
+899
+00:40:41,606 --> 00:40:43,441
+and not fix anything
+
+900
+00:40:43,733 --> 00:40:45,276
+but just listen.
+
+901
+00:40:45,610 --> 00:40:47,195
+I'll show you a guy...
+
+902
+00:40:48,029 --> 00:40:50,823
+who's done his work
+and doesn't derive his power and status
+
+903
+00:40:50,907 --> 00:40:53,952
+from being Oz, the fixer of all things.
+
+904
+00:40:54,702 --> 00:40:56,829
+You know? We got work to do, right?
+
+905
+00:40:57,205 --> 00:40:59,624
+So I looked at Steve,
+and this was the hard part,
+
+906
+00:40:59,707 --> 00:41:02,460
+'cause I knew I had to be honest,
+and I said, "Look, ten years ago,
+
+907
+00:41:02,543 --> 00:41:05,046
+I would have said the right thing
+based on the research.
+
+908
+00:41:05,129 --> 00:41:08,257
+And then, one or two days later,
+when you were not suspecting it,
+
+909
+00:41:08,591 --> 00:41:10,677
+you would have said, 'Hey,
+I'm taking the kids tubing.'
+
+910
+00:41:10,760 --> 00:41:13,513
+And I would have said,
+'Are you sure you're feeling up to it?'"
+
+911
+00:41:15,556 --> 00:41:16,683
+Which is crushing, right?
+
+912
+00:41:19,143 --> 00:41:23,690
+We usually reserve
+using people's vulnerability against them
+
+913
+00:41:23,773 --> 00:41:25,566
+for the people we love the most.
+
+914
+00:41:26,484 --> 00:41:28,194
+Why? Because...
+
+915
+00:41:28,903 --> 00:41:30,905
+I mean, to be honest with you,
+
+916
+00:41:30,989 --> 00:41:34,659
+I wasn't raised with a father who modeled
+what vulnerability looked like in guys,
+
+917
+00:41:35,410 --> 00:41:36,869
+and it scares me.
+
+918
+00:41:37,328 --> 00:41:40,999
+And that's why. We're scared
+when we see vulnerability in other people.
+
+919
+00:41:41,082 --> 00:41:42,875
+To be honest with you, we're just scared.
+
+920
+00:41:43,710 --> 00:41:45,378
+And I said,
+"I would have<i> </i>done that to you,
+
+921
+00:41:45,461 --> 00:41:49,465
+and God, if I start making amends now,
+and we're together for another 30 years,
+
+922
+00:41:49,549 --> 00:41:50,842
+it'll probably take me that long.
+
+923
+00:41:50,925 --> 00:41:54,512
+And, I guess, the most meaningful thing
+I can do is not do that.
+
+924
+00:41:55,013 --> 00:41:56,514
+Five years ago,
+I would've said the right thing,
+
+925
+00:41:56,597 --> 00:42:00,268
+and I think I would've maybe done
+the right thing, but today, Steve,
+
+926
+00:42:00,351 --> 00:42:03,021
+you are the most important thing
+in my life.
+
+927
+00:42:04,355 --> 00:42:07,734
+And to be able to see you and know you
+is the greatest privilege of my life,
+
+928
+00:42:07,817 --> 00:42:11,571
+and to be seen by you
+is the most important thing in my life.
+
+929
+00:42:11,821 --> 00:42:13,322
+We are all we have."
+
+930
+00:42:15,074 --> 00:42:17,869
+How many of you want more love,
+intimacy...
+
+931
+00:42:18,411 --> 00:42:20,163
+in your lives? Joy?
+
+932
+00:42:20,913 --> 00:42:22,749
+You can't have that
+
+933
+00:42:22,832 --> 00:42:24,751
+if you don't let yourself be seen.
+
+934
+00:42:24,834 --> 00:42:28,129
+How can you let yourself be loved
+if you can't be seen?
+
+935
+00:42:28,212 --> 00:42:29,422
+-Does that make sense?
+-[audience] Yes.
+
+936
+00:42:30,214 --> 00:42:32,258
+Vulnerability is the path
+back to each other,
+
+937
+00:42:32,341 --> 00:42:34,510
+but we're so afraid to get on it.
+
+938
+00:42:35,636 --> 00:42:37,513
+You know,
+and we end up hurting each other a lot,
+
+939
+00:42:37,764 --> 00:42:40,933
+and for me, that day changed everything
+in our marriage.
+
+940
+00:42:41,517 --> 00:42:42,769
+For one,
+I don't think we've had a fight
+
+941
+00:42:42,852 --> 00:42:45,354
+since that day where we don't say,
+"The story I'm telling myself,"
+
+942
+00:42:45,438 --> 00:42:48,441
+even if it's like,
+[angrily] "The story I'm telling myself."
+
+943
+00:42:48,524 --> 00:42:50,318
+-[audience laughs]
+-[Brené] Um...
+
+944
+00:42:50,985 --> 00:42:52,028
+For me, it was a great story
+
+945
+00:42:52,111 --> 00:42:53,696
+'cause, it ended up,
+then we went upstairs,
+
+946
+00:42:53,780 --> 00:42:55,740
+he popped me on the butt with a towel.
+
+947
+00:42:56,240 --> 00:42:58,242
+He said, "I love you. I see you.
+
+948
+00:42:58,326 --> 00:43:00,828
+You still rock the Speedo," which is love.
+
+949
+00:43:00,912 --> 00:43:02,038
+-[audience laughs]
+-Um...
+
+950
+00:43:02,121 --> 00:43:03,790
+It's total love.
+
+951
+00:43:04,582 --> 00:43:08,252
+We want it so bad, but we're so afraid
+
+952
+00:43:08,711 --> 00:43:10,213
+to let ourselves be seen,
+
+953
+00:43:10,671 --> 00:43:12,548
+and we're so afraid to see people.
+
+954
+00:43:12,965 --> 00:43:14,801
+But again, it's the only way back.
+
+955
+00:43:15,384 --> 00:43:19,388
+So let's look at some of the real,
+concrete issues around vulnerability.
+
+956
+00:43:19,472 --> 00:43:21,724
+So the thing that we tell ourselves is,
+
+957
+00:43:21,808 --> 00:43:23,643
+"Why do you want me to be vulnerable?
+
+958
+00:43:23,726 --> 00:43:27,814
+Vulnerability is like the gooey center
+of hard emotion.
+
+959
+00:43:27,897 --> 00:43:32,235
+Shame, fear, grief, scarcity.
+Why should I do that? Why should I--
+
+960
+00:43:32,318 --> 00:43:33,361
+Why should I feel them,
+
+961
+00:43:33,444 --> 00:43:35,571
+and why should I let
+other people see them? Like,
+
+962
+00:43:35,655 --> 00:43:38,866
+I don't want to vulnerable.
+I want to armor up.
+
+963
+00:43:38,950 --> 00:43:40,535
+I want to stay protected."
+
+964
+00:43:40,618 --> 00:43:42,495
+Here's the problem with the armor.
+
+965
+00:43:42,578 --> 00:43:44,455
+The problem with the armor
+is that vulnerability,
+
+966
+00:43:44,539 --> 00:43:47,500
+yeah, is totally the center of these,
+
+967
+00:43:47,583 --> 00:43:50,378
+but it's also the birthplace of these...
+
+968
+00:43:51,963 --> 00:43:53,631
+How many of you love someone?
+
+969
+00:43:55,341 --> 00:43:56,342
+Right.
+
+970
+00:43:58,094 --> 00:43:59,804
+Are you 100% sure...
+
+971
+00:44:00,721 --> 00:44:04,809
+that person will always love you back?
+Will never leave? Will never get sick?
+
+972
+00:44:05,184 --> 00:44:07,645
+How many of you have ever buried
+someone you love?
+
+973
+00:44:08,729 --> 00:44:10,857
+How many of you have lost
+someone you love?
+
+974
+00:44:12,984 --> 00:44:17,280
+To love is to be vulnerable.
+To give someone your heart and say,
+
+975
+00:44:19,031 --> 00:44:21,993
+"I know this could hurt so bad,
+but I'm willing to do it.
+
+976
+00:44:22,076 --> 00:44:24,203
+I'm willing to be vulnerable
+and love you."
+
+977
+00:44:25,079 --> 00:44:27,832
+And there is an increasing number
+of people in the world today
+
+978
+00:44:27,915 --> 00:44:30,001
+that are not willing to take that risk.
+
+979
+00:44:30,501 --> 00:44:32,295
+They'd rather never know love
+
+980
+00:44:32,837 --> 00:44:33,880
+than to know hurt...
+
+981
+00:44:34,630 --> 00:44:38,467
+or grief, and that is a huge price to pay.
+
+982
+00:44:38,968 --> 00:44:40,094
+Belonging.
+
+983
+00:44:40,178 --> 00:44:41,470
+We're wired for love.
+
+984
+00:44:41,554 --> 00:44:44,515
+We're hardwired for belonging.
+It's in our DNA.
+
+985
+00:44:44,599 --> 00:44:45,766
+And let me tell you,
+
+986
+00:44:46,142 --> 00:44:48,644
+we are in the midst of what I would call
+
+987
+00:44:48,728 --> 00:44:51,731
+a political and social shitshow right now.
+
+988
+00:44:52,148 --> 00:44:55,067
+-[audience laughs]
+-[Brené] It's a cultural nightmare. Um...
+
+989
+00:44:56,944 --> 00:44:58,029
+It is.
+
+990
+00:44:59,572 --> 00:45:02,700
+And we want belonging
+in the midst of this thing, right?
+
+991
+00:45:02,783 --> 00:45:04,118
+Let me tell you what belonging is.
+
+992
+00:45:04,202 --> 00:45:07,914
+The opposite of belonging,
+from the research, is fitting in.
+
+993
+00:45:09,207 --> 00:45:13,294
+That's the opposite of belonging.
+Fitting in is assessing and acclimating.
+
+994
+00:45:13,878 --> 00:45:16,172
+"Here's what I should say, be.
+Here's what I shouldn't say.
+
+995
+00:45:16,255 --> 00:45:17,882
+Here's what I should avoid talking about.
+
+996
+00:45:17,965 --> 00:45:20,801
+Here's what I should dress like,
+look like." That's fitting in.
+
+997
+00:45:22,345 --> 00:45:23,179
+Belonging...
+
+998
+00:45:24,222 --> 00:45:26,933
+is belonging to yourself first.
+
+999
+00:45:27,850 --> 00:45:30,019
+Speaking your truth, telling your story,
+
+1000
+00:45:30,102 --> 00:45:32,855
+and never betraying yourself
+for other people.
+
+1001
+00:45:33,314 --> 00:45:36,859
+True belonging doesn't require you
+to change who you are.
+
+1002
+00:45:37,276 --> 00:45:39,654
+It requires you to be who you are,
+
+1003
+00:45:39,737 --> 00:45:41,239
+and that's vulnerable.
+
+1004
+00:45:41,906 --> 00:45:46,035
+And<i> </i>then the last of this big list is joy.
+
+1005
+00:45:46,369 --> 00:45:49,747
+And I'm coming at you as someone
+who studies shame and fear and scarcity.
+
+1006
+00:45:49,830 --> 00:45:54,335
+I'm here to tell you that joy is
+the most vulnerable of all human emotions.
+
+1007
+00:45:54,585 --> 00:45:57,797
+We are terrified to feel joy.
+
+1008
+00:45:58,464 --> 00:46:01,926
+We are so afraid
+that if we let ourselves feel joy,
+
+1009
+00:46:02,593 --> 00:46:06,389
+something will come along
+and rip it away from us,
+
+1010
+00:46:06,472 --> 00:46:11,143
+and we will get sucker punched
+by pain and trauma and loss.
+
+1011
+00:46:11,477 --> 00:46:16,399
+So that, in the midst of great things,
+we literally dress rehearse tragedy.
+
+1012
+00:46:17,733 --> 00:46:19,944
+How many of you are parents
+in the audience?
+
+1013
+00:46:20,027 --> 00:46:23,489
+How many have ever stood over your child
+while they're sleeping and thought,
+
+1014
+00:46:23,572 --> 00:46:27,076
+[exhales] "I love you
+like I didn't know was possible"?
+
+1015
+00:46:27,159 --> 00:46:28,244
+And in that split second,
+
+1016
+00:46:28,327 --> 00:46:30,413
+you picture something horrific happening
+to your child?
+
+1017
+00:46:31,998 --> 00:46:33,958
+Ninety-five percent of parents do that.
+
+1018
+00:46:34,542 --> 00:46:35,584
+Non-parenting example:
+
+1019
+00:46:35,668 --> 00:46:36,836
+You wake up.
+
+1020
+00:46:36,919 --> 00:46:38,337
+You're like, "Hey.
+
+1021
+00:46:38,421 --> 00:46:40,548
+I feel pretty good. Working out.
+
+1022
+00:46:41,674 --> 00:46:43,050
+Family's good.
+
+1023
+00:46:43,384 --> 00:46:44,635
+House is good.
+
+1024
+00:46:45,094 --> 00:46:46,262
+Holy shit."
+
+1025
+00:46:46,345 --> 00:46:48,347
+[audience laughs]
+
+1026
+00:46:49,307 --> 00:46:50,391
+Yes or no?
+
+1027
+00:46:50,474 --> 00:46:51,309
+[audience] Yes.
+
+1028
+00:46:51,392 --> 00:46:52,977
+[Brené] Like, "Oh, my God.
+
+1029
+00:46:53,853 --> 00:46:56,772
+What's gonna happen next?"
+We're waiting for the other shoe to drop.
+
+1030
+00:46:56,856 --> 00:46:58,190
+Here's a great example.
+
+1031
+00:47:00,985 --> 00:47:03,321
+The very first time I got to meet Oprah,
+
+1032
+00:47:04,780 --> 00:47:07,616
+got to fly to Chicago
+and do <i>SuperSoul Sunday.</i>
+
+1033
+00:47:08,492 --> 00:47:11,078
+So... [chuckling] I'm leaving the house.
+
+1034
+00:47:12,121 --> 00:47:14,707
+I get in the car
+that's gonna take me to the airport.
+
+1035
+00:47:14,790 --> 00:47:16,876
+I get out of the car,
+and I go back in the house.
+
+1036
+00:47:17,585 --> 00:47:20,838
+And I said, "Steve."
+And he goes, "Oh, God, no."
+
+1037
+00:47:20,921 --> 00:47:21,922
+[audience laughs]
+
+1038
+00:47:22,006 --> 00:47:24,091
+And I said-- No, really. I said,
+
+1039
+00:47:24,884 --> 00:47:27,720
+"The chance of me making it
+to Chicago are slim.
+
+1040
+00:47:27,803 --> 00:47:28,888
+[audience laughs]
+
+1041
+00:47:28,971 --> 00:47:32,016
+Because this is too good to be true."
+
+1042
+00:47:32,683 --> 00:47:36,145
+And he goes, "I hate it when you do this.
+I really hate it when you do this."
+
+1043
+00:47:36,228 --> 00:47:39,440
+And I was like, "I want you to remarry.
+
+1044
+00:47:40,358 --> 00:47:44,236
+I... I want you to find someone to love.
+
+1045
+00:47:44,528 --> 00:47:46,864
+I want you to wait
+an appropriate amount of time,
+
+1046
+00:47:46,947 --> 00:47:49,575
+but I want you to find someone else."
+
+1047
+00:47:50,242 --> 00:47:52,828
+And he's like, "I got it. Go," you know.
+And I said,
+
+1048
+00:47:53,829 --> 00:47:58,542
+"And I've been thinking about it a lot.
+In the right hand drawer of my study--"
+
+1049
+00:47:58,626 --> 00:48:00,920
+And he's like, "Oh, my God.
+
+1050
+00:48:01,003 --> 00:48:04,632
+Did you write a list of people
+you think I should marry?"
+
+1051
+00:48:06,342 --> 00:48:08,260
+And I was like, "No.
+
+1052
+00:48:08,344 --> 00:48:11,305
+But I wrote a list of people
+you damn well better not marry.
+
+1053
+00:48:11,389 --> 00:48:13,140
+[audience laughs]
+
+1054
+00:48:13,224 --> 00:48:14,892
+[Brené] Because I need to make sure...
+
+1055
+00:48:17,686 --> 00:48:19,105
+[audience laughs]
+
+1056
+00:48:20,481 --> 00:48:23,109
+...that if you marry somebody
+on this list,
+
+1057
+00:48:23,651 --> 00:48:24,860
+I'll be back.
+
+1058
+00:48:26,779 --> 00:48:28,823
+And it won't be fun, like in the movies."
+
+1059
+00:48:28,906 --> 00:48:31,784
+And he's like, "You've gotta get
+in the car, or I'm gonna remarry.
+
+1060
+00:48:31,867 --> 00:48:33,077
+Like-- Like, go."
+
+1061
+00:48:34,662 --> 00:48:36,580
+How many of you do that thing?
+
+1062
+00:48:36,664 --> 00:48:38,165
+That foreboding joy?
+
+1063
+00:48:38,457 --> 00:48:42,420
+Because when we lose our capacity
+for vulnerability, joy becomes foreboding.
+
+1064
+00:48:43,129 --> 00:48:46,132
+It becomes scary to let ourselves feel it.
+
+1065
+00:48:46,215 --> 00:48:50,803
+And the research participants
+who had the ability to lean fully into joy
+
+1066
+00:48:50,886 --> 00:48:53,180
+only shared one variable in common.
+
+1067
+00:48:53,264 --> 00:48:56,100
+They only shared one thing
+across all the variables.
+
+1068
+00:48:56,183 --> 00:48:59,520
+The people who could really lean into joy,
+they didn't dress rehearse tragedy.
+
+1069
+00:48:59,603 --> 00:49:01,939
+They didn't practice the terrible things.
+
+1070
+00:49:02,022 --> 00:49:04,692
+They just leaned in. What do you think
+the one thing they share is?
+
+1071
+00:49:04,775 --> 00:49:05,776
+[man] Gratitude.
+
+1072
+00:49:05,860 --> 00:49:06,944
+Gratitude.
+
+1073
+00:49:07,778 --> 00:49:09,947
+Gratitude. They practiced gratitude.
+
+1074
+00:49:10,531 --> 00:49:13,909
+Because here's the thing.
+Vulnerability has a real physiology.
+
+1075
+00:49:13,993 --> 00:49:16,078
+It has a real tremor.
+
+1076
+00:49:16,495 --> 00:49:17,746
+Something inside of us.
+
+1077
+00:49:17,830 --> 00:49:20,499
+When we feel vulnerable,
+our body is like, "Whew."
+
+1078
+00:49:20,791 --> 00:49:25,838
+Some people use that as a warning
+to start dress-rehearsing for bad things.
+
+1079
+00:49:25,921 --> 00:49:29,300
+Some of us try to use it
+as a reminder to be grateful.
+
+1080
+00:49:29,925 --> 00:49:31,844
+Like,
+I'll never forget standing at the door
+
+1081
+00:49:31,927 --> 00:49:34,722
+watching my daughter, Ellen,
+walk to the car
+
+1082
+00:49:34,805 --> 00:49:37,725
+with her boyfriend
+in her senior year to senior prom.
+
+1083
+00:49:38,350 --> 00:49:40,769
+And I'm standing there,
+and they're walking towards his truck,
+
+1084
+00:49:40,853 --> 00:49:42,855
+and what's the only thing
+I'm thinking about?
+
+1085
+00:49:42,938 --> 00:49:45,566
+-[audience laughs and mumbles]
+-Car crash, right?
+
+1086
+00:49:46,859 --> 00:49:49,528
+And I remember just going,
+"I'm so grateful. Y'all have fun.
+
+1087
+00:49:49,612 --> 00:49:53,699
+I'm so grateful. I'm super grateful for...
+
+1088
+00:49:54,992 --> 00:49:56,660
+being a part of this process.
+
+1089
+00:49:56,744 --> 00:49:58,120
+I'm grateful."
+
+1090
+00:49:58,496 --> 00:50:00,080
+Charlie, my son, was standing next to me,
+
+1091
+00:50:00,164 --> 00:50:03,292
+and he kinda looked around at Steve,
+on the other side, and he goes,
+
+1092
+00:50:03,751 --> 00:50:05,252
+"What's wrong with Mom?"
+
+1093
+00:50:05,336 --> 00:50:08,839
+And he said,
+"Let her keep saying how grateful she is,
+
+1094
+00:50:08,923 --> 00:50:10,883
+otherwise things will get
+really dangerous.
+
+1095
+00:50:10,966 --> 00:50:13,093
+Just, grateful. We're all grateful!"
+
+1096
+00:50:13,594 --> 00:50:15,596
+-[audience laughs]
+-[Brené] Um...
+
+1097
+00:50:17,264 --> 00:50:20,434
+But gratitude is also vulnerable, right?
+
+1098
+00:50:21,101 --> 00:50:22,228
+Gratitude is also vulnerable.
+
+1099
+00:50:22,311 --> 00:50:24,438
+Sometimes we're afraid to feel it
+'cause we feel like,
+
+1100
+00:50:24,522 --> 00:50:26,524
+is that dangerous to say
+I'm grateful for something
+
+1101
+00:50:26,607 --> 00:50:29,902
+because then is someone listening
+and saying, "Ooh, I can take that away."
+
+1102
+00:50:29,985 --> 00:50:32,238
+Like, I don't--
+My God doesn't work that way.
+
+1103
+00:50:32,613 --> 00:50:34,448
+But sometimes I fear it anyway.
+
+1104
+00:50:35,157 --> 00:50:40,079
+I've had this incredible experience, um,
+doing this research over the past,
+
+1105
+00:50:40,162 --> 00:50:41,997
+I don't know,
+probably 15 years especially,
+
+1106
+00:50:42,081 --> 00:50:44,291
+where I've had the honor of sitting across
+
+1107
+00:50:44,375 --> 00:50:47,127
+from people who have survived
+tremendous things.
+
+1108
+00:50:47,211 --> 00:50:52,132
+Um, mass shootings,
+the death of children, genocide.
+
+1109
+00:50:53,175 --> 00:50:57,054
+And... really trying to understand...
+
+1110
+00:50:57,721 --> 00:51:02,101
+from them what we can do better
+collectively to show up...
+
+1111
+00:51:02,977 --> 00:51:04,770
+in a compassionate way.
+
+1112
+00:51:05,688 --> 00:51:10,776
+And it's<i> </i>an interesting swirl of variables
+around joy and gratitude and compassion.
+
+1113
+00:51:10,859 --> 00:51:13,279
+And so, there are three things I learned.
+
+1114
+00:51:14,029 --> 00:51:17,157
+The first was,
+across all of these interviews,
+
+1115
+00:51:17,241 --> 00:51:18,367
+they said the same thing.
+
+1116
+00:51:18,450 --> 00:51:21,745
+No matter what the trauma was
+that they were recovering from, they said,
+
+1117
+00:51:22,246 --> 00:51:24,623
+"When you are grateful for what you have,
+
+1118
+00:51:25,457 --> 00:51:30,588
+I understand that you understand
+the magnitude of what I've lost."
+
+1119
+00:51:32,381 --> 00:51:35,884
+So often we're afraid to be grateful
+for what we have,
+
+1120
+00:51:35,968 --> 00:51:39,847
+especially in front of people
+who've gone through great trauma and loss
+
+1121
+00:51:39,930 --> 00:51:41,640
+'cause we think it's insensitive.
+
+1122
+00:51:43,475 --> 00:51:44,602
+But it's really hard
+
+1123
+00:51:44,685 --> 00:51:47,062
+because for those of us
+who don't want to be grateful,
+
+1124
+00:51:47,146 --> 00:51:50,065
+to show a picture of our child to someone
+maybe who's lost a child,
+
+1125
+00:51:50,149 --> 00:51:51,942
+what they see is,
+
+1126
+00:51:53,277 --> 00:51:55,904
+"Not only are you not going to talk to me
+about your child,
+
+1127
+00:51:55,988 --> 00:51:58,616
+me talking about my loss
+and child is not on the table either."
+
+1128
+00:52:00,117 --> 00:52:04,163
+You know? So I think gratitude,
+in some ways, is healing for people,
+
+1129
+00:52:04,496 --> 00:52:06,498
+and we don't think about it that way.
+
+1130
+00:52:06,582 --> 00:52:08,542
+The second thing that I learned
+
+1131
+00:52:08,626 --> 00:52:11,754
+that changed me as well
+is this idea that when I said,
+
+1132
+00:52:11,837 --> 00:52:14,590
+"Tell me about the grief,
+the longing, the loss,"
+
+1133
+00:52:14,673 --> 00:52:18,052
+and they said the thing
+that surprised them the most
+
+1134
+00:52:18,135 --> 00:52:21,096
+was how they missed
+the ordinary moments
+
+1135
+00:52:21,180 --> 00:52:22,681
+more than anything else.
+
+1136
+00:52:23,515 --> 00:52:25,893
+That they missed the simple,
+ordinary things
+
+1137
+00:52:25,976 --> 00:52:29,521
+that they never really took notice of
+when they were happening.
+
+1138
+00:52:30,814 --> 00:52:34,109
+One woman told me, "I used to get
+these crazy texts from my mom
+
+1139
+00:52:34,193 --> 00:52:36,445
+because she never quite learned
+how to use her phone.
+
+1140
+00:52:36,528 --> 00:52:39,531
+And I was like, 'Man, learn how to use
+your phone, Mom, then text me.'
+
+1141
+00:52:39,615 --> 00:52:41,950
+And now I would kill for a text
+from my mom.
+
+1142
+00:52:42,034 --> 00:52:44,203
+I wouldn't care, you know,
+how many emojis were in it.
+
+1143
+00:52:44,286 --> 00:52:47,289
+Just something from my mom,
+but she's gone now."
+
+1144
+00:52:48,624 --> 00:52:49,458
+Or someone--
+
+1145
+00:52:49,541 --> 00:52:53,629
+A couple whose child had died of cancer,
+a four-year-old.
+
+1146
+00:52:54,755 --> 00:52:57,591
+And they said, you know, "We used to get
+on him all the time and say,
+
+1147
+00:52:57,675 --> 00:53:00,219
+'Man, stop slamming the screen door.'"
+
+1148
+00:53:00,302 --> 00:53:03,472
+This was his, like--
+This was his signature move, you know.
+
+1149
+00:53:03,555 --> 00:53:04,807
+Just... [imitates door slamming]
+
+1150
+00:53:04,890 --> 00:53:07,601
+And he said, "Sometimes me and my husband
+just stand at the back door
+
+1151
+00:53:07,685 --> 00:53:10,688
+and just slam it for five or ten minutes,
+just to hear it."
+
+1152
+00:53:11,355 --> 00:53:13,941
+You know, there's these--
+And for all of us,
+
+1153
+00:53:14,024 --> 00:53:17,236
+I think, for me, the lesson was,
+and you can take it if it fits...
+
+1154
+00:53:17,945 --> 00:53:22,074
+I get so busy sometimes
+chasing the extraordinary moments
+
+1155
+00:53:22,157 --> 00:53:25,202
+that I don't pay attention
+to the ordinary moments.
+
+1156
+00:53:25,285 --> 00:53:28,706
+The moments that, if taken away,
+I would miss more than anything.
+
+1157
+00:53:29,790 --> 00:53:32,626
+You know? My daughter has
+this really interesting thing.
+
+1158
+00:53:33,168 --> 00:53:34,169
+She was probably...
+
+1159
+00:53:35,337 --> 00:53:37,798
+ten, maybe nine at the time,
+
+1160
+00:53:37,881 --> 00:53:40,384
+and I picked her up from school
+in Houston, where we live,
+
+1161
+00:53:40,467 --> 00:53:43,595
+and we went to Hermann Park,
+and we were on one of those paddle boats.
+
+1162
+00:53:43,679 --> 00:53:45,681
+I brought some old bread,
+and we were feeding the ducks.
+
+1163
+00:53:45,764 --> 00:53:47,516
+I looked over and she was like this...
+
+1164
+00:53:48,892 --> 00:53:51,019
+I was like, "Are you okay?"
+And she goes...
+
+1165
+00:53:52,229 --> 00:53:53,522
+[audience laughs]
+
+1166
+00:53:53,605 --> 00:53:56,191
+And finally, she said, "Yeah, I'm good."
+And I was like, "What are you doing?"
+
+1167
+00:53:56,275 --> 00:53:58,527
+And she goes,
+"I was making a picture memory."
+
+1168
+00:53:59,403 --> 00:54:02,531
+And I said, "What's a picture memory?"
+And she said, "Sometimes,
+
+1169
+00:54:02,823 --> 00:54:05,075
+when I'm really grateful,
+and things are just amazing,
+
+1170
+00:54:05,159 --> 00:54:07,286
+I close my eyes and take a picture memory,
+
+1171
+00:54:07,369 --> 00:54:10,873
+so when I feel lonely or things are hard,
+I can remember it."
+
+1172
+00:54:11,498 --> 00:54:14,877
+You know, I think the picture memory
+is a lot better than our phone.
+
+1173
+00:54:15,210 --> 00:54:19,631
+You know, I think taking a moment
+and just committing to just that feeling.
+
+1174
+00:54:20,299 --> 00:54:22,217
+What were we in, in that moment?
+
+1175
+00:54:23,051 --> 00:54:27,723
+The next thing which is really hard
+for me, and I'll be honest,
+
+1176
+00:54:27,806 --> 00:54:32,936
+is sometimes just do the joyful thing
+for the hell of it.
+
+1177
+00:54:33,020 --> 00:54:34,772
+Just choose joy sometimes.
+
+1178
+00:54:34,855 --> 00:54:38,192
+Just choose a thing
+that seems frivolous and fun
+
+1179
+00:54:38,275 --> 00:54:41,987
+and has no ROI or payoff or upside.
+
+1180
+00:54:42,070 --> 00:54:44,239
+Just do the joyful thing.
+
+1181
+00:54:44,323 --> 00:54:46,950
+You know? And, you know,
+Stuart Brown, who studies play,
+
+1182
+00:54:47,034 --> 00:54:51,455
+defines play
+as time spent without purpose.
+
+1183
+00:54:52,039 --> 00:54:54,333
+-Like, I call that an anxiety attack.
+-[audience laughs]
+
+1184
+00:54:54,416 --> 00:54:58,378
+Like-- Like,
+I-- I have a hard time doing that,
+
+1185
+00:54:58,712 --> 00:54:59,880
+just choosing joy.
+
+1186
+00:54:59,963 --> 00:55:02,299
+But Charlie, who's 13 now,
+
+1187
+00:55:02,382 --> 00:55:05,803
+last year when he was in sixth grade,
+he came to me one day and he said,
+
+1188
+00:55:06,094 --> 00:55:07,763
+"I really need to up my grade
+in this class.
+
+1189
+00:55:07,846 --> 00:55:10,015
+I really want to do it."
+I said, "Your grade's fine."
+
+1190
+00:55:10,682 --> 00:55:13,852
+And he said, "No, I-- I think
+I really want to try." And I said, "Okay."
+
+1191
+00:55:13,936 --> 00:55:16,230
+A week later he comes home and said,
+"We got a huge project.
+
+1192
+00:55:16,313 --> 00:55:18,232
+It's a big one." And I said, "Okay."
+
+1193
+00:55:18,315 --> 00:55:20,776
+He said, "I was just gonna do it
+tomorrow morning before school,
+
+1194
+00:55:20,859 --> 00:55:22,694
+but maybe I should just dig in."
+
+1195
+00:55:22,778 --> 00:55:24,947
+And I said, "Okay. Let's do it."
+
+1196
+00:55:25,030 --> 00:55:27,825
+And he said, "It's an art project."
+I'm like, "Oh, my God.
+
+1197
+00:55:27,908 --> 00:55:30,702
+I have an art and craft supply
+addiction issue.
+
+1198
+00:55:30,786 --> 00:55:33,997
+So I was like,
+"Let's go to the craft closet." Um...
+
+1199
+00:55:34,081 --> 00:55:37,626
+And so he had to make a gladiator helmet
+out of, like, paper.
+
+1200
+00:55:37,709 --> 00:55:39,920
+And so he starts making it,
+and I'm kinda watching.
+
+1201
+00:55:40,003 --> 00:55:43,465
+Every now and then I have an idea,
+and he's like, "Eh," which is good.
+
+1202
+00:55:43,924 --> 00:55:47,177
+And he's like, "You know, you're allowed
+to write something on it if you want to.
+
+1203
+00:55:47,261 --> 00:55:49,137
+Should I take a chance
+and write something on it?
+
+1204
+00:55:49,221 --> 00:55:50,848
+I have a funny idea,
+but it's kinda weird."
+
+1205
+00:55:50,931 --> 00:55:52,808
+And I was like, "Take a chance."
+
+1206
+00:55:53,308 --> 00:55:55,769
+So he writes on it, and he shows it to me,
+
+1207
+00:55:55,853 --> 00:55:58,647
+and his gladiator helmet says,
+"I run with scissors."
+
+1208
+00:55:58,730 --> 00:56:02,985
+-[audience laughs]
+-And I think it's really funny, right?
+
+1209
+00:56:03,485 --> 00:56:07,823
+So he takes it to school,
+and I'm like, "How'd it go?"
+
+1210
+00:56:07,906 --> 00:56:09,825
+And he's like,
+"Yeah, I think it was pretty good."
+
+1211
+00:56:09,908 --> 00:56:12,619
+The next day he comes home,
+and he goes, "Oh, my God.
+
+1212
+00:56:12,703 --> 00:56:15,163
+I won first place.
+
+1213
+00:56:15,539 --> 00:56:18,083
+The best gladiator helmet in sixth grade."
+
+1214
+00:56:18,417 --> 00:56:20,168
+And I was like, "Oh, my God, Charlie.
+
+1215
+00:56:20,252 --> 00:56:22,129
+Effort and you took a chance.
+
+1216
+00:56:22,212 --> 00:56:24,464
+Like, effort and taking a chance
+doesn't always pay off,
+
+1217
+00:56:24,548 --> 00:56:25,841
+but I don't see anything, really,
+
+1218
+00:56:25,924 --> 00:56:28,135
+that pays off without effort
+or taking a chance,
+
+1219
+00:56:28,218 --> 00:56:29,386
+so there you go." And he goes,
+
+1220
+00:56:29,469 --> 00:56:33,390
+"She said I could have points added
+to my final grade,
+
+1221
+00:56:33,473 --> 00:56:35,100
+or, like, a secret treasure."
+
+1222
+00:56:35,183 --> 00:56:38,061
+And I was like, "Oh, how many points
+are you getting added to your grade?"
+
+1223
+00:56:38,145 --> 00:56:39,354
+He goes...
+
+1224
+00:56:40,439 --> 00:56:43,692
+-"What? I picked the secret treasure."
+-[audience laughs]
+
+1225
+00:56:46,236 --> 00:56:48,071
+"Yes, that's good.
+
+1226
+00:56:48,822 --> 00:56:51,241
+Right on!" It was like a Pokémon pencil.
+
+1227
+00:56:51,909 --> 00:56:52,826
+I was like,
+
+1228
+00:56:53,243 --> 00:56:54,077
+"What?
+
+1229
+00:56:55,203 --> 00:56:57,706
+Secret treasure?"
+So now every now and then, I'm like,
+
+1230
+00:56:57,789 --> 00:57:01,627
+"I could do this and it could get me here,
+or I could just pick the secret treasure."
+
+1231
+00:57:02,210 --> 00:57:04,296
+The joy, right? Just the joy.
+
+1232
+00:57:05,631 --> 00:57:10,802
+Work is another place where vulnerability
+gives birth to really important things.
+
+1233
+00:57:11,970 --> 00:57:13,931
+Empathy, trust.
+
+1234
+00:57:14,264 --> 00:57:15,140
+Look...
+
+1235
+00:57:16,183 --> 00:57:18,143
+people call me all the time and say,
+
+1236
+00:57:18,226 --> 00:57:19,853
+"Can you come talk
+to our leadership team?"
+
+1237
+00:57:19,937 --> 00:57:22,940
+I spend about 90% of my time now
+doing leadership work.
+
+1238
+00:57:23,023 --> 00:57:24,399
+"Can you come talk to our team?"
+
+1239
+00:57:24,483 --> 00:57:27,402
+"What do you want me to talk about?"
+"Anything but vulnerability and shame."
+
+1240
+00:57:27,486 --> 00:57:29,655
+I'm like, "No, I'm not you."
+They're like--
+
+1241
+00:57:29,738 --> 00:57:32,157
+This is my favorite one.
+Someone said, "Well...
+
+1242
+00:57:33,116 --> 00:57:34,701
+fourth-quarter earnings."
+
+1243
+00:57:34,785 --> 00:57:37,079
+I was like, "I don't give a shit
+about your fourth-quarter earnings."
+
+1244
+00:57:37,162 --> 00:57:39,706
+Like, I'm like, "What am I gonna talk
+to you about?"
+
+1245
+00:57:39,790 --> 00:57:40,707
+They're like,
+
+1246
+00:57:40,791 --> 00:57:43,418
+"We have a huge creativity
+and innovation problem."
+
+1247
+00:57:43,502 --> 00:57:46,046
+I'm like, "But you don't want
+to talk about vulnerability?"
+
+1248
+00:57:47,881 --> 00:57:50,300
+No vulnerability, no creativity.
+
+1249
+00:57:50,634 --> 00:57:53,679
+No tolerance for failure, no innovation.
+
+1250
+00:57:54,012 --> 00:57:55,263
+It is that simple.
+
+1251
+00:57:55,681 --> 00:57:58,642
+If you're not willing to fail,
+you can't innovate.
+
+1252
+00:57:58,725 --> 00:58:01,979
+If you're not willing
+to build a vulnerable culture,
+
+1253
+00:58:02,604 --> 00:58:03,897
+you can't create.
+
+1254
+00:58:04,523 --> 00:58:06,024
+It's just that simple.
+
+1255
+00:58:07,526 --> 00:58:09,486
+Inclusivity, equity, diversity.
+
+1256
+00:58:10,612 --> 00:58:13,573
+We're in the middle
+of really important movements right now,
+
+1257
+00:58:13,657 --> 00:58:16,576
+movements that I hope
+will change the world.
+
+1258
+00:58:16,660 --> 00:58:19,204
+Black Lives Matter, Me Too, Time's Up.
+
+1259
+00:58:19,287 --> 00:58:21,248
+-These are-- These are big...
+-[audience applauds]
+
+1260
+00:58:23,917 --> 00:58:25,419
+These are big movements.
+
+1261
+00:58:25,502 --> 00:58:28,213
+Trans Lives Matter.
+These are movements that matter,
+
+1262
+00:58:28,797 --> 00:58:31,758
+and these are movements
+that have the potential to change things.
+
+1263
+00:58:32,718 --> 00:58:37,305
+What happens is, every organization
+I go into right now, they say,
+
+1264
+00:58:37,514 --> 00:58:39,391
+"We don't know
+how to have these conversations.
+
+1265
+00:58:39,474 --> 00:58:41,268
+They're incredibly uncomfortable.
+
+1266
+00:58:42,519 --> 00:58:44,855
+We're<i> </i>afraid
+we're gonna say the wrong thing.
+
+1267
+00:58:46,231 --> 00:58:48,859
+We're afraid that what I say
+won't match my heart.
+
+1268
+00:58:49,818 --> 00:58:51,570
+I'll be taken the wrong way.
+
+1269
+00:58:51,653 --> 00:58:53,030
+People will make assumptions."
+
+1270
+00:58:53,113 --> 00:58:57,117
+And so, I think there's
+a very clear answer here, which is,
+
+1271
+00:58:57,993 --> 00:59:02,914
+first, to not have the conversations
+because they make you uncomfortable
+
+1272
+00:59:02,998 --> 00:59:04,916
+is the definition of privilege.
+
+1273
+00:59:05,250 --> 00:59:08,003
+Your comfort is not at the center
+of this discussion.
+
+1274
+00:59:08,086 --> 00:59:10,422
+Like, that is not how this works.
+
+1275
+00:59:11,840 --> 00:59:13,258
+It just doesn't work that way.
+
+1276
+00:59:13,341 --> 00:59:17,262
+Of course you're going to get your ass
+handed to you in these conversations.
+
+1277
+00:59:17,345 --> 00:59:20,182
+And the whiter, straighter, Christian,
+
+1278
+00:59:20,265 --> 00:59:22,934
+majority culture you are,
+the more mistakes you're gonna make.
+
+1279
+00:59:23,018 --> 00:59:25,187
+It's not a question about
+whether you have a bias or not,
+
+1280
+00:59:25,270 --> 00:59:28,982
+it's what biases do you have,
+and how many, and how bad, and how deep?
+
+1281
+00:59:29,066 --> 00:59:30,484
+That's going to happen.
+
+1282
+00:59:30,942 --> 00:59:33,904
+That's what we sign up for
+when we have these conversations.
+
+1283
+00:59:35,614 --> 00:59:38,450
+That's how it works. And then you listen,
+
+1284
+00:59:39,576 --> 00:59:41,203
+and you learn,
+
+1285
+00:59:41,286 --> 00:59:43,622
+and<i> </i>you don't hold the people accountable.
+
+1286
+00:59:43,705 --> 00:59:45,999
+You know, the people who are targeted
+
+1287
+00:59:46,083 --> 00:59:49,544
+by racism and homophobia,
+and heterosexism, and gender bias
+
+1288
+00:59:49,795 --> 00:59:53,215
+are not responsible...
+for initiating these conversations
+
+1289
+00:59:53,298 --> 00:59:55,634
+and building the tables
+where they should be happening.
+
+1290
+00:59:55,717 --> 00:59:58,136
+-[audience applauds]
+-That's not-- That's not how this works.
+
+1291
+01:00:00,972 --> 01:00:03,475
+We have to be able
+to choose courage over comfort,
+
+1292
+01:00:03,558 --> 01:00:04,976
+and we have to say, "Look...
+
+1293
+01:00:06,436 --> 01:00:08,563
+I don't know that I'm gonna nail this,
+but I'm gonna try
+
+1294
+01:00:08,647 --> 01:00:11,483
+'cause what I'm sure as hell
+not gonna do is stay quiet."
+
+1295
+01:00:12,859 --> 01:00:14,402
+That's what we can't do.
+
+1296
+01:00:15,570 --> 01:00:17,489
+And so, yeah, you're gonna make
+a lot of mistakes.
+
+1297
+01:00:17,572 --> 01:00:19,074
+Yeah, it's gonna be uncomfortable.
+
+1298
+01:00:19,157 --> 01:00:21,284
+Yeah, you're gonna learn about blind spots
+
+1299
+01:00:21,368 --> 01:00:23,578
+that you didn't even know you had.
+
+1300
+01:00:24,663 --> 01:00:27,249
+And then you're gonna be grateful
+for that moment
+
+1301
+01:00:27,541 --> 01:00:29,084
+and take learning it...
+
+1302
+01:00:29,835 --> 01:00:33,338
+into your own hands, not make other people
+responsible for teaching it,
+
+1303
+01:00:34,506 --> 01:00:36,258
+and that's how we move forward.
+
+1304
+01:00:36,800 --> 01:00:39,594
+But if you think there's gonna be
+real conversation in this country
+
+1305
+01:00:39,678 --> 01:00:41,596
+or in companies or organizations
+
+1306
+01:00:41,930 --> 01:00:45,350
+around equity
+and-- and diversity and inclusivity...
+
+1307
+01:00:46,351 --> 01:00:48,228
+while you remain comfortable,
+
+1308
+01:00:50,021 --> 01:00:51,857
+that is not gonna happen.
+
+1309
+01:00:51,940 --> 01:00:53,400
+And it shouldn't happen.
+
+1310
+01:00:53,483 --> 01:00:56,444
+So when we build cultures at work,
+
+1311
+01:00:56,903 --> 01:00:59,406
+where there is zero tolerance
+for vulnerability,
+
+1312
+01:01:00,824 --> 01:01:06,037
+where perfectionism and armor
+are rewarded and necessary,
+
+1313
+01:01:06,872 --> 01:01:09,791
+you can't have these conversations.
+They're not productive.
+
+1314
+01:01:11,334 --> 01:01:15,463
+How many of you think, tomorrow,
+if I had a magic wand
+
+1315
+01:01:15,547 --> 01:01:18,633
+and I could wave it at where you work--
+it's your office--
+
+1316
+01:01:18,717 --> 01:01:20,343
+and tomorrow morning
+when you walked in,
+
+1317
+01:01:20,427 --> 01:01:24,806
+everyone in that office had the capacity
+for difficult, productive conversation,
+
+1318
+01:01:24,890 --> 01:01:27,475
+how many of you think
+things would change overnight?
+
+1319
+01:01:27,934 --> 01:01:30,687
+If everyone could have
+really hard conversations?
+
+1320
+01:01:31,521 --> 01:01:33,398
+We can't have them.
+You know what we end up doing?
+
+1321
+01:01:33,481 --> 01:01:36,735
+We end up talking about people
+instead of talking to people.
+
+1322
+01:01:36,818 --> 01:01:38,278
+[scattered applause]
+
+1323
+01:01:38,361 --> 01:01:39,321
+And it's really--
+
+1324
+01:01:39,404 --> 01:01:42,866
+It's toxic. It just takes over culture.
+
+1325
+01:01:43,700 --> 01:01:45,827
+Giving feedback, receiving feedback,
+
+1326
+01:01:45,911 --> 01:01:48,622
+problem-solving,
+ethical decision-making...
+
+1327
+01:01:48,914 --> 01:01:51,041
+These are all born of vulnerability.
+
+1328
+01:01:53,001 --> 01:01:57,214
+I understand that work seems
+like a hard place to be vulnerable,
+
+1329
+01:01:57,297 --> 01:02:00,133
+but we spend
+more than half of our lives at work,
+
+1330
+01:02:01,801 --> 01:02:05,305
+and I've never met a single person
+or interviewed a single person
+
+1331
+01:02:05,388 --> 01:02:06,640
+in 20 years
+
+1332
+01:02:07,474 --> 01:02:10,852
+that had a joyful, wholehearted life
+that was miserable at work.
+
+1333
+01:02:11,686 --> 01:02:13,438
+That stuff will eat you alive.
+
+1334
+01:02:14,231 --> 01:02:16,816
+And we all have a responsibility
+to show up
+
+1335
+01:02:17,442 --> 01:02:20,487
+and bring our whole hearts
+and our whole selves to work
+
+1336
+01:02:20,570 --> 01:02:23,698
+and lean in to the tough conversations.
+
+1337
+01:02:24,115 --> 01:02:28,078
+Brave leaders are never silent
+around hard things.
+
+1338
+01:02:28,662 --> 01:02:31,039
+Our job is to excavate the unsaid.
+
+1339
+01:02:31,957 --> 01:02:33,917
+What is the thing that's not being said?
+
+1340
+01:02:34,000 --> 01:02:36,336
+And that requires courage
+and vulnerability.
+
+1341
+01:02:38,088 --> 01:02:40,382
+People ask,
+"Where do I start with vulnerability?"
+
+1342
+01:02:40,465 --> 01:02:43,301
+And the best place to start
+is dispelling the myths.
+
+1343
+01:02:43,385 --> 01:02:46,137
+So myth one: Vulnerability is weakness.
+
+1344
+01:02:47,222 --> 01:02:48,515
+I've spent a lot of time
+
+1345
+01:02:48,598 --> 01:02:51,142
+evangelizing around this,
+and here's the thing.
+
+1346
+01:02:52,143 --> 01:02:53,979
+I've cut it down to one question.
+
+1347
+01:02:54,854 --> 01:02:56,189
+And here's the question:
+
+1348
+01:02:56,773 --> 01:02:57,774
+Vulnerability...
+
+1349
+01:02:58,692 --> 01:03:03,905
+is-- the definition of it, from the data--
+uncertainty, risk, emotional exposure.
+
+1350
+01:03:04,281 --> 01:03:07,575
+So vulnerability is the feeling
+that we get when we feel uncertain,
+
+1351
+01:03:07,659 --> 01:03:09,577
+at risk, or emotionally exposed.
+
+1352
+01:03:10,954 --> 01:03:13,248
+So I was doing work with special forces
+
+1353
+01:03:13,331 --> 01:03:17,127
+maybe a year ago now,
+and I asked a question.
+
+1354
+01:03:17,544 --> 01:03:20,171
+Could anyone,
+any one of the troops in this audience,
+
+1355
+01:03:20,255 --> 01:03:22,299
+give me an example of courage
+from their life
+
+1356
+01:03:22,382 --> 01:03:24,968
+or something they witnessed
+in a colleague's life.
+
+1357
+01:03:25,051 --> 01:03:26,886
+A single example of courage
+
+1358
+01:03:26,970 --> 01:03:30,640
+that did not require uncertainty,
+risk, and emotional exposure,
+
+1359
+01:03:31,016 --> 01:03:32,767
+and there was just silence.
+
+1360
+01:03:32,851 --> 01:03:35,395
+And I waited, and it seemed
+like a long time, and finally...
+
+1361
+01:03:36,187 --> 01:03:37,981
+a young man stood up and said,
+
+1362
+01:03:38,690 --> 01:03:39,774
+"Three tours, ma'am.
+
+1363
+01:03:40,734 --> 01:03:42,861
+There is no courage
+without vulnerability."
+
+1364
+01:03:44,070 --> 01:03:48,074
+And so I would ask y'all, in here,
+give me a single example of courage
+
+1365
+01:03:48,158 --> 01:03:50,994
+in your life or that you've witnessed
+in someone else's.
+
+1366
+01:03:51,077 --> 01:03:52,579
+A single example of courage
+
+1367
+01:03:52,662 --> 01:03:55,999
+that did not require uncertainty,
+risk, or emotional exposure.
+
+1368
+01:03:57,876 --> 01:03:59,377
+I don't think you can.
+
+1369
+01:03:59,461 --> 01:04:01,921
+There is no courage without vulnerability.
+
+1370
+01:04:02,005 --> 01:04:04,883
+Yet, how many were raised to believe
+that courage is an important value?
+
+1371
+01:04:04,966 --> 01:04:07,385
+That you should be brave with your life?
+Show of hands.
+
+1372
+01:04:08,345 --> 01:04:11,806
+How many of you were raised to believe
+that vulnerability is weakness?
+
+1373
+01:04:15,143 --> 01:04:18,897
+Here's the rub. Be brave,
+but never put yourself out there.
+
+1374
+01:04:20,273 --> 01:04:22,484
+We've gotta dispel the myth, right?
+
+1375
+01:04:22,776 --> 01:04:25,278
+Number two: "I don't do vulnerability."
+
+1376
+01:04:25,362 --> 01:04:27,697
+[audience laughs]
+
+1377
+01:04:27,781 --> 01:04:28,656
+Yes, you do.
+
+1378
+01:04:28,740 --> 01:04:31,368
+Anyone here manage to live
+to this point in your life
+
+1379
+01:04:31,451 --> 01:04:33,870
+without uncertainty, risk,
+or emotional exposure?
+
+1380
+01:04:35,455 --> 01:04:36,581
+No.
+
+1381
+01:04:36,664 --> 01:04:38,249
+We do vulnerability. And here's the thing.
+
+1382
+01:04:38,333 --> 01:04:40,377
+You only have two options. There's--
+You only have two options.
+
+1383
+01:04:40,460 --> 01:04:42,337
+You do vulnerability knowingly,
+
+1384
+01:04:42,420 --> 01:04:44,589
+-or vulnerability does you.
+-[audience laughs]
+
+1385
+01:04:45,840 --> 01:04:49,636
+Vulnerability shows up, and you--
+and if you don't know, just go home...
+
+1386
+01:04:50,178 --> 01:04:53,098
+and say, "Hey,
+do you think I do vulnerability well?"
+
+1387
+01:04:53,181 --> 01:04:55,642
+to someone you love,
+and then step back a couple steps...
+
+1388
+01:04:55,725 --> 01:04:58,061
+-[audience laughs]
+-...and take in the truth.
+
+1389
+01:04:58,937 --> 01:05:01,815
+You do vulnerability,
+knowingly or unknowingly.
+
+1390
+01:05:01,898 --> 01:05:04,442
+And here's the thing.
+Here's why we need it.
+
+1391
+01:05:06,778 --> 01:05:10,782
+Man, it is so much easier
+to cause pain than feel pain.
+
+1392
+01:05:11,908 --> 01:05:13,868
+And people are taking their pain
+
+1393
+01:05:14,411 --> 01:05:16,996
+and they're working it out
+on other people.
+
+1394
+01:05:17,330 --> 01:05:20,208
+And when you don't acknowledge
+your vulnerability,
+
+1395
+01:05:20,291 --> 01:05:23,002
+you work your shit out on other people.
+
+1396
+01:05:23,086 --> 01:05:26,047
+Stop working your shit out
+on other people.
+
+1397
+01:05:26,131 --> 01:05:27,799
+[audience applauds]
+
+1398
+01:05:27,882 --> 01:05:29,384
+Right? Stop.
+
+1399
+01:05:32,554 --> 01:05:36,099
+It's okay if you've got
+crazy stuff going on. Join the club.
+
+1400
+01:05:36,724 --> 01:05:37,809
+Like we all do.
+
+1401
+01:05:38,268 --> 01:05:41,771
+The difference is, don't offload
+your hard stuff on other people.
+
+1402
+01:05:43,690 --> 01:05:46,151
+Three: "I can go it alone."
+This was my favorite.
+
+1403
+01:05:46,234 --> 01:05:48,236
+One time after a talk,
+a guy came up to me and goes,
+
+1404
+01:05:48,736 --> 01:05:50,029
+"I'm gonna try it.
+
+1405
+01:05:50,363 --> 01:05:52,157
+I'm gonna try vulnerability...
+
+1406
+01:05:52,240 --> 01:05:53,491
+[audience laughs]
+
+1407
+01:05:53,575 --> 01:05:55,326
+...but I'm gonna try it by myself.
+
+1408
+01:05:57,495 --> 01:05:58,788
+And I'm gonna see how it goes,
+
+1409
+01:05:58,872 --> 01:06:00,999
+and then I'm gonna try it
+with other people."
+
+1410
+01:06:01,791 --> 01:06:02,959
+And I was like,
+
+1411
+01:06:04,919 --> 01:06:08,590
+"I-- I don't think that's gonna work.
+Like, I don't know what that means."
+
+1412
+01:06:08,673 --> 01:06:09,507
+And he's like,
+
+1413
+01:06:09,591 --> 01:06:10,508
+"I'm just gonna...
+
+1414
+01:06:11,134 --> 01:06:14,971
+do it alone for a while." And I was like,
+"All right, you get back to me."
+
+1415
+01:06:17,390 --> 01:06:20,643
+We can't go it alone.
+We're neurobiologically hardwired
+
+1416
+01:06:20,727 --> 01:06:22,228
+for connection with other people.
+
+1417
+01:06:22,312 --> 01:06:25,231
+In the absence of connection,
+love, and belonging,
+
+1418
+01:06:25,315 --> 01:06:26,816
+there is always suffering.
+
+1419
+01:06:27,400 --> 01:06:28,943
+You can't go it alone.
+
+1420
+01:06:29,777 --> 01:06:31,613
+If you could,
+I would have found a way by now.
+
+1421
+01:06:31,696 --> 01:06:32,572
+[audience laughs]
+
+1422
+01:06:32,655 --> 01:06:33,698
+As an introvert...
+
+1423
+01:06:34,324 --> 01:06:38,495
+and somebody who loves humanity
+but is <i>más o menos</i> on people...
+
+1424
+01:06:38,578 --> 01:06:40,997
+-[audience laughs]
+-...I would have found a way.
+
+1425
+01:06:42,207 --> 01:06:45,293
+Number four: "You can engineer
+the uncertainty and discomfort
+
+1426
+01:06:45,376 --> 01:06:46,503
+out of vulnerability."
+
+1427
+01:06:46,586 --> 01:06:50,715
+I work a lot with tech companies
+in Silicon Valley and around the world,
+
+1428
+01:06:50,798 --> 01:06:54,093
+and they really want to engineer
+
+1429
+01:06:54,177 --> 01:06:57,555
+the uncomfortable part
+out of vulnerability,
+
+1430
+01:06:57,639 --> 01:06:59,516
+to the point where one of them said,
+
+1431
+01:06:59,599 --> 01:07:01,226
+"We're thinking about an algorithm...
+
+1432
+01:07:01,309 --> 01:07:04,354
+-[audience laughs]
+-...that could actually help you predict
+
+1433
+01:07:04,437 --> 01:07:07,690
+when it's okay to be vulnerable
+with other people."
+
+1434
+01:07:08,441 --> 01:07:11,569
+And I was like, "The minute it becomes
+comfortable, it's no longer vulnerability.
+
+1435
+01:07:11,653 --> 01:07:14,113
+Call it whatever you want,
+but don't use that name on your app."
+
+1436
+01:07:16,908 --> 01:07:18,910
+"Trust comes before vulnerability."
+
+1437
+01:07:18,993 --> 01:07:20,203
+This is a hard one, right?
+
+1438
+01:07:20,411 --> 01:07:23,248
+Like, do I trust you
+then I'm vulnerable with you?
+
+1439
+01:07:23,331 --> 01:07:26,125
+Or am I vulnerable with you,
+and then I learn to trust you?
+
+1440
+01:07:26,209 --> 01:07:28,127
+And the answer is "yes and..."
+
+1441
+01:07:28,211 --> 01:07:32,257
+It's a slow stacking over time
+of vulnerability and trust.
+
+1442
+01:07:32,549 --> 01:07:35,927
+We don't go out with,
+like, you know, the big guns, and like,
+
+1443
+01:07:36,010 --> 01:07:38,555
+"Nice to meet you. I'm Brené.
+Here's my darkest secret.
+
+1444
+01:07:38,888 --> 01:07:39,931
+Can I trust you forever?"
+
+1445
+01:07:40,390 --> 01:07:42,725
+We start with little things,
+and we build over time,
+
+1446
+01:07:42,809 --> 01:07:45,562
+and the more I share with you,
+and the more you honor that sharing.
+
+1447
+01:07:45,645 --> 01:07:46,854
+But here's the thing...
+
+1448
+01:07:47,564 --> 01:07:50,400
+you share with people who've earned
+the right to hear your story.
+
+1449
+01:07:50,483 --> 01:07:52,860
+Your story is a privilege to hear.
+
+1450
+01:07:54,153 --> 01:07:57,240
+You share it with people
+who've earned the right to hear it.
+
+1451
+01:07:57,448 --> 01:07:58,575
+You don't share it...
+
+1452
+01:07:59,576 --> 01:08:00,410
+just because.
+
+1453
+01:08:00,493 --> 01:08:03,496
+Vulnerability minus boundaries:
+not vulnerability.
+
+1454
+01:08:05,248 --> 01:08:07,375
+Last: "Vulnerability is disclosure."
+
+1455
+01:08:07,458 --> 01:08:09,335
+This goes back to the boundary thing.
+
+1456
+01:08:10,086 --> 01:08:13,089
+Live Tweeting your bikini wax:
+not vulnerability.
+
+1457
+01:08:13,172 --> 01:08:15,174
+[audience laughs]
+
+1458
+01:08:15,258 --> 01:08:19,095
+Sharing the intimate details
+of your divorce and your pain on Facebook
+
+1459
+01:08:19,178 --> 01:08:21,431
+for your kids to read,
+who are reeling as well:
+
+1460
+01:08:21,514 --> 01:08:22,473
+not vulnerability.
+
+1461
+01:08:23,474 --> 01:08:27,353
+Again, vulnerability minus boundaries
+is not vulnerability,
+
+1462
+01:08:27,437 --> 01:08:31,441
+and you don't measure vulnerability
+by the amount of disclosure.
+
+1463
+01:08:32,275 --> 01:08:36,404
+You measure it by the amount of courage
+to show up and be seen
+
+1464
+01:08:36,487 --> 01:08:39,240
+when you can't control the outcome.
+Does that make sense?
+
+1465
+01:08:40,950 --> 01:08:42,994
+Okay, we're gonna end with a story.
+
+1466
+01:08:43,786 --> 01:08:48,750
+So, Ellen, my daughter,
+decides to try swim team, and she tries--
+
+1467
+01:08:48,833 --> 01:08:50,960
+She decides to try a year-round swim team,
+
+1468
+01:08:51,044 --> 01:08:53,338
+which is a big commitment
+'cause we have a rule in our house
+
+1469
+01:08:53,421 --> 01:08:55,840
+that if you try a sport,
+you've gotta finish the season.
+
+1470
+01:08:55,923 --> 01:08:59,135
+So she-- I'm picking her up
+one day from swim team practice,
+
+1471
+01:08:59,218 --> 01:09:01,429
+and she's-- she's young. She's probably...
+
+1472
+01:09:02,138 --> 01:09:05,725
+maybe fifth grade, and I can see--
+How many of you have had this experience?
+
+1473
+01:09:05,808 --> 01:09:09,395
+I can see from her silhouette
+in front of me
+
+1474
+01:09:09,479 --> 01:09:11,856
+when I'm still eight cars behind
+that she's crying.
+
+1475
+01:09:12,106 --> 01:09:14,359
+Like, I can tell by the way
+she's holding her body
+
+1476
+01:09:14,442 --> 01:09:15,902
+that things are not okay.
+
+1477
+01:09:16,235 --> 01:09:20,156
+So I get up next to her. She gets
+in the car, and she's crying, and I said,
+
+1478
+01:09:20,239 --> 01:09:22,408
+"What's wrong? What happened?
+What's going on?" She goes,
+
+1479
+01:09:22,700 --> 01:09:26,329
+"I have to swim the 100 breaststroke
+in the meet this weekend."
+
+1480
+01:09:27,205 --> 01:09:30,208
+And I'm thinking to myself,
+"No! Not the 100 breaststroke!"
+
+1481
+01:09:30,833 --> 01:09:33,461
+And I was like,
+"Man, that's a tough race."
+
+1482
+01:09:33,544 --> 01:09:35,838
+And she goes, "Mom, you know."
+And I was like,
+
+1483
+01:09:35,922 --> 01:09:38,591
+"That's a tough race, girl."
+And-- And here's the thing.
+
+1484
+01:09:38,675 --> 01:09:40,009
+Breaststroke is a hard stroke.
+
+1485
+01:09:40,093 --> 01:09:42,970
+It's like, one day it just comes together,
+and you get it.
+
+1486
+01:09:43,054 --> 01:09:46,391
+And like, the arms work
+with the frog legs, and it just happens.
+
+1487
+01:09:46,474 --> 01:09:50,853
+But until then, while you're doing it,
+you actually don't propel forward.
+
+1488
+01:09:51,354 --> 01:09:52,271
+Like, when you don't--
+
+1489
+01:09:52,355 --> 01:09:55,233
+You kinda go forward, then you come back,
+and then you go--
+
+1490
+01:09:55,316 --> 01:09:59,278
+And so, 100 yards is a long way
+for non-propelling.
+
+1491
+01:10:01,114 --> 01:10:03,658
+I'm dying on the inside
+'cause, you know, like,
+
+1492
+01:10:04,659 --> 01:10:07,328
+I wasn't a great swimmer either,
+and I had those moments,
+
+1493
+01:10:07,412 --> 01:10:10,957
+and, like, what I want to say is,
+"Well, run away and don't worry about it."
+
+1494
+01:10:11,040 --> 01:10:13,209
+But I'm trying to be, like,
+the parent that--
+
+1495
+01:10:13,292 --> 01:10:16,045
+you know, the brave parent.
+I'm like, "It's a tough thing.
+
+1496
+01:10:16,129 --> 01:10:18,381
+Let's get home, get you showered.
+Let's talk about it.
+
+1497
+01:10:18,464 --> 01:10:19,841
+Let's talk about it with your dad."
+
+1498
+01:10:20,216 --> 01:10:22,343
+And so we get home,
+
+1499
+01:10:22,802 --> 01:10:27,140
+and she goes upstairs to take a shower,
+and she comes down, and...
+
+1500
+01:10:27,223 --> 01:10:30,435
+Steve's home, and we sit down for dinner,
+and, you know, she starts crying again,
+
+1501
+01:10:30,518 --> 01:10:33,646
+and she explains everything to her dad,
+and, you know, he's like,
+
+1502
+01:10:33,730 --> 01:10:36,733
+"Well, I think we respect your coach,
+and it's your coach's call,
+
+1503
+01:10:36,816 --> 01:10:39,944
+and I think you're gonna have to swim
+if that's the race you're put in."
+
+1504
+01:10:40,403 --> 01:10:43,364
+And, you know,
+very much we aligned on messaging,
+
+1505
+01:10:43,448 --> 01:10:44,991
+just like the books say.
+
+1506
+01:10:45,324 --> 01:10:49,412
+And so she-- she starts crying.
+And she goes up after dinner and I'm like,
+
+1507
+01:10:49,495 --> 01:10:51,289
+[grunts] "Curse you, Steve," and,
+
+1508
+01:10:51,372 --> 01:10:54,292
+you know, like, "You should have got her
+out of this!" Um...
+
+1509
+01:10:54,375 --> 01:10:56,919
+Then she comes back down real quick,
+and she goes, "So you're sure?"
+
+1510
+01:10:57,003 --> 01:11:00,465
+-I'm like, "We're sure. This is--"
+-[audience laughs]
+
+1511
+01:11:00,548 --> 01:11:03,760
+Yeah. So, but--
+But I said, "Don't you think, Steve,
+
+1512
+01:11:03,843 --> 01:11:05,762
+that she could take it up with her coach?
+
+1513
+01:11:05,845 --> 01:11:07,472
+If you don't want to swim it,
+take it up with your coach."
+
+1514
+01:11:08,264 --> 01:11:11,434
+She comes home the next day, and she said,
+"Coach Jason says I'm in.
+
+1515
+01:11:11,517 --> 01:11:14,270
+A hundred yards-- 100 yards breaststroke.
+I'm doing it."
+
+1516
+01:11:15,146 --> 01:11:17,106
+I said, "That's tough."
+Starts crying again,
+
+1517
+01:11:17,190 --> 01:11:19,567
+and she said, "My friend said
+
+1518
+01:11:20,109 --> 01:11:21,861
+that I could scratch my heat."
+
+1519
+01:11:22,945 --> 01:11:25,782
+And so what that<i> </i>means is,
+in swim meets, they'll call an event,
+
+1520
+01:11:25,865 --> 01:11:27,074
+like girls' 100 breaststroke,
+
+1521
+01:11:27,158 --> 01:11:29,911
+then they start calling heat.
+Heat one, heat two, heat three.
+
+1522
+01:11:29,994 --> 01:11:31,871
+And swim meets run like this,
+
+1523
+01:11:31,954 --> 01:11:35,124
+and a lot of the time,
+swimmers miss their call.
+
+1524
+01:11:35,208 --> 01:11:38,503
+And so, that's considered
+scratching the heat. So her friend said,
+
+1525
+01:11:38,586 --> 01:11:40,838
+"Just don't show up
+when they call your heat."
+
+1526
+01:11:41,214 --> 01:11:44,634
+Which I know all about
+because I scratched some heats in my day.
+
+1527
+01:11:45,218 --> 01:11:47,220
+[audience laughs]
+
+1528
+01:11:47,553 --> 01:11:49,806
+Only one or two, but for big races.
+
+1529
+01:11:50,389 --> 01:11:53,851
+And I said, "You-- You could do that."
+And she goes, "I could?"
+
+1530
+01:11:53,935 --> 01:11:56,813
+And I said, "You definitely could do that.
+I think it's a choice.
+
+1531
+01:11:56,896 --> 01:11:58,523
+You'll have to take that up
+with your coach
+
+1532
+01:11:58,606 --> 01:12:01,108
+if you don't show up on the blocks
+for, you know, for your race."
+
+1533
+01:12:01,192 --> 01:12:03,903
+And she said, "Will I get grounded here?"
+
+1534
+01:12:04,695 --> 01:12:05,863
+And Steve's like,
+
+1535
+01:12:05,947 --> 01:12:09,534
+"No. No. I mean, that's your choice,
+Ellen, you know."
+
+1536
+01:12:09,617 --> 01:12:13,120
+And then she just starts sobbing.
+She said, "I'll never win this race."
+
+1537
+01:12:14,038 --> 01:12:16,624
+And I said,
+"You will never win this race."
+
+1538
+01:12:16,916 --> 01:12:19,669
+I said, "That is for sure,"
+and I said, "But you know what?
+
+1539
+01:12:19,752 --> 01:12:22,630
+Sometimes winning is not coming in first.
+
+1540
+01:12:22,713 --> 01:12:25,508
+Sometimes winning
+is doing the really brave thing.
+
+1541
+01:12:25,591 --> 01:12:29,554
+Maybe winning for you is just
+coming off the block and getting wet.
+
+1542
+01:12:29,637 --> 01:12:31,430
+Maybe that's winning for you.
+
+1543
+01:12:31,514 --> 01:12:33,432
+Maybe that's what a win looks like."
+
+1544
+01:12:33,850 --> 01:12:34,851
+She goes,
+
+1545
+01:12:36,018 --> 01:12:38,771
+"So if I scratch the heat,
+I don't get grounded?"
+
+1546
+01:12:38,855 --> 01:12:41,941
+-[audience laughs]
+-[Brené] And I said, "Yes. Right. Yeah."
+
+1547
+01:12:42,024 --> 01:12:44,110
+So, it's meet day. We're there.
+
+1548
+01:12:44,193 --> 01:12:46,863
+They call the heat. No--
+We don't see Ellen.
+
+1549
+01:12:47,655 --> 01:12:49,365
+And then all of a sudden,
+at the last minute,
+
+1550
+01:12:49,448 --> 01:12:51,576
+she pops up on block number eight,
+you know,
+
+1551
+01:12:51,659 --> 01:12:54,245
+so Steve and I situate ourselves
+at the end of the thing,
+
+1552
+01:12:54,328 --> 01:12:56,581
+and then the gun goes off,
+and there they go.
+
+1553
+01:12:56,664 --> 01:13:00,293
+And I can see her,
+and she is struggling, and she's trying,
+
+1554
+01:13:00,376 --> 01:13:04,463
+and I can see, like, right kind of like
+at 75 yards,
+
+1555
+01:13:04,547 --> 01:13:07,383
+she checks the lanes,
+you know, 'cause she's in a far lane.
+
+1556
+01:13:07,466 --> 01:13:08,634
+She checks the lanes,
+
+1557
+01:13:08,968 --> 01:13:11,178
+and she gets this look on her face like,
+
+1558
+01:13:11,929 --> 01:13:12,889
+"I'm ahead."
+
+1559
+01:13:14,181 --> 01:13:16,684
+And-- And you can see, you know, like,
+
+1560
+01:13:17,268 --> 01:13:19,312
+"Oh, my God. I'm ahead!"
+
+1561
+01:13:19,395 --> 01:13:22,648
+And then you can see,
+as she's finishing the final 25,
+
+1562
+01:13:22,732 --> 01:13:26,402
+that she understands that there are
+no other swimmers in the pool,
+
+1563
+01:13:27,320 --> 01:13:30,072
+that she's been lapped so badly
+
+1564
+01:13:30,156 --> 01:13:32,408
+that the whole field is out of the pool,
+
+1565
+01:13:32,825 --> 01:13:34,577
+and that, in fact, when she finishes,
+
+1566
+01:13:34,660 --> 01:13:37,788
+not only are all the other girls
+from her heat out of the pool,
+
+1567
+01:13:37,872 --> 01:13:41,459
+the next heat is on the blocks,
+ready to go in,
+
+1568
+01:13:41,542 --> 01:13:44,253
+and people are just kinda watching
+but not watching.
+
+1569
+01:13:45,713 --> 01:13:48,466
+And I can see her struggling
+to get out of the pool
+
+1570
+01:13:48,549 --> 01:13:49,800
+'cause that's-- that was a big race.
+
+1571
+01:13:49,884 --> 01:13:52,595
+When you're not going anywhere
+for that long, it's a lot of work.
+
+1572
+01:13:52,678 --> 01:13:53,930
+I mean, it-- it's hard.
+
+1573
+01:13:55,139 --> 01:13:58,017
+And I can see her,
+and she stops by her coach.
+
+1574
+01:13:58,100 --> 01:14:00,770
+He kind of bends down on one knee,
+and you can see her talking to him,
+
+1575
+01:14:00,853 --> 01:14:03,648
+and he's doing this,
+and she's just shaking her head.
+
+1576
+01:14:03,731 --> 01:14:05,024
+And she didn't have her goggles off,
+
+1577
+01:14:05,107 --> 01:14:07,735
+and I know she didn't have her goggles off
+'cause I know she's crying.
+
+1578
+01:14:07,818 --> 01:14:09,362
+And then she comes over and--
+
+1579
+01:14:09,445 --> 01:14:11,072
+You know, and her dad--
+And, you know, me and Steve,
+
+1580
+01:14:11,155 --> 01:14:13,616
+we were like mama and papa Phelps
+during this thing.
+
+1581
+01:14:13,699 --> 01:14:15,785
+It was like she was going
+for the Olympic trial.
+
+1582
+01:14:15,868 --> 01:14:18,746
+We were like, "Pull! Pull!"
+Like, you know?
+
+1583
+01:14:18,829 --> 01:14:21,540
+There's no one in the water but Ellen,
+and people are just like,
+
+1584
+01:14:22,166 --> 01:14:24,669
+"Wrap it up. Pull, whatever, just, like--"
+
+1585
+01:14:24,752 --> 01:14:26,128
+[audience laughs]
+
+1586
+01:14:26,212 --> 01:14:28,130
+And she comes over,
+and she pulls her goggles off,
+
+1587
+01:14:28,214 --> 01:14:30,049
+and she's just like--
+
+1588
+01:14:30,424 --> 01:14:33,719
+Just, I think, ashamed
+and tired and exhausted.
+
+1589
+01:14:34,136 --> 01:14:36,931
+And she said, "Can I say a cuss word?"
+
+1590
+01:14:37,473 --> 01:14:41,560
+And I was like, "Oh, hell, yes,
+you can say a cuss word."
+
+1591
+01:14:41,644 --> 01:14:44,063
+And she goes, "That sucked."
+
+1592
+01:14:44,146 --> 01:14:45,314
+[audience] Oh!
+
+1593
+01:14:45,398 --> 01:14:46,482
+[Brené] And I said,
+
+1594
+01:14:47,108 --> 01:14:49,193
+-"That really did suck."
+-[audience laughs]
+
+1595
+01:14:49,276 --> 01:14:50,611
+I said, "That sucked."
+
+1596
+01:14:51,278 --> 01:14:54,573
+And then she stopped for a minute,
+and she was looking down, and she goes,
+
+1597
+01:14:59,787 --> 01:15:01,956
+"But I was brave, and I won."
+
+1598
+01:15:02,039 --> 01:15:03,874
+-[audience] Ah! [applauds]
+-You know?
+
+1599
+01:15:08,587 --> 01:15:09,547
+And...
+
+1600
+01:15:11,298 --> 01:15:12,133
+Yeah.
+
+1601
+01:15:12,675 --> 01:15:14,844
+And, to me, she was brave, and she won.
+
+1602
+01:15:16,846 --> 01:15:17,763
+Here's the thing.
+
+1603
+01:15:17,847 --> 01:15:18,889
+I'm not gonna bullshit you.
+
+1604
+01:15:18,973 --> 01:15:22,810
+Vulnerability is hard,
+and it's scary, and it feels dangerous,
+
+1605
+01:15:23,602 --> 01:15:26,480
+but it's not as hard, scary, or dangerous
+
+1606
+01:15:26,564 --> 01:15:30,735
+as getting to the end of our lives
+and having to ask ourselves,
+
+1607
+01:15:30,818 --> 01:15:32,486
+"What if I would have shown up?
+
+1608
+01:15:32,903 --> 01:15:37,158
+What if I would have said I love you?
+What if I would have come off the blocks?"
+
+1609
+01:15:38,701 --> 01:15:39,827
+Show up,
+
+1610
+01:15:40,578 --> 01:15:42,997
+be seen, answer the call to courage,
+
+1611
+01:15:43,581 --> 01:15:44,915
+and come off the blocks
+
+1612
+01:15:45,291 --> 01:15:46,459
+'cause you're worth it.
+
+1613
+01:15:47,126 --> 01:15:49,503
+You're worth being brave. Thank y'all.
+
+1614
+01:15:49,587 --> 01:15:50,546
+[audience applauds]
+
+1615
+01:15:50,629 --> 01:15:52,631
+[cheering and whooping]
+
+1616
+01:15:58,929 --> 01:15:59,972
+[Brené] Thank you.
+
+1617
+01:16:04,810 --> 01:16:07,772
+Thank you! Thank y'all!
+
+1618
+01:16:11,317 --> 01:16:12,193
+Good night!
+
+1619
+01:16:19,033 --> 01:16:21,035
+[audience chattering]
+

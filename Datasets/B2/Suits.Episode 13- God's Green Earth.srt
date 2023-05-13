@@ -1,0 +1,5006 @@
+1
+00:00:06,807 --> 00:00:07,037
+.
+
+2
+00:00:07,041 --> 00:00:08,941
+<i> - Previously on "Suits"...</i>
+
+3
+00:00:08,943 --> 00:00:10,083
+- You think that I don't know
+that all your problems
+
+4
+00:00:10,077 --> 00:00:11,537
+are solved if I tell them
+that Harvey did this?
+
+5
+00:00:11,545 --> 00:00:13,505
+- I would be lying if I said
+it didn't cross my mind
+
+6
+00:00:13,514 --> 00:00:15,954
+that maybe Mike should think
+about making a deal.
+
+7
+00:00:15,950 --> 00:00:17,950
+And now that they've taken in
+your father, you can't tell me
+
+8
+00:00:17,952 --> 00:00:19,922
+that the thought
+hasn't crossed yours too.
+
+9
+00:00:19,920 --> 00:00:22,190
+- Thinking about it and talking
+about it aren't the same thing.
+
+10
+00:00:22,189 --> 00:00:25,359
+- I got a call about an article
+on Mike Ross' meteoric rise
+
+11
+00:00:25,359 --> 00:00:26,829
+to Junior Partner.
+
+12
+00:00:26,827 --> 00:00:29,127
+The problem is
+there is no Mike Ross.
+
+13
+00:00:29,130 --> 00:00:30,700
+- You reported it
+anonymously,
+
+14
+00:00:30,698 --> 00:00:32,128
+because you didn't want
+to look bad.
+
+15
+00:00:32,133 --> 00:00:33,903
+- I reported it anonymously
+
+16
+00:00:33,901 --> 00:00:36,141
+because I was ashamed
+that it happened on my watch.
+
+17
+00:00:36,137 --> 00:00:38,267
+- I loved you, and you let
+some stupid secret
+
+18
+00:00:38,272 --> 00:00:40,412
+come between us because
+you couldn't trust me with it.
+
+19
+00:00:40,408 --> 00:00:42,908
+- All you have to do
+is admit what you did,
+
+20
+00:00:42,910 --> 00:00:44,440
+and all of this goes away.
+
+21
+00:00:44,445 --> 00:00:46,145
+- Sheila came forward.
+
+22
+00:00:46,147 --> 00:00:48,247
+She admitted she was the one
+who wrote the e-mail.
+
+23
+00:00:48,249 --> 00:00:50,779
+- You and your partners
+are hereby subpoenaed
+
+24
+00:00:50,785 --> 00:00:54,285
+to hand over every single
+document in the entire firm.
+
+25
+00:00:57,525 --> 00:00:59,425
+- Harvey, I'm not sure
+this is the best idea.
+
+26
+00:00:59,427 --> 00:01:02,087
+- We need to know what she has.
+What's the downside?
+
+27
+00:01:02,096 --> 00:01:04,026
+- The downside is
+that we move up the trial.
+
+28
+00:01:04,031 --> 00:01:06,931
+- Mike, this trial's coming,
+whether we like it or not.
+
+29
+00:01:06,934 --> 00:01:09,174
+And the more time we have
+knowing her game plan,
+
+30
+00:01:09,170 --> 00:01:12,740
+the better off we'll be.
+
+31
+00:01:12,740 --> 00:01:14,810
+- Holy shit.
+- What?
+
+32
+00:01:14,809 --> 00:01:16,679
+- I took the LSATs
+with this guy.
+
+33
+00:01:16,677 --> 00:01:18,137
+- So what?
+
+34
+00:01:18,145 --> 00:01:20,645
+- So he can give Gibbs something
+she doesn't even have on me yet.
+
+35
+00:01:20,648 --> 00:01:23,078
+- Yes, but to do that, he'd
+be ruining his whole career.
+
+36
+00:01:23,084 --> 00:01:24,924
+Which means, even
+if he remembers you,
+
+37
+00:01:24,919 --> 00:01:26,589
+he's more afraid of you
+than you are of him.
+
+38
+00:01:26,587 --> 00:01:28,947
+So calm the hell down.
+
+39
+00:01:28,956 --> 00:01:30,916
+- All right, let's make
+this quick.
+
+40
+00:01:30,925 --> 00:01:32,515
+- Your Honor,
+making it quick is exactly
+
+41
+00:01:32,526 --> 00:01:34,156
+what we're asking you to do.
+
+42
+00:01:34,161 --> 00:01:35,991
+She hasn't handed over
+her discovery yet.
+
+43
+00:01:35,996 --> 00:01:37,626
+- I'm still building a case,
+
+44
+00:01:37,631 --> 00:01:39,471
+and we haven't even set
+a date for the trial yet.
+
+45
+00:01:39,467 --> 00:01:41,527
+- And the check's in the mail,
+and all the other things
+
+46
+00:01:41,535 --> 00:01:44,065
+people say when they don't wanna
+do what they have to do.
+
+47
+00:01:44,071 --> 00:01:45,601
+- What I have to do
+is protect the public
+
+48
+00:01:45,606 --> 00:01:47,536
+from the likes of you.
+- All right, that's enough.
+
+49
+00:01:47,541 --> 00:01:49,371
+Get that discovery to them
+by the end of the day.
+
+50
+00:01:49,376 --> 00:01:51,506
+- In that case, we'd like to ask
+that the day of the trial
+
+51
+00:01:51,512 --> 00:01:53,082
+be set in the next two weeks.
+
+52
+00:01:53,080 --> 00:01:55,310
+- Objection, Your Honor,
+she's had weeks to--
+
+53
+00:01:55,316 --> 00:01:57,176
+- You can't have it both ways,
+Mr. Specter.
+
+54
+00:01:57,184 --> 00:01:59,924
+You can't demand discovery
+and ask for more time.
+
+55
+00:01:59,920 --> 00:02:01,590
+Trial starts in two weeks.
+
+56
+00:02:04,959 --> 00:02:06,829
+- Jessica, we have
+a problem.
+
+57
+00:02:06,827 --> 00:02:08,227
+- Thanks for pointing
+that out, Jack.
+
+58
+00:02:08,229 --> 00:02:09,559
+I had no idea.
+
+59
+00:02:09,563 --> 00:02:11,003
+- I'm not talking
+about the trial.
+
+60
+00:02:10,998 --> 00:02:12,398
+I'm talking about this.
+
+61
+00:02:12,399 --> 00:02:13,499
+- What the hell is that?
+
+62
+00:02:13,501 --> 00:02:15,801
+- An Op-Ed in the Journal.
+
+63
+00:02:15,803 --> 00:02:18,243
+"There is no way
+on God's green Earth
+
+64
+00:02:18,239 --> 00:02:20,909
+"that at least one
+of the three name partners
+
+65
+00:02:20,908 --> 00:02:23,078
+"at Pearson Specter Litt
+
+66
+00:02:23,077 --> 00:02:26,977
+didn't know what was going on
+under their own roof."
+
+67
+00:02:26,981 --> 00:02:30,181
+- "God's green Earth."
+Who wrote it?
+
+68
+00:02:30,184 --> 00:02:31,524
+- A partner at Skaaden.
+
+69
+00:02:31,519 --> 00:02:33,019
+If it wasn't them,
+it would've been someone else,
+
+70
+00:02:33,020 --> 00:02:35,250
+because they smell blood.
+- I don't care what they smell.
+
+71
+00:02:35,256 --> 00:02:37,056
+I've given up everything
+for this firm,
+
+72
+00:02:37,057 --> 00:02:38,817
+and if anybody tries
+to take it from me,
+
+73
+00:02:38,826 --> 00:02:41,886
+they'll have to pry it
+from my cold, dead hands.
+
+74
+00:02:41,896 --> 00:02:44,096
+- And what's your goddamn plan?
+- Excuse me?
+
+75
+00:02:44,098 --> 00:02:46,098
+- Jessica, our reputation's
+taking a beating.
+
+76
+00:02:46,100 --> 00:02:47,270
+We need to rehabilitate it.
+
+77
+00:02:47,268 --> 00:02:49,298
+That means pro bono,
+and you know it.
+
+78
+00:02:49,303 --> 00:02:51,673
+- One free case is not going
+to move the needle,
+
+79
+00:02:51,672 --> 00:02:52,912
+no matter how worthy it is.
+
+80
+00:02:52,907 --> 00:02:54,237
+- I'm not talking
+about one case.
+
+81
+00:02:54,241 --> 00:02:55,941
+I'm talking about
+a series of cases
+
+82
+00:02:55,943 --> 00:02:58,843
+for our clients'
+most valued charities.
+
+83
+00:03:00,481 --> 00:03:02,981
+- Oh, this better not be
+another scheme, Jack.
+
+84
+00:03:02,983 --> 00:03:04,323
+- You think this is a move?
+
+85
+00:03:04,318 --> 00:03:06,318
+- Now why would I ever
+think that after you tried
+
+86
+00:03:06,320 --> 00:03:09,760
+to take my firm from me six
+times in the last ten minutes?
+
+87
+00:03:09,757 --> 00:03:11,387
+- I did try
+to take over from you.
+
+88
+00:03:11,392 --> 00:03:14,162
+But I've been at this firm
+my entire career,
+
+89
+00:03:14,161 --> 00:03:15,731
+and I am fighting for it now.
+
+90
+00:03:15,729 --> 00:03:17,529
+- And you think I'm not?
+- I'm sure you are.
+
+91
+00:03:17,531 --> 00:03:19,701
+But you're also the reason
+I'm holding this indictment
+
+92
+00:03:19,700 --> 00:03:20,900
+of our firm
+in the first place,
+
+93
+00:03:20,901 --> 00:03:22,671
+because what they're
+saying is true.
+
+94
+00:03:22,670 --> 00:03:24,170
+And don't you dare
+try to tell me
+
+95
+00:03:24,171 --> 00:03:25,401
+you didn't know
+about Mike Ross,
+
+96
+00:03:25,406 --> 00:03:27,306
+because we both know you did.
+
+97
+00:03:36,517 --> 00:03:38,117
+- What the hell do you want?
+
+98
+00:03:38,118 --> 00:03:40,018
+- Oh, since you made me come
+all the way down here,
+
+99
+00:03:40,020 --> 00:03:42,450
+I thought I'd save the taxpayers
+some money on hiring a server.
+
+100
+00:03:42,456 --> 00:03:43,816
+- A server for what?
+
+101
+00:03:43,824 --> 00:03:45,964
+- For your fiancée. I'd like
+to ask her some questions.
+
+102
+00:03:45,960 --> 00:03:47,260
+- Get the hell out of here.
+
+103
+00:03:47,261 --> 00:03:49,331
+You want to serve a subpoena,
+you serve it to her.
+
+104
+00:03:49,330 --> 00:03:51,460
+- Well, then I wouldn't get
+to see the look on your face.
+
+105
+00:03:51,465 --> 00:03:53,595
+Did you really think I wouldn't
+hit you where it hurts?
+
+106
+00:03:53,601 --> 00:03:56,371
+I was saving
+your weakest spot for last.
+
+107
+00:03:56,370 --> 00:03:57,900
+Have a nice day, gentlemen.
+
+108
+00:04:02,409 --> 00:04:05,079
+- What?
+- You know what.
+
+109
+00:04:05,079 --> 00:04:07,249
+It's time we give that woman
+a taste of her own medicine.
+
+110
+00:04:07,248 --> 00:04:08,808
+- What the hell is that
+supposed to mean?
+
+111
+00:04:08,816 --> 00:04:10,746
+- It means we hire a lawyer
+from an outside firm,
+
+112
+00:04:10,751 --> 00:04:12,681
+and we dig up dirt on someone
+she cares about.
+
+113
+00:04:12,686 --> 00:04:14,846
+- Are you out of your mind?
+- You saw what she did to Donna.
+
+114
+00:04:14,855 --> 00:04:16,785
+It's only a matter of time
+before she tries to pull
+
+115
+00:04:16,790 --> 00:04:18,290
+the same shit with Rachel.
+- Mike--
+
+116
+00:04:18,292 --> 00:04:19,962
+- Harvey, you're the one
+that taught me that when someone
+
+117
+00:04:19,960 --> 00:04:21,730
+puts pressure on you,
+you put it back on them.
+
+118
+00:04:21,729 --> 00:04:23,559
+- I also taught you if you're
+gonna take a swing at someone,
+
+119
+00:04:23,564 --> 00:04:25,804
+you better knock them out,
+and if we pull the shit
+
+120
+00:04:25,799 --> 00:04:27,469
+that you're talking about
+and get caught,
+
+121
+00:04:27,468 --> 00:04:30,238
+all that happens is
+I get thrown off this case,
+
+122
+00:04:30,237 --> 00:04:32,237
+and it's game over.
+
+123
+00:04:32,239 --> 00:04:34,139
+- Harvey, I can't stand by
+and watch while the people
+
+124
+00:04:34,141 --> 00:04:36,211
+I care about get attacked,
+and neither could you.
+
+125
+00:04:36,210 --> 00:04:37,540
+- Mike, I promise you,
+
+126
+00:04:37,544 --> 00:04:39,444
+I will be there for Rachel
+every step of the way.
+
+127
+00:04:39,446 --> 00:04:40,806
+In the meantime,
+
+128
+00:04:40,814 --> 00:04:43,384
+I need you going through
+every one of those boxes.
+
+129
+00:04:43,384 --> 00:04:45,284
+Because if that woman
+is ready to go to trial,
+
+130
+00:04:45,286 --> 00:04:47,046
+she's got a lot more
+than an e-mail
+
+131
+00:04:47,054 --> 00:04:49,624
+from Louis' girlfriend.
+
+132
+00:04:49,623 --> 00:04:53,333
+<i> - ♪ See the money,</i>
+<i> wanna stay for your meal ♪</i>
+
+133
+00:04:53,327 --> 00:04:56,657
+<i> ♪ Get another piece of pie</i>
+<i> for your wife ♪</i>
+
+134
+00:04:56,664 --> 00:04:59,834
+<i> ♪ Everybody wanna know</i>
+<i> how it feel ♪</i>
+
+135
+00:04:59,833 --> 00:05:03,603
+<i> ♪ Everybody wanna see</i>
+<i> what it's like ♪</i>
+
+136
+00:05:03,604 --> 00:05:06,444
+<i> ♪ I'll even eat a bean pie,</i>
+<i> I don't mind ♪</i>
+
+137
+00:05:06,440 --> 00:05:10,440
+<i> ♪ Me and Missy is</i>
+<i> so busy, busy making money ♪</i>
+
+138
+00:05:10,444 --> 00:05:12,314
+<i> ♪ All right ♪</i>
+
+139
+00:05:12,313 --> 00:05:17,453
+<i> ♪ All step back,</i>
+<i> I'm 'bout to dance ♪</i>
+
+140
+00:05:17,451 --> 00:05:19,381
+<i> ♪ The greenback boogie ♪</i>
+
+141
+00:05:22,423 --> 00:05:22,653
+.
+
+142
+00:05:22,656 --> 00:05:24,416
+- Rachel Zane.
+- Yes?
+
+143
+00:05:24,425 --> 00:05:26,015
+My name is Anita Gibbs.
+I'm the--
+
+144
+00:05:26,026 --> 00:05:27,226
+- Yes, I know who you are.
+
+145
+00:05:27,227 --> 00:05:29,557
+I'm flattered you came
+for me personally.
+
+146
+00:05:29,563 --> 00:05:31,703
+But we aren't supposed to talk
+for another three days,
+
+147
+00:05:31,699 --> 00:05:33,229
+and I don't have my lawyer
+with me, so--
+
+148
+00:05:33,233 --> 00:05:35,003
+- This isn't
+a formal interrogation.
+
+149
+00:05:35,002 --> 00:05:36,232
+That won't be necessary.
+
+150
+00:05:36,236 --> 00:05:38,566
+- Then I'll tell you
+what is necessary.
+
+151
+00:05:38,572 --> 00:05:40,372
+You're going to put in writing
+that anything I say to you
+
+152
+00:05:40,374 --> 00:05:41,574
+is inadmissible.
+
+153
+00:05:41,575 --> 00:05:43,205
+- I suspected you'd
+say that, which is why
+
+154
+00:05:43,210 --> 00:05:47,650
+I prepared this.
+
+155
+00:05:47,648 --> 00:05:50,648
+I understand if you'd prefer
+to ask somebody who's actually
+
+156
+00:05:50,651 --> 00:05:54,591
+completed law school
+if that's legally binding.
+
+157
+00:05:54,588 --> 00:05:56,358
+- I'm perfectly capable
+of determining
+
+158
+00:05:56,357 --> 00:05:58,887
+if this is legally
+binding or not.
+
+159
+00:05:58,892 --> 00:06:00,292
+and I'm not going to let you
+
+160
+00:06:00,294 --> 00:06:02,664
+bait me into saying
+anything to you.
+
+161
+00:06:02,663 --> 00:06:03,733
+- Well, that's fine with me.
+
+162
+00:06:03,731 --> 00:06:05,901
+I'm not looking for you to talk.
+
+163
+00:06:05,899 --> 00:06:07,699
+I'm looking for you to listen.
+
+164
+00:06:15,576 --> 00:06:16,576
+- Well, it's official.
+
+165
+00:06:16,577 --> 00:06:17,807
+No matter what
+happens at trial,
+
+166
+00:06:17,811 --> 00:06:19,581
+this firm isn't surviving
+Mike Ross.
+
+167
+00:06:19,580 --> 00:06:21,250
+- I know about
+the editorial, Louis.
+
+168
+00:06:21,248 --> 00:06:22,578
+- What editorial?
+
+169
+00:06:22,583 --> 00:06:25,723
+I'm talking about the summer
+associate applications.
+
+170
+00:06:25,719 --> 00:06:26,949
+- How bad is it?
+- Three people.
+
+171
+00:06:26,954 --> 00:06:29,094
+Not just any three people,
+the three people that never
+
+172
+00:06:29,089 --> 00:06:30,989
+should've made it to Harvard
+in the first place.
+
+173
+00:06:30,991 --> 00:06:32,421
+- Goddamn it.
+
+174
+00:06:32,426 --> 00:06:34,486
+Sheila's sending us
+the bottom of the barrel.
+
+175
+00:06:34,495 --> 00:06:36,255
+- She's giving us
+the sludge that grows
+
+176
+00:06:36,263 --> 00:06:40,403
+at the bottom of the barrel.
+- Then...
+
+177
+00:06:40,401 --> 00:06:44,941
+I think it might be time to
+start looking beyond Harvard.
+
+178
+00:06:44,938 --> 00:06:46,808
+- Yeah, that's a great idea.
+You know what?
+
+179
+00:06:46,807 --> 00:06:47,767
+We should start shitting
+in the urinals
+
+180
+00:06:47,775 --> 00:06:48,765
+while we're at it.
+
+181
+00:06:48,776 --> 00:06:49,876
+- I'm not talking about
+
+182
+00:06:49,877 --> 00:06:51,777
+the University
+of Arizona, Louis.
+
+183
+00:06:51,779 --> 00:06:54,779
+I'm talking about Columbia,
+Yale, Stanford--
+
+184
+00:06:54,782 --> 00:06:57,282
+- And I'm talking
+about appearances.
+
+185
+00:06:57,284 --> 00:06:59,754
+We break our rule and suddenly
+hire outside of Harvard--
+
+186
+00:06:59,753 --> 00:07:02,323
+- We already broke our rule
+for Rachel with Columbia.
+
+187
+00:07:02,322 --> 00:07:04,122
+- Please, that was different,
+and you know it.
+
+188
+00:07:04,124 --> 00:07:05,924
+- No. It was because of Mike,
+
+189
+00:07:05,926 --> 00:07:08,186
+which makes it the same
+goddamn thing.
+
+190
+00:07:08,195 --> 00:07:11,125
+One way or another, we are
+going to keep this firm going.
+
+191
+00:07:11,131 --> 00:07:13,501
+So if you don't wanna go
+outside of Harvard to do that,
+
+192
+00:07:13,500 --> 00:07:16,330
+then I suggest you go up
+to Cambridge,
+
+193
+00:07:16,336 --> 00:07:17,996
+and convince Sheila
+to start feeding us
+
+194
+00:07:18,005 --> 00:07:20,165
+some worthy
+goddamn applicants.
+
+195
+00:07:20,174 --> 00:07:23,184
+<i> [dramatic music]</i>
+
+196
+00:07:23,177 --> 00:07:25,737
+<i> ♪ ♪</i>
+
+197
+00:07:25,746 --> 00:07:27,876
+- Okay. So first
+you pick me up,
+
+198
+00:07:27,881 --> 00:07:30,181
+then you bring me
+to my favorite café.
+
+199
+00:07:30,184 --> 00:07:31,754
+- What can I say?
+I do my homework.
+
+200
+00:07:31,752 --> 00:07:33,592
+- As do I, Ms. Gibbs,
+which is why I'm not falling
+
+201
+00:07:33,587 --> 00:07:34,987
+for you pretending
+to be my friend.
+
+202
+00:07:34,988 --> 00:07:36,418
+- You're right.
+I'm not your friend.
+
+203
+00:07:36,423 --> 00:07:37,863
+But I am willing
+to pull some strings
+
+204
+00:07:37,858 --> 00:07:39,958
+to get the man you love
+into Columbia Law School.
+
+205
+00:07:39,960 --> 00:07:42,190
+- And if you think that I'm
+gonna buy that fairy tale,
+
+206
+00:07:42,196 --> 00:07:44,096
+the only strings you're trying
+to pull are mine.
+
+207
+00:07:44,097 --> 00:07:46,197
+- The only fairy tale here
+is the one where you believe
+
+208
+00:07:46,200 --> 00:07:48,400
+you get out
+of this thing unscathed.
+
+209
+00:07:48,402 --> 00:07:50,242
+- Okay.
+We're done here.
+
+210
+00:07:50,237 --> 00:07:51,837
+- Rachel, I'm just trying
+to give you your options.
+
+211
+00:07:51,839 --> 00:07:52,939
+- I know my options.
+
+212
+00:07:52,940 --> 00:07:54,740
+- Then you know you have
+no spousal privilege,
+
+213
+00:07:54,741 --> 00:07:56,171
+which means you're going to
+have to tell the truth,
+
+214
+00:07:56,176 --> 00:07:57,636
+and put your fiancée away.
+
+215
+00:07:57,644 --> 00:07:59,644
+Or you're gonna have
+to plead the Fifth.
+
+216
+00:07:59,646 --> 00:08:01,906
+- Or I can say that
+he didn't do this.
+
+217
+00:08:01,915 --> 00:08:04,145
+- Perjuring yourself is
+the same as taking the Fifth,
+
+218
+00:08:04,151 --> 00:08:05,581
+as far as your future
+is concerned.
+
+219
+00:08:05,586 --> 00:08:06,846
+- What the hell
+does that mean?
+
+220
+00:08:06,854 --> 00:08:08,654
+- I'm saying that someday
+you're going to face
+
+221
+00:08:08,655 --> 00:08:10,555
+the character and fitness
+committee of the Bar,
+
+222
+00:08:10,557 --> 00:08:12,257
+and I seriously doubt they're
+going to admit somebody
+
+223
+00:08:12,259 --> 00:08:13,389
+who did that.
+
+224
+00:08:13,393 --> 00:08:14,633
+- Are you trying to
+intimidate a witness?
+
+225
+00:08:14,628 --> 00:08:18,358
+Because yes, someday
+I will face that committee,
+
+226
+00:08:18,365 --> 00:08:20,695
+but tomorrow they're going
+to be hearing about you.
+
+227
+00:08:20,701 --> 00:08:23,301
+- I'm your only way
+out of this mess.
+
+228
+00:08:23,303 --> 00:08:26,573
+Just give me the people who are
+actually responsible for it,
+
+229
+00:08:26,573 --> 00:08:29,613
+and I'll see to it that both
+you and Mike can practice law
+
+230
+00:08:29,610 --> 00:08:31,140
+for the rest of your lives.
+
+231
+00:08:38,952 --> 00:08:40,392
+- Please tell me
+that's the last one.
+
+232
+00:08:40,387 --> 00:08:41,787
+- It is.
+
+233
+00:08:41,788 --> 00:08:44,018
+Except for the hundred
+in the other conference room.
+
+234
+00:08:44,024 --> 00:08:45,724
+- Holy shit.
+- Yeah.
+
+235
+00:08:45,726 --> 00:08:47,556
+Trial Strategy 101.
+
+236
+00:08:47,561 --> 00:08:49,131
+Bury the other side
+in paperwork,
+
+237
+00:08:49,129 --> 00:08:50,959
+so they can't find
+what they're looking for.
+
+238
+00:08:50,964 --> 00:08:52,234
+- And what are we looking for?
+
+239
+00:08:52,232 --> 00:08:54,072
+- Gibbs' trial strategy.
+
+240
+00:08:54,067 --> 00:08:56,797
+Somewhere in these boxes
+are the pieces
+
+241
+00:08:56,803 --> 00:08:58,803
+that she is putting together
+to make her case.
+
+242
+00:08:58,805 --> 00:09:00,235
+We find them,
+we know specifically
+
+243
+00:09:00,240 --> 00:09:01,610
+what we have to fight.
+
+244
+00:09:01,608 --> 00:09:05,338
+- And what specifically might
+those things look like?
+
+245
+00:09:05,345 --> 00:09:09,105
+- Witness lists, interviews,
+anything to do with Lola Jensen,
+
+246
+00:09:09,116 --> 00:09:11,316
+utility bills from when I was
+supposed to be at Harvard--
+
+247
+00:09:11,318 --> 00:09:13,118
+- Wait, wait, wait.
+Slow down.
+
+248
+00:09:13,120 --> 00:09:15,520
+- Why are you writing this down?
+- So I can remember it.
+
+249
+00:09:15,522 --> 00:09:17,792
+And because we need a system.
+
+250
+00:09:17,791 --> 00:09:20,331
+- And because you've never done
+doc review before.
+
+251
+00:09:21,461 --> 00:09:22,591
+I don't believe it.
+
+252
+00:09:22,596 --> 00:09:24,126
+How you've been a legal
+secretary this long,
+
+253
+00:09:24,131 --> 00:09:26,231
+and never have done doc review.
+- I will tell you how.
+
+254
+00:09:26,233 --> 00:09:28,433
+Because I'm the best damn person
+you've ever seen
+
+255
+00:09:28,435 --> 00:09:30,335
+at reading people,
+anticipating needs,
+
+256
+00:09:30,337 --> 00:09:31,897
+and generally
+dominating everything.
+
+257
+00:09:31,905 --> 00:09:33,035
+- So, in this situation,
+
+258
+00:09:33,040 --> 00:09:34,810
+you're going to be
+absolutely no help at all.
+
+259
+00:09:34,808 --> 00:09:36,638
+- None whatsoever.
+- I'm getting Rachel.
+
+260
+00:09:41,181 --> 00:09:42,681
+- What's that?
+
+261
+00:09:42,683 --> 00:09:43,883
+- What does it look like?
+
+262
+00:09:43,884 --> 00:09:45,724
+- It looks like something
+I don't have time for.
+
+263
+00:09:45,719 --> 00:09:47,119
+- Well, make time.
+
+264
+00:09:47,120 --> 00:09:49,850
+- Jessica, we've got a thousand
+boxes of shit to go through,
+
+265
+00:09:49,856 --> 00:09:52,056
+and I've got trial in two weeks.
+- What?
+
+266
+00:09:52,059 --> 00:09:53,759
+- That's right.
+The date's been set.
+
+267
+00:09:53,760 --> 00:09:55,430
+So I'm sorry that I can't have
+a doughnut with you right now,
+
+268
+00:09:55,429 --> 00:09:57,199
+but I've got something a little
+more important to deal with.
+
+269
+00:09:57,197 --> 00:09:59,657
+- Harvey, I understand, but
+our clients are being circled.
+
+270
+00:09:59,666 --> 00:10:00,826
+Our reputation's getting
+tanked,
+
+271
+00:10:00,834 --> 00:10:02,734
+and we're getting sent
+shit associates.
+
+272
+00:10:02,736 --> 00:10:04,136
+- And Mike Ross
+is facing prison.
+
+273
+00:10:04,137 --> 00:10:06,197
+- And you're handling
+one thing,
+
+274
+00:10:06,206 --> 00:10:08,406
+while I'm handling
+everything else.
+
+275
+00:10:08,408 --> 00:10:10,138
+- Jessica--
+- No, never mind, Harvey.
+
+276
+00:10:10,143 --> 00:10:12,983
+It's clear that you
+really don't care
+
+277
+00:10:12,980 --> 00:10:14,450
+about keeping
+this firm together.
+
+278
+00:10:14,448 --> 00:10:16,078
+- I resigned to keep
+this firm together.
+
+279
+00:10:16,083 --> 00:10:17,783
+- Well, it sure doesn't seem
+to be working out that way,
+
+280
+00:10:17,784 --> 00:10:19,424
+does it?
+
+281
+00:10:23,423 --> 00:10:27,133
+- Great, I'll have my secretary
+set up a meeting for Monday.
+
+282
+00:10:27,127 --> 00:10:29,257
+- If that meeting's about your
+pro bono bullshit,
+
+283
+00:10:29,262 --> 00:10:30,562
+cancel it.
+- What?
+
+284
+00:10:30,564 --> 00:10:33,904
+- You said it yourself, Jack.
+Other firms smell blood.
+
+285
+00:10:33,900 --> 00:10:36,940
+Well, you don't get a shark
+to back off by playing nice,
+
+286
+00:10:36,937 --> 00:10:39,367
+you do it by clubbing him
+in the face.
+
+287
+00:10:39,373 --> 00:10:41,613
+- They come after our clients,
+we go after theirs.
+
+288
+00:10:41,608 --> 00:10:43,478
+- Clients aren't the ones
+writing editorials
+
+289
+00:10:43,477 --> 00:10:46,137
+for "The Wall Street
+Journal", Jack.
+
+290
+00:10:46,146 --> 00:10:47,676
+- You want to poach
+an attorney.
+
+291
+00:10:47,681 --> 00:10:50,621
+- I wanna poach
+a whole goddamn department.
+
+292
+00:10:50,617 --> 00:10:52,317
+- That is definitely
+another way to go.
+
+293
+00:10:52,319 --> 00:10:53,889
+- It's the only way to go,
+
+294
+00:10:53,887 --> 00:10:56,287
+because if we didn't do what
+we're saying we didn't do,
+
+295
+00:10:56,289 --> 00:10:58,159
+this is what we do.
+- I get it.
+
+296
+00:10:58,158 --> 00:11:00,588
+You're trying to convince
+the world we're innocent.
+
+297
+00:11:00,594 --> 00:11:02,894
+- Jack, I don't give a shit
+if my enemies think
+
+298
+00:11:02,896 --> 00:11:04,296
+I'm innocent or not.
+
+299
+00:11:04,297 --> 00:11:07,627
+I give a shit whether they
+think they can take me down,
+
+300
+00:11:07,634 --> 00:11:08,974
+which is why
+I'm not going to cower
+
+301
+00:11:08,969 --> 00:11:11,369
+in some pro bono corner,
+trying to convince them
+
+302
+00:11:11,371 --> 00:11:12,801
+that I'm friendly.
+
+303
+00:11:12,806 --> 00:11:15,136
+I'm going to kick some ass,
+
+304
+00:11:15,142 --> 00:11:18,012
+and remind them
+that I'm fierce.
+
+305
+00:11:24,851 --> 00:11:26,521
+[door opening and closing]
+
+306
+00:11:26,520 --> 00:11:28,650
+- There you are. I've been
+looking everywhere for you.
+
+307
+00:11:28,655 --> 00:11:31,285
+Rachel, we need your help.
+Where have you been?
+
+308
+00:11:31,291 --> 00:11:32,461
+- With Anita Gibbs.
+
+309
+00:11:32,459 --> 00:11:33,959
+- What? How did you
+let that happen?
+
+310
+00:11:33,960 --> 00:11:35,660
+- Because she ambushed me
+on the street,
+
+311
+00:11:35,662 --> 00:11:37,102
+with a document that said
+our conversation
+
+312
+00:11:37,097 --> 00:11:38,427
+would be inadmissible.
+
+313
+00:11:38,432 --> 00:11:39,762
+- And if she did that
+is because she didn't want
+
+314
+00:11:39,766 --> 00:11:41,366
+to talk to you, she wanted
+to get in your head.
+
+315
+00:11:41,368 --> 00:11:43,938
+- Mike, I know what
+she wanted to do.
+
+316
+00:11:43,937 --> 00:11:45,667
+- What did she say?
+
+317
+00:11:47,941 --> 00:11:51,081
+- She said that she could
+get you into Columbia,
+
+318
+00:11:51,078 --> 00:11:53,708
+and that you could be a lawyer
+after all this is over.
+
+319
+00:11:53,714 --> 00:11:54,884
+- Rachel, she's lying--
+
+320
+00:11:54,881 --> 00:11:56,051
+- You think I don't know that?
+
+321
+00:11:56,049 --> 00:11:57,519
+- Well, we've already
+been over this.
+
+322
+00:11:57,517 --> 00:11:59,347
+The only way she is gonna help
+us is if we help her
+
+323
+00:11:59,352 --> 00:12:00,692
+put Harvey and Jessica away.
+
+324
+00:12:00,687 --> 00:12:03,087
+- Yes, Mike, I know that,
+but we didn't go over the part
+
+325
+00:12:03,090 --> 00:12:05,590
+where I don't get into the Bar
+because I took the Fifth.
+
+326
+00:12:05,592 --> 00:12:06,792
+- Oh, goddamn it!
+
+327
+00:12:06,793 --> 00:12:08,633
+This is exactly why I wanted
+Harvey to be there.
+
+328
+00:12:08,628 --> 00:12:10,198
+She got into your head.
+- She didn't got into my head.
+
+329
+00:12:10,197 --> 00:12:11,897
+She dangled our dream
+in front of me,
+
+330
+00:12:11,898 --> 00:12:14,128
+and I know
+that we can't have that.
+
+331
+00:12:14,134 --> 00:12:15,934
+It doesn't mean
+I can't handle this.
+
+332
+00:12:19,239 --> 00:12:20,909
+- It doesn't seem
+like you're handling it.
+
+333
+00:12:20,907 --> 00:12:22,307
+- I am.
+- You're crying.
+
+334
+00:12:22,309 --> 00:12:24,979
+- No. I'm releasing my emotions
+so that I can persevere
+
+335
+00:12:24,978 --> 00:12:28,378
+instead of denying them
+and losing my mind.
+
+336
+00:12:28,381 --> 00:12:30,051
+Which I can't do today,
+
+337
+00:12:30,050 --> 00:12:31,820
+because I have a meeting
+with the dean.
+
+338
+00:12:31,818 --> 00:12:33,718
+Now, I came in here
+to be alone
+
+339
+00:12:33,720 --> 00:12:34,990
+so I can deal with my shit,
+
+340
+00:12:34,988 --> 00:12:37,518
+so if you don't mind,
+I would like to be alone
+
+341
+00:12:37,524 --> 00:12:38,894
+so I can deal with my shit.
+
+342
+00:12:51,438 --> 00:12:51,668
+.
+
+343
+00:12:51,671 --> 00:12:53,611
+- Hey, did you find something
+in the discovery?
+
+344
+00:12:53,607 --> 00:12:54,737
+- Yeah, sure as hell did.
+
+345
+00:12:54,741 --> 00:12:57,141
+I just discovered that Gibbs
+picked up Rachel.
+
+346
+00:12:57,144 --> 00:12:58,344
+- What?
+She arrested her?
+
+347
+00:12:58,345 --> 00:13:00,275
+- No, she pulled up to the curb
+with some document.
+
+348
+00:13:00,280 --> 00:13:01,980
+- I don't give a shit what she
+pulled up with.
+
+349
+00:13:01,982 --> 00:13:03,252
+Rachel should know
+not to go with her.
+
+350
+00:13:03,250 --> 00:13:04,750
+- Yeah, and that would've been
+an excellent thing
+
+351
+00:13:04,751 --> 00:13:07,051
+for her lawyer to tell her,
+except her lawyer wasn't there.
+
+352
+00:13:07,053 --> 00:13:08,323
+- Excuse me?
+- You promised me
+
+353
+00:13:08,321 --> 00:13:10,161
+that you would be with her
+every step of the way.
+
+354
+00:13:10,157 --> 00:13:12,187
+- I promised I'd represent her
+at a deposition,
+
+355
+00:13:12,192 --> 00:13:13,892
+not babysit her
+24 hours a day.
+
+356
+00:13:13,894 --> 00:13:16,334
+- Maybe instead of getting mad
+at Rachel, it is time for us
+
+357
+00:13:16,329 --> 00:13:18,099
+to figure out
+how to go after Gibbs.
+
+358
+00:13:18,098 --> 00:13:19,658
+- This again.
+- Yes, this again.
+
+359
+00:13:19,666 --> 00:13:21,996
+I told you she was gonna go
+after Rachel, and now she has.
+
+360
+00:13:22,002 --> 00:13:23,902
+- And I told you if you're
+gonna go after someone,
+
+361
+00:13:23,904 --> 00:13:25,204
+you better knock them out.
+
+362
+00:13:25,205 --> 00:13:27,405
+- Then you better figure out
+a way to knock Gibbs out soon,
+
+363
+00:13:27,407 --> 00:13:29,837
+because if you don't, I will.
+
+364
+00:13:38,819 --> 00:13:42,189
+- Louis.
+
+365
+00:13:42,189 --> 00:13:44,119
+What are you doing here?
+- What?
+
+366
+00:13:44,124 --> 00:13:45,794
+You thought you could lie to
+my face and get away with it?
+
+367
+00:13:45,792 --> 00:13:47,132
+- I never lied to you.
+- Really?
+
+368
+00:13:47,127 --> 00:13:48,487
+Because you swore
+you wouldn't come forward
+
+369
+00:13:48,495 --> 00:13:49,955
+about that e-mail,
+but you did.
+
+370
+00:13:49,963 --> 00:13:51,833
+And you you're pulling
+this associate shit.
+
+371
+00:13:51,832 --> 00:13:53,532
+- I didn't come forward.
+They found me.
+
+372
+00:13:53,533 --> 00:13:55,173
+And I'm not pulling
+any associate shit.
+
+373
+00:13:55,168 --> 00:13:56,628
+- Then what do you call
+this pathetic excuse
+
+374
+00:13:56,636 --> 00:13:58,396
+of a candidates list?
+- I call it inevitable.
+
+375
+00:13:58,405 --> 00:14:00,565
+Because our students can read.
+
+376
+00:14:00,574 --> 00:14:01,874
+- The editorial.
+- Yes.
+
+377
+00:14:01,875 --> 00:14:03,905
+The editorial.
+
+378
+00:14:05,111 --> 00:14:06,811
+- So you're not
+sending us sludge.
+
+379
+00:14:06,813 --> 00:14:09,083
+- Louis, I'm not
+doing anything.
+
+380
+00:14:09,082 --> 00:14:13,222
+Your firm is being investigated
+by the U.S. Attorney's office.
+
+381
+00:14:13,220 --> 00:14:15,990
+And no one is going to risk
+their career on a place
+
+382
+00:14:15,989 --> 00:14:17,959
+that may not even exist
+in a month.
+
+383
+00:14:17,958 --> 00:14:21,188
+- They might,
+if you convince them to.
+
+384
+00:14:21,194 --> 00:14:23,834
+- Louis, I can't do that.
+- Sheila, please.
+
+385
+00:14:23,830 --> 00:14:25,860
+I came here once before,
+hoping for a second chance
+
+386
+00:14:25,866 --> 00:14:27,066
+and you wouldn't
+give it to me.
+
+387
+00:14:27,067 --> 00:14:28,397
+- What does that
+have to do with this?
+
+388
+00:14:28,401 --> 00:14:29,801
+- Because if we'd gotten
+back together then,
+
+389
+00:14:29,803 --> 00:14:31,203
+I wouldn't even be
+at the firm now,
+
+390
+00:14:31,204 --> 00:14:32,944
+but I am.
+
+391
+00:14:32,939 --> 00:14:35,269
+And it's all I have.
+
+392
+00:14:35,275 --> 00:14:38,875
+I understand you not giving
+me a second chance then.
+
+393
+00:14:40,313 --> 00:14:43,823
+But I'm begging you...
+
+394
+00:14:43,817 --> 00:14:45,717
+give my firm one now.
+
+395
+00:14:45,719 --> 00:14:50,359
+- Louis, even if I wanted to,
+it won't work.
+
+396
+00:14:50,357 --> 00:14:52,417
+- You don't know that.
+- Yes, I do.
+
+397
+00:14:52,425 --> 00:14:54,785
+Because they're going to ask me
+if I think it's a good idea
+
+398
+00:14:54,794 --> 00:14:58,064
+for them to work at Pearson
+Specter Litt, and I don't.
+
+399
+00:14:58,064 --> 00:15:01,234
+- Sheila--
+- Louis.
+
+400
+00:15:01,234 --> 00:15:03,534
+Please don't ask me
+to lie to them.
+
+401
+00:15:10,477 --> 00:15:11,907
+- What are you doing?
+
+402
+00:15:11,912 --> 00:15:13,582
+- I'm just wondering
+if you're gonna stay in here
+
+403
+00:15:13,580 --> 00:15:14,810
+going over stuff all day.
+
+404
+00:15:14,814 --> 00:15:16,714
+- What else would I be doing?
+Going to the ball game?
+
+405
+00:15:16,716 --> 00:15:18,276
+- I don't know, Harvey,
+
+406
+00:15:18,285 --> 00:15:19,915
+I thought maybe you'd be doing
+something to get Anita Gibbs
+
+407
+00:15:19,920 --> 00:15:21,020
+to back off Rachel.
+
+408
+00:15:21,021 --> 00:15:22,791
+- Donna, she threatened
+to go to the Bar.
+
+409
+00:15:22,789 --> 00:15:24,789
+It's a bullshit hypothetical
+that she couldn't do
+
+410
+00:15:24,791 --> 00:15:26,191
+until after Rachel testified.
+
+411
+00:15:26,192 --> 00:15:27,832
+Which is after
+the trial starts,
+
+412
+00:15:27,827 --> 00:15:29,387
+and that's what I'm
+goddamn working on.
+
+413
+00:15:29,396 --> 00:15:31,256
+- Harvey, all I'm saying is
+
+414
+00:15:31,264 --> 00:15:33,634
+that when Mike gets worked up
+about something,
+
+415
+00:15:33,633 --> 00:15:35,333
+he doesn't tend to make
+the best decisions.
+
+416
+00:15:35,335 --> 00:15:36,765
+- Well, if he doesn't work
+on the discovery,
+
+417
+00:15:36,770 --> 00:15:39,240
+he's gonna go to jail, so...
+
+418
+00:15:39,239 --> 00:15:41,409
+what do you want me to do?
+- I don't know, Harvey.
+
+419
+00:15:41,408 --> 00:15:43,368
+But you better at least
+go talk to Anita Gibbs,
+
+420
+00:15:43,376 --> 00:15:45,406
+because Mike gave you
+a warning loud and clear.
+
+421
+00:15:45,412 --> 00:15:48,012
+If you don't do something,
+he will.
+
+422
+00:15:57,891 --> 00:16:00,831
+- Jack, I don't often come
+outside for my coffee,
+
+423
+00:16:00,827 --> 00:16:03,157
+but when I do is because
+I'm feeling the need
+
+424
+00:16:03,163 --> 00:16:04,563
+for a little alone time.
+
+425
+00:16:04,564 --> 00:16:07,004
+- Well, I came out here because
+I knew you wouldn't want
+
+426
+00:16:07,000 --> 00:16:10,130
+anyone hearing
+what I have to say.
+
+427
+00:16:10,136 --> 00:16:12,466
+- Are you here to tell me
+you can get the job done?
+
+428
+00:16:12,472 --> 00:16:15,172
+- No, I'm here to tell you
+if you want me to get it done,
+
+429
+00:16:15,175 --> 00:16:17,575
+you're going to have
+to open your wallet.
+
+430
+00:16:17,577 --> 00:16:19,377
+- I'm not paying you
+more money,
+
+431
+00:16:19,379 --> 00:16:20,949
+just to get you to
+poach a department.
+
+432
+00:16:20,947 --> 00:16:22,447
+- I'm not talking about me.
+
+433
+00:16:22,449 --> 00:16:25,619
+I'm talking the real estate
+division of Baker Hostetler.
+
+434
+00:16:25,618 --> 00:16:27,918
+- How much do they want?
+- Double what they're making.
+
+435
+00:16:27,921 --> 00:16:31,561
+- Are you insane? That's what
+broke Dewey Ballantine.
+
+436
+00:16:31,558 --> 00:16:33,418
+You can't have two classes
+of partners.
+
+437
+00:16:33,426 --> 00:16:34,986
+- Then we can't poach
+a department,
+
+438
+00:16:34,995 --> 00:16:37,195
+because they're the only ones
+even willing to come here,
+
+439
+00:16:37,197 --> 00:16:38,727
+considering what's going on.
+
+440
+00:16:42,202 --> 00:16:44,372
+- Then make the offer.
+
+441
+00:16:44,371 --> 00:16:47,741
+And let me have
+my goddamn coffee in peace.
+
+442
+00:16:55,115 --> 00:16:56,245
+- Ms. Scott,
+
+443
+00:16:56,249 --> 00:16:57,849
+there's a Harvey Specter
+here to see you.
+
+444
+00:16:57,851 --> 00:16:59,981
+He says it's urgent.
+
+445
+00:16:59,986 --> 00:17:01,186
+- Send him in.
+
+446
+00:17:02,489 --> 00:17:04,489
+I don't believe it.
+
+447
+00:17:04,491 --> 00:17:07,161
+You have some balls pretending
+to be Harvey to get in here.
+
+448
+00:17:07,160 --> 00:17:08,930
+- Well, you did call me
+"Baby Harvey" once.
+
+449
+00:17:08,928 --> 00:17:10,458
+- I don't give a shit
+what I called you.
+
+450
+00:17:10,463 --> 00:17:12,133
+Get out! Now!
+- Scottie, Scottie, please.
+
+451
+00:17:12,132 --> 00:17:14,102
+Listen, I knew you would
+never agree to see me,
+
+452
+00:17:14,100 --> 00:17:15,130
+and I need to talk to you.
+
+453
+00:17:15,135 --> 00:17:17,295
+- About what?
+
+454
+00:17:17,303 --> 00:17:18,743
+- I need someone
+to bring an action
+
+455
+00:17:18,738 --> 00:17:20,838
+against Anita Gibbs' sister.
+- Are you insane?
+
+456
+00:17:20,840 --> 00:17:22,740
+- Listen to me.
+She's not just coming after me.
+
+457
+00:17:22,742 --> 00:17:25,542
+She's coming after my fiancée.
+- I don't care.
+
+458
+00:17:25,545 --> 00:17:27,475
+If I do that, I might as well
+call the woman up,
+
+459
+00:17:27,480 --> 00:17:29,480
+and tell her that I'm in
+on your whole bullshit too.
+
+460
+00:17:29,482 --> 00:17:30,782
+- We get someone
+from your firm--
+
+461
+00:17:30,784 --> 00:17:32,384
+- Not to mention I told Harvey
+that I never
+
+462
+00:17:32,385 --> 00:17:34,915
+even wanted to hear
+your name again.
+
+463
+00:17:34,921 --> 00:17:36,121
+- [sighs]
+
+464
+00:17:36,122 --> 00:17:37,962
+- He didn't tell you
+about that, did he?
+
+465
+00:17:37,957 --> 00:17:39,217
+[scoffs]
+
+466
+00:17:39,225 --> 00:17:40,685
+Well, I guess
+he hasn't changed,
+
+467
+00:17:40,693 --> 00:17:42,093
+because he didn't
+tell me about you
+
+468
+00:17:42,095 --> 00:17:43,795
+until it was too late either.
+
+469
+00:17:43,797 --> 00:17:46,527
+So I am sorry
+about your fiancée,
+
+470
+00:17:46,533 --> 00:17:48,133
+but I need you to go now.
+
+471
+00:17:48,134 --> 00:17:49,704
+- Scottie, this woman
+is not gonna stop
+
+472
+00:17:49,702 --> 00:17:51,272
+until she gets
+what she wants.
+
+473
+00:17:51,271 --> 00:17:53,401
+And what she wants
+is Harvey.
+
+474
+00:17:53,406 --> 00:17:56,106
+So I'm not asking you to do
+this for me and Rachel.
+
+475
+00:17:56,109 --> 00:17:57,779
+I'm asking you
+to do it for him.
+
+476
+00:18:10,223 --> 00:18:11,963
+- Is that an invitation
+to your<i> bar mitzvah?</i>
+
+477
+00:18:11,958 --> 00:18:13,258
+because I'm busy that day.
+
+478
+00:18:13,259 --> 00:18:14,759
+- It's a motion
+to have you sanctioned
+
+479
+00:18:14,761 --> 00:18:16,431
+for improperly
+contacting a witness.
+
+480
+00:18:16,429 --> 00:18:18,129
+- I didn't improperly
+contact anyone.
+
+481
+00:18:18,131 --> 00:18:19,461
+- Oh, bullshit.
+
+482
+00:18:19,466 --> 00:18:20,926
+You got Rachel Zane alone
+so you could offer her
+
+483
+00:18:20,934 --> 00:18:22,174
+a deal to turn on me.
+
+484
+00:18:22,168 --> 00:18:23,698
+- And there's nothing wrong
+with that.
+
+485
+00:18:23,703 --> 00:18:24,743
+- You listen to me.
+
+486
+00:18:24,737 --> 00:18:26,137
+You've been pulling shit
+like this
+
+487
+00:18:26,139 --> 00:18:27,909
+from the second
+this thing started.
+
+488
+00:18:27,907 --> 00:18:29,937
+You denied my client access
+to his attorney,
+
+489
+00:18:29,943 --> 00:18:31,783
+you fabricated charges
+against Donna,
+
+490
+00:18:31,778 --> 00:18:33,378
+and now you're tampering
+with a witness.
+
+491
+00:18:33,379 --> 00:18:35,809
+- And all witness tampering
+would do is hurt my own case,
+
+492
+00:18:35,815 --> 00:18:37,715
+and why on God's green Earth
+would I do that?
+
+493
+00:18:37,717 --> 00:18:38,717
+<i> [dramatic music]</i>
+
+494
+00:18:38,718 --> 00:18:40,218
+- Why did you just say?
+
+495
+00:18:40,220 --> 00:18:42,190
+- I said you're insane
+if you think that--
+
+496
+00:18:42,188 --> 00:18:43,718
+- No, you said,
+"on God's green Earth,"
+
+497
+00:18:43,723 --> 00:18:45,993
+which is exactly
+what that editorial said.
+
+498
+00:18:45,992 --> 00:18:47,292
+I remember because I thought,
+
+499
+00:18:47,293 --> 00:18:49,733
+"What person under 80
+uses that phrase?"
+
+500
+00:18:49,729 --> 00:18:51,729
+Well, looks like I found her.
+
+501
+00:18:51,731 --> 00:18:53,331
+- I don't know
+what you're talking about.
+
+502
+00:18:53,333 --> 00:18:55,903
+- You sure as hell do, because
+you planted that goddamn thing.
+
+503
+00:18:55,902 --> 00:18:59,072
+- You have any proof?
+No, you don't.
+
+504
+00:18:59,072 --> 00:19:02,012
+But even if I did plant that,
+it would only have been
+
+505
+00:19:02,008 --> 00:19:03,668
+because there's no way
+that one of you
+
+506
+00:19:03,676 --> 00:19:05,006
+did not know
+what was going on.
+
+507
+00:19:05,011 --> 00:19:06,541
+And until one of you
+admits that,
+
+508
+00:19:06,546 --> 00:19:08,446
+I'm going to take apart your
+firm brick by brick.
+
+509
+00:19:08,448 --> 00:19:10,478
+So you want to file that thing?
+You go ahead.
+
+510
+00:19:10,483 --> 00:19:12,823
+It's not going to stop me
+for one second.
+
+511
+00:19:20,160 --> 00:19:20,390
+.
+
+512
+00:19:20,393 --> 00:19:21,893
+[knocking]
+
+513
+00:19:21,895 --> 00:19:23,385
+- Rachel, please.
+
+514
+00:19:23,396 --> 00:19:26,856
+Have a seat.
+- Thank you, Dean.
+
+515
+00:19:26,866 --> 00:19:29,996
+I have to say I've
+so been looking forward
+
+516
+00:19:30,003 --> 00:19:32,273
+to my first student review.
+
+517
+00:19:32,272 --> 00:19:33,972
+- And ever since
+your first interview here,
+
+518
+00:19:33,973 --> 00:19:35,913
+you've done nothing
+but impress me.
+
+519
+00:19:35,909 --> 00:19:38,579
+Which is why I'm sorry
+to have to bring this up now.
+
+520
+00:19:38,578 --> 00:19:40,108
+- Bring what up?
+
+521
+00:19:40,113 --> 00:19:42,783
+- The fact that your last LSAT
+score was significantly higher
+
+522
+00:19:42,782 --> 00:19:44,252
+than your previous ones.
+
+523
+00:19:44,250 --> 00:19:48,650
+- That is because I studied
+incredibly hard the last time.
+
+524
+00:19:48,655 --> 00:19:53,485
+- Did you study hard? Or did
+your fiancée study hard for you?
+
+525
+00:19:53,493 --> 00:19:56,033
+- You think Mike took
+the LSAT for me?
+
+526
+00:19:56,029 --> 00:19:57,199
+- I think he's been indicted
+
+527
+00:19:57,197 --> 00:19:58,697
+for more serious crimes
+than that.
+
+528
+00:19:58,698 --> 00:19:59,858
+And now there are allegations
+
+529
+00:19:59,866 --> 00:20:01,326
+that he's taken the LSATs
+for people.
+
+530
+00:20:01,334 --> 00:20:04,804
+- I can't believe this.
+I took that test myself.
+
+531
+00:20:04,804 --> 00:20:07,744
+- And I have a responsibility
+to protect the reputation
+
+532
+00:20:07,740 --> 00:20:08,940
+of this university.
+
+533
+00:20:08,942 --> 00:20:10,542
+- And how exactly
+are you proposing
+
+534
+00:20:10,543 --> 00:20:12,183
+to protect that reputation?
+
+535
+00:20:12,178 --> 00:20:14,178
+- By expelling
+any dangers to it.
+
+536
+00:20:16,049 --> 00:20:17,679
+Unless, of course,
+for some reason
+
+537
+00:20:17,684 --> 00:20:20,324
+these allegations against him
+are dropped.
+
+538
+00:20:21,621 --> 00:20:23,821
+- Anita Gibbs called you,
+didn't she?
+
+539
+00:20:23,823 --> 00:20:25,493
+- I have no idea
+what you're talking about.
+
+540
+00:20:25,491 --> 00:20:26,891
+I'm simply giving you
+the courtesy
+
+541
+00:20:26,893 --> 00:20:28,633
+of letting you know
+that if I have to choose
+
+542
+00:20:28,628 --> 00:20:32,658
+between your future
+and this university's,
+
+543
+00:20:32,665 --> 00:20:34,425
+I'm not choosing you.
+
+544
+00:20:34,434 --> 00:20:36,904
+- Well, then, please,
+tell Ms. Gibbs
+
+545
+00:20:36,903 --> 00:20:39,803
+thank you for the courtesy.
+
+546
+00:20:47,981 --> 00:20:49,481
+- Scottie, what are you
+doing here?
+
+547
+00:20:49,482 --> 00:20:51,282
+- I can't believe
+you sent him to me.
+
+548
+00:20:51,284 --> 00:20:52,824
+- Sent who?
+- Oh, don't give me that.
+
+549
+00:20:52,819 --> 00:20:53,919
+The last time
+you came to me,
+
+550
+00:20:53,920 --> 00:20:55,490
+you said it was
+because Mike made you.
+
+551
+00:20:55,488 --> 00:20:57,218
+Well, this time,
+you made him.
+
+552
+00:20:57,223 --> 00:20:58,593
+-I didn't made him do anything.
+
+553
+00:20:58,591 --> 00:20:59,921
+- Well, then, you taught him
+well, because he came to me
+
+554
+00:20:59,926 --> 00:21:01,086
+and pulled on my heart strings
+
+555
+00:21:01,094 --> 00:21:02,394
+to get me to do
+something for you,
+
+556
+00:21:02,395 --> 00:21:03,995
+but this time
+the answer is no.
+
+557
+00:21:03,997 --> 00:21:06,127
+I am not going after
+Anita Gibbs.
+
+558
+00:21:06,132 --> 00:21:08,402
+- Scottie, I would never ask you
+to do something like that.
+
+559
+00:21:08,401 --> 00:21:10,601
+- That's funny, because you
+asked me to throw a case
+
+560
+00:21:10,603 --> 00:21:11,943
+to keep Mike
+from getting caught.
+
+561
+00:21:11,938 --> 00:21:14,138
+- Throwing a case doesn't put
+a target on your back.
+
+562
+00:21:14,140 --> 00:21:16,340
+- If you really wanted to keep
+a target off my back,
+
+563
+00:21:16,342 --> 00:21:18,542
+you never would've told me
+about Mike in the first place.
+
+564
+00:21:18,544 --> 00:21:20,714
+- Scottie, I didn't tell him
+to do that.
+
+565
+00:21:20,713 --> 00:21:22,883
+- Well, then, I guess you two
+are having the same problem
+
+566
+00:21:22,882 --> 00:21:26,182
+we did: You don't talk
+to each other.
+
+567
+00:21:26,185 --> 00:21:29,115
+Since you chose him over me
+it's not my problem anymore.
+
+568
+00:21:29,122 --> 00:21:30,692
+- I didn't chose him over you.
+
+569
+00:21:30,690 --> 00:21:32,220
+- Yes, you did.
+
+570
+00:21:32,225 --> 00:21:33,455
+And whether you choose
+to admit it or not,
+
+571
+00:21:33,459 --> 00:21:34,459
+it was Mike's secret
+
+572
+00:21:34,460 --> 00:21:36,190
+that broke us up
+in the first place.
+
+573
+00:21:48,941 --> 00:21:50,511
+- You let her in here
+without telling me?
+
+574
+00:21:50,510 --> 00:21:52,010
+- I was in the conference room,
+going over discovery.
+
+575
+00:21:52,011 --> 00:21:53,681
+What are you going to do?
+
+576
+00:21:53,680 --> 00:21:55,050
+- I don't know what I'm gonna
+do, but whatever it is,
+
+577
+00:21:55,048 --> 00:21:56,708
+I'm gonna do it right now.
+- Harvey, calm down.
+
+578
+00:21:56,716 --> 00:21:58,946
+- I'm not gonna calm down,
+you told me to go after Gibbs
+
+579
+00:21:58,951 --> 00:22:00,721
+to stop Mike from doing
+something stupid,
+
+580
+00:22:00,720 --> 00:22:02,890
+and I did, and all that did
+was waste our time
+
+581
+00:22:02,889 --> 00:22:04,289
+like I said it would.
+- Harvey.
+
+582
+00:22:04,290 --> 00:22:07,160
+Gibbs is attacking Rachel,
+the woman he loves.
+
+583
+00:22:07,160 --> 00:22:09,190
+You of all people should be
+able to understand that.
+
+584
+00:22:09,195 --> 00:22:10,385
+- I don't give a shit.
+
+585
+00:22:10,396 --> 00:22:12,726
+He had no right to go after
+someone I love.
+
+586
+00:22:13,766 --> 00:22:15,296
+- Okay, you know what, Harvey?
+
+587
+00:22:15,301 --> 00:22:17,771
+Mike is the one on trial here,
+not Scottie.
+
+588
+00:22:17,770 --> 00:22:19,440
+And all he did was ask her
+to do something.
+
+589
+00:22:19,439 --> 00:22:21,509
+So maybe the thing that you're
+really upset about
+
+590
+00:22:21,507 --> 00:22:22,837
+is that she was right.
+
+591
+00:22:29,482 --> 00:22:31,382
+- Well, how did it go?
+
+592
+00:22:31,384 --> 00:22:34,294
+- [sighs] We've known
+each other a long time, Jack,
+
+593
+00:22:34,287 --> 00:22:37,787
+and I'd really like to help,
+but it's not gonna happen.
+
+594
+00:22:37,790 --> 00:22:39,790
+You said if I could
+get them double--
+
+595
+00:22:39,792 --> 00:22:42,732
+- I said it would take at least
+double just to get me to ask.
+
+596
+00:22:42,729 --> 00:22:44,429
+I did, and they laughed me
+out of the room.
+
+597
+00:22:44,430 --> 00:22:45,960
+- What if I could
+get you more?
+
+598
+00:22:45,965 --> 00:22:47,525
+- There's no number that's
+going to get them to come
+
+599
+00:22:47,533 --> 00:22:49,533
+to Pearson Specter because they
+don't believe there's gonna be
+
+600
+00:22:49,535 --> 00:22:50,565
+a firm to come to.
+
+601
+00:22:50,570 --> 00:22:53,140
+- Then why did you ask
+to meet me here?
+
+602
+00:22:53,139 --> 00:22:55,569
+- Because after I asked them
+about your offer,
+
+603
+00:22:55,575 --> 00:22:57,265
+I asked them about mine.
+
+604
+00:22:58,277 --> 00:22:59,477
+- What are you talking about?
+
+605
+00:22:59,479 --> 00:23:01,409
+- I told them a former
+fraternity brother of mine,
+
+606
+00:23:01,414 --> 00:23:02,954
+who happens to be
+a kick-ass lawyer
+
+607
+00:23:02,949 --> 00:23:05,349
+might be looking for a change.
+- [chuckles]
+
+608
+00:23:05,351 --> 00:23:06,921
+You're offering me a job?
+
+609
+00:23:06,919 --> 00:23:09,489
+- Jack, Pearson Specter's
+a sinking ship.
+
+610
+00:23:09,489 --> 00:23:10,819
+- We've taken on some water.
+
+611
+00:23:10,823 --> 00:23:12,763
+- [laughing]
+You've taken on an ocean.
+
+612
+00:23:12,759 --> 00:23:14,529
+Why the hell would
+you wanna stay there?
+
+613
+00:23:14,527 --> 00:23:16,027
+- I'll tell you why.
+
+614
+00:23:16,028 --> 00:23:18,898
+Because if that ship sinks,
+I'll find myself another job.
+
+615
+00:23:18,898 --> 00:23:20,028
+But if it doesn't,
+
+616
+00:23:20,032 --> 00:23:21,702
+I have the chance to be one
+of the captains.
+
+617
+00:23:21,701 --> 00:23:24,971
+If I come to you now, I'll
+never be more than a lifer.
+
+618
+00:23:24,971 --> 00:23:28,211
+As my friend,
+tell me I'm wrong.
+
+619
+00:23:29,976 --> 00:23:32,036
+- You're not wrong.
+
+620
+00:23:34,847 --> 00:23:37,847
+<i> [soft piano music]</i>
+
+621
+00:23:37,850 --> 00:23:45,920
+<i> ♪ ♪</i>
+
+622
+00:23:46,926 --> 00:23:48,526
+- Don't tell me they printed out
+
+623
+00:23:48,528 --> 00:23:50,828
+a special evening edition
+on us too.
+
+624
+00:23:50,830 --> 00:23:52,300
+- Not yet.
+
+625
+00:23:52,298 --> 00:23:57,738
+- I read it, by the way,
+on the flight up to Boston.
+
+626
+00:24:00,106 --> 00:24:02,166
+- And did it fire you up?
+
+627
+00:24:04,610 --> 00:24:06,340
+- Pissed me the hell off.
+
+628
+00:24:11,384 --> 00:24:13,424
+- You couldn't get it done
+with Sheila, could you?
+
+629
+00:24:13,419 --> 00:24:18,089
+- Jessica, she didn't send us
+the candidates on that list.
+
+630
+00:24:18,090 --> 00:24:21,160
+They were the only three that
+even asked to be submitted,
+
+631
+00:24:21,160 --> 00:24:23,760
+and it was because
+of bullshit like that.
+
+632
+00:24:28,968 --> 00:24:30,268
+- People are scared
+to come here.
+
+633
+00:24:30,269 --> 00:24:31,799
+- They are.
+
+634
+00:24:31,804 --> 00:24:34,874
+I tried to get Sheila to make
+them unafraid, but I couldn't.
+
+635
+00:24:34,874 --> 00:24:37,744
+- That's all right.
+
+636
+00:24:37,743 --> 00:24:39,443
+It's all right, Louis.
+It's not your fault.
+
+637
+00:24:39,445 --> 00:24:42,005
+<i> ♪ ♪</i>
+
+638
+00:24:42,014 --> 00:24:46,054
+Once word got out about Mike
+this was bound to happen.
+
+639
+00:24:46,052 --> 00:24:47,722
+- What I learned
+from hiring Mike
+
+640
+00:24:47,720 --> 00:24:51,460
+was that not all great lawyers
+went to Harvard.
+
+641
+00:24:53,626 --> 00:24:56,526
+- What are you saying?
+
+642
+00:24:56,529 --> 00:25:00,529
+- I contacted Stanford,
+Yale, Columbia, Penn,
+
+643
+00:25:00,533 --> 00:25:03,773
+and all the rest...
+Top 20 law schools.
+
+644
+00:25:05,738 --> 00:25:08,608
+I officially opened up the doors
+to Pearson Specter Litt.
+
+645
+00:25:08,608 --> 00:25:10,768
+- I know how much you hated
+to do that, Louis,
+
+646
+00:25:10,776 --> 00:25:14,876
+but sometimes we need to do
+what we have to...
+
+647
+00:25:14,881 --> 00:25:17,081
+to survive.
+
+648
+00:25:17,083 --> 00:25:18,683
+- Is there anything else
+I can do?
+
+649
+00:25:18,684 --> 00:25:21,854
+- No, there isn't.
+
+650
+00:25:21,854 --> 00:25:26,424
+Right now, we just need to
+get through this trial,
+
+651
+00:25:26,425 --> 00:25:29,725
+and pray to God
+that Harvey gets
+
+652
+00:25:29,729 --> 00:25:32,599
+Mike goddamn Ross
+off the hook.
+
+653
+00:25:38,905 --> 00:25:39,135
+.
+
+654
+00:25:39,138 --> 00:25:41,168
+[water running]
+
+655
+00:25:45,878 --> 00:25:47,608
+- Hey.
+
+656
+00:25:47,613 --> 00:25:48,813
+- Hi.
+
+657
+00:25:51,484 --> 00:25:53,524
+- You're doing dishes.
+
+658
+00:25:53,519 --> 00:25:55,249
+- So?
+
+659
+00:25:55,254 --> 00:25:56,494
+- So you hate doing dishes,
+
+660
+00:25:56,489 --> 00:25:57,559
+which means
+something's wrong.
+
+661
+00:25:57,557 --> 00:25:59,617
+- Nothing's wrong.
+
+662
+00:26:04,196 --> 00:26:06,226
+[faucet closes]
+- What's going on?
+
+663
+00:26:09,535 --> 00:26:11,165
+- I don't even know
+if I should say it,
+
+664
+00:26:11,170 --> 00:26:12,800
+because the last time I did
+you got so mad.
+
+665
+00:26:12,805 --> 00:26:14,195
+You thought I was
+gonna leave you.
+
+666
+00:26:14,206 --> 00:26:15,606
+And you say you want me
+to share things with you,
+
+667
+00:26:15,608 --> 00:26:17,878
+but I don't know if you do,
+because when I do
+
+668
+00:26:17,877 --> 00:26:20,307
+you seem to get so upset
+that I--
+
+669
+00:26:20,313 --> 00:26:23,783
+- I get it. You want to talk
+about making a deal.
+
+670
+00:26:23,783 --> 00:26:26,123
+- I don't know
+what I wanna do.
+
+671
+00:26:27,987 --> 00:26:31,417
+I just--
+
+672
+00:26:31,424 --> 00:26:33,594
+She said that she could
+get you into Columbia,
+
+673
+00:26:33,593 --> 00:26:34,593
+and you're right.
+
+674
+00:26:34,594 --> 00:26:35,964
+It got into my head.
+
+675
+00:26:35,962 --> 00:26:37,232
+- Rachel, we've been
+over this.
+
+676
+00:26:37,229 --> 00:26:38,999
+She was lying.
+
+677
+00:26:38,998 --> 00:26:42,168
+- That was before I knew she
+was able to get to the dean.
+
+678
+00:26:42,168 --> 00:26:43,428
+- What are you talking about?
+
+679
+00:26:43,436 --> 00:26:45,036
+- I had my meeting
+with him today,
+
+680
+00:26:45,037 --> 00:26:46,437
+and I thought he was
+going to tell me
+
+681
+00:26:46,439 --> 00:26:48,909
+how well I've been doing,
+and instead...
+
+682
+00:26:48,908 --> 00:26:51,178
+he threatened to expel me.
+
+683
+00:26:52,111 --> 00:26:53,941
+- [sighs]
+
+684
+00:26:53,946 --> 00:26:55,776
+Okay.
+
+685
+00:26:55,781 --> 00:26:58,181
+Okay, that--that doesn't mean
+that it was Gibbs.
+
+686
+00:26:58,184 --> 00:27:00,224
+- You weren't there.
+- No, I wasn't there, all right?
+
+687
+00:27:00,219 --> 00:27:03,389
+But it's not crazy to assume
+that they would question
+
+688
+00:27:03,389 --> 00:27:05,919
+whether or not you knew about me
+without talking to Gibbs.
+
+689
+00:27:05,925 --> 00:27:08,225
+- Is it crazy for them
+to mention a crime
+
+690
+00:27:08,227 --> 00:27:11,327
+you haven't even been accused of
+without talking to Gibbs?
+
+691
+00:27:11,330 --> 00:27:12,730
+- What?
+- They said there are rumors
+
+692
+00:27:12,732 --> 00:27:14,132
+of you taking the LSATs
+for people
+
+693
+00:27:14,133 --> 00:27:17,533
+and they're accusing you
+of doing that for me.
+
+694
+00:27:20,573 --> 00:27:24,983
+- Well...at least now
+I know what I need to do.
+
+695
+00:27:29,682 --> 00:27:30,912
+- Harvey.
+
+696
+00:27:30,916 --> 00:27:32,576
+I know how we can stop Gibbs
+from pressuring Rachel.
+
+697
+00:27:32,585 --> 00:27:35,915
+- Does it involve going
+to Scottie without telling me?
+
+698
+00:27:35,921 --> 00:27:37,621
+- Harvey.
+- Goddamn it, you had no right.
+
+699
+00:27:37,623 --> 00:27:39,323
+- I had every right,
+because I knew Gibson
+
+700
+00:27:39,325 --> 00:27:41,685
+would keep crossing lines,
+and that's exactly what she did.
+
+701
+00:27:41,694 --> 00:27:42,794
+- What are you talking about?
+
+702
+00:27:42,795 --> 00:27:43,955
+- She manipulated
+the Dean of Columbia
+
+703
+00:27:43,963 --> 00:27:45,203
+into threatening
+to expel Rachel.
+
+704
+00:27:45,197 --> 00:27:46,457
+- Where's your proof?
+
+705
+00:27:46,465 --> 00:27:49,195
+- They accused her of having me
+take the LSATs for her,
+
+706
+00:27:49,201 --> 00:27:51,041
+and the only problem is,
+there's no record of me
+
+707
+00:27:51,037 --> 00:27:52,437
+ever having
+being accused of that.
+
+708
+00:27:52,438 --> 00:27:55,068
+- The guy you saw in court.
+- Yes, his name is David Green.
+
+709
+00:27:55,074 --> 00:27:57,614
+He must've told Gibbs about me,
+and then she used that
+
+710
+00:27:57,610 --> 00:27:59,340
+to get the dean
+to strong-arm Rachel.
+
+711
+00:27:59,345 --> 00:28:00,705
+That's abuse of power.
+
+712
+00:28:00,713 --> 00:28:02,653
+- I told you, the only problem
+with that theory is,
+
+713
+00:28:02,648 --> 00:28:04,108
+David Green tells Gibbs
+about you,
+
+714
+00:28:04,116 --> 00:28:05,176
+and his career is done.
+
+715
+00:28:05,184 --> 00:28:06,754
+- Then he must've told her
+anonymously.
+
+716
+00:28:06,752 --> 00:28:08,192
+- Which doesn't help us,
+'cause we still don't have
+
+717
+00:28:08,187 --> 00:28:09,847
+any proof that she
+contacted the dean.
+
+718
+00:28:09,855 --> 00:28:12,985
+- No, we don't, but it wouldn't
+be that hard for me to get.
+
+719
+00:28:12,992 --> 00:28:15,162
+- No, it could be a setup.
+It's too risky.
+
+720
+00:28:15,161 --> 00:28:17,061
+- This whole goddamn thing
+is too risky,
+
+721
+00:28:17,063 --> 00:28:19,233
+but right now Rachel's future
+is in jeopardy,
+
+722
+00:28:19,231 --> 00:28:21,831
+and if I have to risk tacking on
+a few years to save her,
+
+723
+00:28:21,834 --> 00:28:23,934
+is not even a close call.
+
+724
+00:28:26,072 --> 00:28:27,572
+- All right.
+Do what you have to do.
+
+725
+00:28:27,573 --> 00:28:29,373
+Just don't get caught.
+
+726
+00:28:33,746 --> 00:28:35,706
+[knocking]
+
+727
+00:28:35,715 --> 00:28:37,145
+- You're knocking.
+
+728
+00:28:37,149 --> 00:28:39,979
+That means it's either bad news
+or you want something.
+
+729
+00:28:39,985 --> 00:28:42,515
+- I couldn't get the department.
+- Don't tell me.
+
+730
+00:28:42,521 --> 00:28:45,291
+They said we're in no position
+to poach anybody.
+
+731
+00:28:45,291 --> 00:28:46,691
+- That's exactly
+what they said,
+
+732
+00:28:46,692 --> 00:28:48,662
+right before they
+offered me a job.
+
+733
+00:28:48,661 --> 00:28:51,701
+- So you're here to tell me
+you took it.
+
+734
+00:28:51,697 --> 00:28:53,797
+- I'm here to ask you
+if you want me to take it.
+
+735
+00:28:53,799 --> 00:28:56,499
+- What the hell difference
+does it make what I want?
+
+736
+00:28:56,502 --> 00:28:59,702
+- Jessica, when I left Boston,
+people said I was a traitor
+
+737
+00:28:59,705 --> 00:29:03,005
+and that I thought I was
+too good for my own hometown.
+
+738
+00:29:03,008 --> 00:29:04,678
+Well, it wasn't true.
+
+739
+00:29:04,677 --> 00:29:06,377
+But I knew
+the real test for me
+
+740
+00:29:06,378 --> 00:29:07,978
+wasn't making it
+in my own hometown.
+
+741
+00:29:07,980 --> 00:29:09,550
+It was making it
+in the toughest city
+
+742
+00:29:09,548 --> 00:29:11,418
+in the world, and as far
+as I'm concerned,
+
+743
+00:29:11,417 --> 00:29:15,717
+I haven't done that yet.
+
+744
+00:29:15,721 --> 00:29:18,021
+- You want to be made
+name partner.
+
+745
+00:29:18,023 --> 00:29:20,893
+- I wanna know if it'll ever
+even be on the table.
+
+746
+00:29:20,893 --> 00:29:24,293
+- I could say yes
+to that right now,
+
+747
+00:29:24,296 --> 00:29:27,556
+but how would you know
+you could trust me?
+
+748
+00:29:27,566 --> 00:29:29,596
+- I have no other choice.
+
+749
+00:29:29,602 --> 00:29:31,272
+<i> [dramatic music]</i>
+
+750
+00:29:31,270 --> 00:29:33,640
+- And how do I know
+I can trust you?
+
+751
+00:29:37,143 --> 00:29:39,913
+What's this?
+- You know what it is.
+
+752
+00:29:43,916 --> 00:29:46,416
+- It's what Daniel Hardman
+has on you.
+
+753
+00:29:47,887 --> 00:29:49,287
+- Now you have it too.
+
+754
+00:29:58,964 --> 00:30:00,764
+- David Green.
+
+755
+00:30:02,401 --> 00:30:03,401
+- What are you doing here?
+
+756
+00:30:03,402 --> 00:30:04,542
+- So you do remember me.
+
+757
+00:30:04,537 --> 00:30:05,597
+- Of course I do.
+
+758
+00:30:05,604 --> 00:30:07,814
+You're the guy
+we're prosecuting.
+
+759
+00:30:07,807 --> 00:30:08,907
+The fake lawyer.
+
+760
+00:30:08,908 --> 00:30:11,108
+- Oh, I'm more than that
+and you know it.
+
+761
+00:30:11,110 --> 00:30:12,280
+- What are you talking about?
+
+762
+00:30:12,278 --> 00:30:14,038
+- You hired me
+because I'm smart.
+
+763
+00:30:14,046 --> 00:30:16,446
+What you don't know is that
+I have a photographic memory,
+
+764
+00:30:16,448 --> 00:30:18,848
+which means I have
+your drivers license number
+
+765
+00:30:18,851 --> 00:30:20,751
+from seven years ago memorized.
+
+766
+00:30:20,753 --> 00:30:23,453
+Not that it matters, because
+I also made a copy.
+
+767
+00:30:23,455 --> 00:30:26,115
+Like I made a copy of all
+my clients' licenses.
+
+768
+00:30:26,125 --> 00:30:27,515
+- That doesn't prove anything.
+
+769
+00:30:27,526 --> 00:30:29,886
+- Maybe not, but I also remember
+every answer I put down
+
+770
+00:30:29,895 --> 00:30:31,895
+on a 104 question test.
+
+771
+00:30:31,897 --> 00:30:33,557
+If that's not proof,
+I don't know what is.
+
+772
+00:30:33,566 --> 00:30:35,096
+- What do you want?
+
+773
+00:30:35,100 --> 00:30:37,100
+- I want proof that Anita Gibbs'
+pressuring the Dean of Columbia
+
+774
+00:30:37,102 --> 00:30:38,902
+to expel Rachel Zane.
+
+775
+00:30:38,904 --> 00:30:40,874
+- I can't do that.
+- Yes, you can.
+
+776
+00:30:43,542 --> 00:30:45,142
+- Okay, they went
+to law school together.
+
+777
+00:30:45,144 --> 00:30:47,084
+There's your connection.
+
+778
+00:30:47,079 --> 00:30:50,709
+- Circumstantial public record
+not good enough.
+
+779
+00:30:50,716 --> 00:30:52,276
+- I do what you're asking
+and get caught,
+
+780
+00:30:52,284 --> 00:30:54,324
+and my career at the U.S.
+Attorney's office is over.
+
+781
+00:30:54,320 --> 00:30:55,520
+- I give what I have
+to the D.A.,
+
+782
+00:30:55,521 --> 00:30:57,021
+and your career as a lawyer
+is over.
+
+783
+00:30:57,022 --> 00:30:58,392
+- If you do that, you only
+implicate yourself.
+
+784
+00:30:58,390 --> 00:30:59,690
+- Yeah, maybe
+you didn't notice, asshole,
+
+785
+00:30:59,692 --> 00:31:01,562
+but I'm already on trial,
+and now you're coming
+
+786
+00:31:01,560 --> 00:31:02,830
+after the woman I love.
+
+787
+00:31:02,828 --> 00:31:05,098
+And the truth is you don't
+deserve to practice law.
+
+788
+00:31:05,097 --> 00:31:06,927
+Maybe I don't either,
+but she does.
+
+789
+00:31:06,932 --> 00:31:08,672
+And, believe me,
+when it comes to this,
+
+790
+00:31:08,667 --> 00:31:12,497
+I really don't give a shit
+about me or you.
+
+791
+00:31:12,504 --> 00:31:14,444
+- And what if I can't find
+what you're looking for?
+
+792
+00:31:14,440 --> 00:31:15,810
+- You know what, David?
+
+793
+00:31:15,808 --> 00:31:19,978
+You might not have been smart
+enough to get 178 on the LSATs,
+
+794
+00:31:19,979 --> 00:31:22,549
+but I'm pretty damn sure
+you're smart enough to do that.
+
+795
+00:31:31,690 --> 00:31:32,820
+- What's this?
+
+796
+00:31:32,825 --> 00:31:34,255
+- That's what
+you're gonna sign.
+
+797
+00:31:37,529 --> 00:31:39,059
+- This says you're dropping
+a charge
+
+798
+00:31:39,064 --> 00:31:41,474
+of malicious prosecution
+in exchange for me admitting
+
+799
+00:31:41,467 --> 00:31:42,767
+a sanctionable offense.
+
+800
+00:31:42,768 --> 00:31:44,898
+- And for backing the hell off
+going after Rachel Zane.
+
+801
+00:31:44,904 --> 00:31:46,274
+- Is this a joke?
+- No.
+
+802
+00:31:46,272 --> 00:31:48,112
+And neither is getting
+the Dean of Columbia Law
+
+803
+00:31:48,107 --> 00:31:49,407
+to do your dirty work.
+
+804
+00:31:49,408 --> 00:31:50,768
+- I don't know what
+you're talking about.
+
+805
+00:31:50,776 --> 00:31:52,236
+- You know exactly
+what we're talking about.
+
+806
+00:31:52,244 --> 00:31:53,684
+And unless you want us
+to tell the world
+
+807
+00:31:53,679 --> 00:31:54,879
+that you intimidated a witness
+
+808
+00:31:54,880 --> 00:31:57,010
+by colluding with your old
+law school buddy,
+
+809
+00:31:57,016 --> 00:31:58,076
+you're going to sign that.
+
+810
+00:31:58,083 --> 00:31:59,323
+- You don't have
+a shred of proof
+
+811
+00:31:59,318 --> 00:32:00,918
+that I had anyone do anything.
+
+812
+00:32:00,920 --> 00:32:02,950
+- I have a copy of an anonymous
+tip sent to you,
+
+813
+00:32:02,955 --> 00:32:04,345
+saying I took the LSATs
+for people,
+
+814
+00:32:04,356 --> 00:32:06,386
+and a record of a phone call
+from your office
+
+815
+00:32:06,392 --> 00:32:08,932
+to the Dean of Columbia
+ten minutes later.
+
+816
+00:32:08,928 --> 00:32:10,158
+- That's no proof of anything.
+
+817
+00:32:10,162 --> 00:32:12,262
+- It's proof enough for us
+to sue Dean Herrick
+
+818
+00:32:12,264 --> 00:32:13,504
+for every penny
+he's ever made.
+
+819
+00:32:13,499 --> 00:32:15,069
+You think when we get him
+in a deposition
+
+820
+00:32:15,067 --> 00:32:16,127
+he isn't gonna crack?
+
+821
+00:32:23,909 --> 00:32:26,239
+- You think you're pretty smart,
+don't you?
+
+822
+00:32:26,245 --> 00:32:27,635
+- Smart enough to outwit
+a U .S. Attorney.
+
+823
+00:32:27,646 --> 00:32:29,176
+- And if we can do it here,
+what makes you think
+
+824
+00:32:29,181 --> 00:32:30,411
+we won't be able to do it
+in court?
+
+825
+00:32:30,416 --> 00:32:32,046
+- Because court is not about
+bullshit like this.
+
+826
+00:32:32,051 --> 00:32:33,351
+It's about facts.
+
+827
+00:32:33,352 --> 00:32:35,792
+And the fact is, you're not
+a goddamn lawyer.
+
+828
+00:32:35,788 --> 00:32:39,258
+<i> [dramatic music]</i>
+
+829
+00:32:52,938 --> 00:32:53,168
+.
+
+830
+00:32:53,172 --> 00:32:54,642
+- [sighs]
+
+831
+00:32:54,640 --> 00:32:56,340
+You got it done.
+
+832
+00:32:56,342 --> 00:32:57,612
+- How'd you know?
+- Because you're doing
+
+833
+00:32:57,609 --> 00:32:58,909
+that puffy chest thing you do
+
+834
+00:32:58,911 --> 00:33:00,641
+when you feel really good
+about yourself.
+
+835
+00:33:00,646 --> 00:33:01,906
+- I do not do
+a puffy chest thing.
+
+836
+00:33:01,914 --> 00:33:03,184
+- Yes, you do.
+And relax,
+
+837
+00:33:03,182 --> 00:33:05,722
+because I love you
+and your chest.
+
+838
+00:33:05,718 --> 00:33:07,748
+- Well, I love you
+and your chest.
+
+839
+00:33:07,753 --> 00:33:09,293
+- Hey!
+- Oh, that came out wrong.
+
+840
+00:33:09,288 --> 00:33:12,188
+- Seriously,
+I meant your mind.
+
+841
+00:33:12,191 --> 00:33:14,091
+Your brilliant legal mind.
+
+842
+00:33:14,093 --> 00:33:18,533
+- Well, if it wasn't for you
+and your brilliant legal mind,
+
+843
+00:33:18,530 --> 00:33:21,260
+I might not be
+in law school right now.
+
+844
+00:33:21,266 --> 00:33:24,266
+<i> [romantic music]</i>
+
+845
+00:33:24,269 --> 00:33:27,969
+♪ ♪
+
+846
+00:33:27,973 --> 00:33:30,643
+- No, I-I understand
+that a lot of them already--
+
+847
+00:33:33,278 --> 00:33:35,848
+Okay, well,
+if anyone wants to--
+
+848
+00:33:35,848 --> 00:33:39,418
+No, I see.
+I see.
+
+849
+00:33:39,418 --> 00:33:42,748
+Maybe next year.
+
+850
+00:33:42,755 --> 00:33:44,415
+Bye.
+
+851
+00:33:46,892 --> 00:33:48,262
+- Louis.
+
+852
+00:33:48,260 --> 00:33:49,930
+I need to talk to you
+for a second.
+
+853
+00:33:49,928 --> 00:33:51,228
+- What now?
+
+854
+00:33:51,230 --> 00:33:52,730
+- Jack Soloff wants to know
+
+855
+00:33:52,731 --> 00:33:56,031
+if we'll someday consider
+making him name partner.
+
+856
+00:33:56,035 --> 00:33:57,965
+- Why the hell
+would we do that?
+
+857
+00:33:57,970 --> 00:34:00,500
+- Because I sent him
+to poach a department
+
+858
+00:34:00,506 --> 00:34:02,036
+and instead
+they offered him a job.
+
+859
+00:34:02,041 --> 00:34:03,041
+- I get it.
+
+860
+00:34:03,042 --> 00:34:05,142
+Nobody wants to come here,
+so your answer
+
+861
+00:34:05,144 --> 00:34:06,544
+is to give our in-house enemy
+
+862
+00:34:06,545 --> 00:34:08,545
+the promotion
+he's always wanted.
+
+863
+00:34:08,547 --> 00:34:10,807
+- Louis, you're the one
+who wanted me to do it before.
+
+864
+00:34:10,816 --> 00:34:12,346
+- And you talked me out of it.
+
+865
+00:34:12,351 --> 00:34:13,781
+Because you were right.
+
+866
+00:34:13,786 --> 00:34:15,616
+Just like you used to be right
+about everything.
+
+867
+00:34:15,621 --> 00:34:17,321
+But now it seems like you're
+wrong about everything.
+
+868
+00:34:17,322 --> 00:34:18,892
+- What the hell
+is that supposed to mean?
+
+869
+00:34:18,891 --> 00:34:20,591
+- I just heard back from
+the last of those 20 schools.
+
+870
+00:34:20,592 --> 00:34:22,392
+And it turns out they have
+a lot more in common
+
+871
+00:34:22,394 --> 00:34:24,334
+with Harvard that we thought,
+because none of them
+
+872
+00:34:24,329 --> 00:34:25,559
+wants to do anything
+to do with us
+
+873
+00:34:25,564 --> 00:34:28,034
+because our leadership sucks.
+
+874
+00:34:28,033 --> 00:34:29,933
+- You watch yourself, Louis.
+
+875
+00:34:29,935 --> 00:34:31,225
+- I don't need to watch myself.
+
+876
+00:34:31,236 --> 00:34:33,896
+I need to light a fire
+under your ass.
+
+877
+00:34:33,906 --> 00:34:35,906
+Because our future
+is slipping away,
+
+878
+00:34:35,908 --> 00:34:37,568
+and offering Jack
+name partner
+
+879
+00:34:37,576 --> 00:34:39,506
+or praying to God
+that Harvey
+
+880
+00:34:39,511 --> 00:34:40,881
+just gets Mike off the hook
+
+881
+00:34:40,879 --> 00:34:42,779
+isn't going to stop it
+from happening.
+
+882
+00:34:42,781 --> 00:34:44,781
+- Okay, Louis.
+
+883
+00:34:44,783 --> 00:34:48,653
+You want to do something
+more than pray,
+
+884
+00:34:48,654 --> 00:34:52,324
+Harvey gets Mike acquitted,
+
+885
+00:34:52,324 --> 00:34:55,694
+then you get your ass back up
+to Harvard
+
+886
+00:34:55,694 --> 00:35:00,804
+and you make sure Sheila
+doesn't show up to that trial.
+
+887
+00:35:00,799 --> 00:35:04,329
+<i> [dramatic music]</i>
+
+888
+00:35:10,209 --> 00:35:12,839
+- Hi, Donna.
+
+889
+00:35:12,845 --> 00:35:14,305
+Is there, um...
+
+890
+00:35:14,313 --> 00:35:16,283
+is there something
+I can help you with?
+
+891
+00:35:16,281 --> 00:35:18,081
+- I just wanted to say
+that I'm sorry
+
+892
+00:35:18,083 --> 00:35:19,823
+about what happened
+with the dean.
+
+893
+00:35:19,818 --> 00:35:22,188
+And I'm glad
+that Mike took care of it.
+
+894
+00:35:24,123 --> 00:35:26,493
+- Thank you.
+
+895
+00:35:30,062 --> 00:35:33,402
+I'm sorry that...
+
+896
+00:35:33,398 --> 00:35:35,328
+that I didn't come to you
+with this whole thing,
+
+897
+00:35:35,334 --> 00:35:36,534
+but I-I...
+
+898
+00:35:36,535 --> 00:35:38,335
+- They were pressuring you
+to turn on Harvey
+
+899
+00:35:38,337 --> 00:35:39,867
+and based
+on our last conversation,
+
+900
+00:35:39,872 --> 00:35:41,812
+you didn't think I was the right
+person to talk to about that.
+
+901
+00:35:41,807 --> 00:35:43,307
+- As usual, you're right.
+
+902
+00:35:43,308 --> 00:35:48,248
+- Rachel, I got upset
+because I didn't want to think
+
+903
+00:35:48,247 --> 00:35:49,607
+about what I do
+if I have to choose
+
+904
+00:35:49,615 --> 00:35:51,105
+between my dad and Harvey.
+
+905
+00:35:51,116 --> 00:35:53,216
+Because this whole
+situation sucks.
+
+906
+00:35:53,218 --> 00:35:56,348
+And we may have to make
+hard choices,
+
+907
+00:35:56,355 --> 00:35:59,315
+and I want you to know
+that no matter what you do,
+
+908
+00:35:59,324 --> 00:36:01,264
+you're my friend.
+
+909
+00:36:01,260 --> 00:36:05,230
+And I will always love you.
+
+910
+00:36:05,230 --> 00:36:08,300
+- I will always love you too.
+
+911
+00:36:14,673 --> 00:36:15,843
+- Thank you for coming.
+
+912
+00:36:15,841 --> 00:36:18,041
+- I only came here
+because I don't want you
+
+913
+00:36:18,043 --> 00:36:20,183
+or Mike Ross or anyone else
+from this firm
+
+914
+00:36:20,179 --> 00:36:22,149
+showing up at my firm
+ever again.
+
+915
+00:36:22,147 --> 00:36:24,777
+So what can I do for you?
+
+916
+00:36:24,783 --> 00:36:26,953
+- [sighs] I was thinking
+about what you said
+
+917
+00:36:26,952 --> 00:36:28,592
+about me not admitting
+things to myself
+
+918
+00:36:28,587 --> 00:36:29,817
+and I wanted to
+talk to you about it.
+
+919
+00:36:29,821 --> 00:36:31,661
+Why?
+
+920
+00:36:31,657 --> 00:36:32,987
+- I wanted you to know
+the truth.
+
+921
+00:36:32,991 --> 00:36:34,621
+- And what exactly
+is the truth?
+
+922
+00:36:34,626 --> 00:36:36,326
+- Our relationship didn't
+end because of Mike.
+
+923
+00:36:36,328 --> 00:36:38,598
+It ended because I wasn't
+ready to confront
+
+924
+00:36:38,597 --> 00:36:41,457
+what was wrong with me,
+and I don't know
+
+925
+00:36:41,466 --> 00:36:43,296
+if I'll ever be ready,
+but...
+
+926
+00:36:43,302 --> 00:36:45,742
+I've been seeing someone, and
+I wanted to tell you about it.
+
+927
+00:36:45,737 --> 00:36:48,137
+- And why does it matter
+that I know that?
+
+928
+00:36:48,140 --> 00:36:50,870
+- Because if I ever get out
+of this in one piece,
+
+929
+00:36:50,876 --> 00:36:54,776
+I want to know if is okay
+to call you again.
+
+930
+00:36:54,780 --> 00:36:58,380
+- Harvey, it's always okay
+to call me.
+
+931
+00:36:58,383 --> 00:37:01,223
+I've actually been going
+to therapy myself,
+
+932
+00:37:01,220 --> 00:37:04,150
+and I don't know
+where I'll be
+
+933
+00:37:04,156 --> 00:37:08,426
+when this whole thing
+is over.
+
+934
+00:37:08,427 --> 00:37:12,297
+But I do hope that you get out
+of this thing in one piece.
+
+935
+00:37:12,297 --> 00:37:15,297
+<i> [pop music]</i>
+
+936
+00:37:15,300 --> 00:37:23,370
+<i> ♪ ♪</i>
+
+937
+00:37:26,979 --> 00:37:29,209
+- Excuse me.
+
+938
+00:37:29,214 --> 00:37:31,254
+Hi, excuse me. I, uh--
+
+939
+00:37:31,250 --> 00:37:32,580
+I'm not sure if you know
+who I am--
+
+940
+00:37:32,584 --> 00:37:34,724
+- I worked here
+for two months, Rachel.
+
+941
+00:37:34,720 --> 00:37:35,990
+I know who you are.
+
+942
+00:37:35,988 --> 00:37:38,258
+- I just--I wanted to say
+that I know
+
+943
+00:37:38,257 --> 00:37:41,057
+that you got caught
+in the crossfire.
+
+944
+00:37:41,059 --> 00:37:43,659
+And I know how that feels.
+
+945
+00:37:43,662 --> 00:37:45,832
+And I just wanted to say
+I'm sorry.
+
+946
+00:37:45,831 --> 00:37:49,301
+- Thank you.
+- You're welcome.
+
+947
+00:37:52,704 --> 00:37:55,214
+Rachel.
+
+948
+00:37:55,207 --> 00:38:00,577
+Have you thought about what may
+happen when this is all over?
+
+949
+00:38:00,579 --> 00:38:03,779
+- You mean if Mike
+goes to jail.
+
+950
+00:38:06,018 --> 00:38:08,078
+- I mean even if he doesn't.
+
+951
+00:38:08,086 --> 00:38:09,386
+- What are you talking about?
+
+952
+00:38:09,388 --> 00:38:11,688
+- Even if he is acquitted,
+there is an excellent chance
+
+953
+00:38:11,690 --> 00:38:12,890
+he will be thrown
+out of the bar
+
+954
+00:38:12,891 --> 00:38:14,461
+and never be able
+to practice law again.
+
+955
+00:38:14,459 --> 00:38:15,889
+- It wouldn't matter,
+because Mike is prepared
+
+956
+00:38:15,894 --> 00:38:17,564
+to never practice
+law again anyway.
+
+957
+00:38:17,562 --> 00:38:19,532
+- And sometimes people think
+they're prepared
+
+958
+00:38:19,531 --> 00:38:21,971
+and they're not.
+
+959
+00:38:21,967 --> 00:38:23,427
+- I don't understand.
+
+960
+00:38:23,435 --> 00:38:26,065
+- Rachel, Mike is going to
+have to watch you do
+
+961
+00:38:26,071 --> 00:38:29,971
+what he dreams of doing, and
+if he's anything like Harvey,
+
+962
+00:38:29,975 --> 00:38:31,905
+he probably thinks he can do it
+better than you.
+
+963
+00:38:31,910 --> 00:38:33,410
+And there is a possibility
+
+964
+00:38:33,412 --> 00:38:35,452
+that he might resent you
+for it.
+
+965
+00:38:35,447 --> 00:38:39,217
+- I appreciate the advise.
+
+966
+00:38:39,217 --> 00:38:40,947
+But Mike is not like that.
+
+967
+00:38:40,952 --> 00:38:43,192
+[elevator doors open]
+
+968
+00:38:43,188 --> 00:38:45,558
+- Then I'm sorry
+I overstepped my bounds.
+
+969
+00:38:45,557 --> 00:38:49,557
+<i> [soft music]</i>
+
+970
+00:38:54,066 --> 00:38:55,526
+- Louis.
+
+971
+00:38:55,534 --> 00:38:58,004
+What are you doing here?
+
+972
+00:38:58,003 --> 00:38:59,873
+We've been over this.
+
+973
+00:38:59,871 --> 00:39:01,001
+There's nothing I can do--
+
+974
+00:39:01,006 --> 00:39:02,306
+- I'm not here
+about the associates.
+
+975
+00:39:02,307 --> 00:39:03,837
+I need you to take this.
+
+976
+00:39:03,842 --> 00:39:05,642
+- What's that?
+- It's a ticket to Argentina.
+
+977
+00:39:05,644 --> 00:39:07,014
+I need you to go there
+until the trial is over.
+
+978
+00:39:07,012 --> 00:39:08,852
+- And why would I do that?
+
+979
+00:39:08,847 --> 00:39:10,947
+- Because the prosecution has
+no power to subpoena you there.
+
+980
+00:39:10,949 --> 00:39:13,079
+- Let me get this straight.
+You want me to flee the country,
+
+981
+00:39:13,085 --> 00:39:14,975
+so you can protect yourself.
+
+982
+00:39:14,986 --> 00:39:18,686
+- I want you to flee the country
+so you can protect yourself.
+
+983
+00:39:18,690 --> 00:39:20,390
+- Louis--
+- Sheila, you take that stand,
+
+984
+00:39:20,392 --> 00:39:22,262
+and you're gonna say things
+that hurt us,
+
+985
+00:39:22,260 --> 00:39:24,390
+which means Harvey is going
+to say things that hurt you
+
+986
+00:39:24,396 --> 00:39:25,756
+and I will not be able
+to handle that.
+
+987
+00:39:25,764 --> 00:39:28,434
+- The truth isn't gonna
+hurt me, Louis.
+
+988
+00:39:28,433 --> 00:39:32,373
+- Isn't it true, Ms. Sazs,
+that while you claim
+
+989
+00:39:32,371 --> 00:39:35,071
+no one had unauthorized access
+to the Harvard file room,
+
+990
+00:39:35,073 --> 00:39:37,213
+there were times you were
+derelict in your duties?
+
+991
+00:39:37,209 --> 00:39:39,279
+- I've never been
+derelict in my life.
+
+992
+00:39:39,277 --> 00:39:40,877
+- Then how does that explain
+the fact that there's a man
+
+993
+00:39:40,879 --> 00:39:42,779
+in this courtroom
+that had unauthorized access
+
+994
+00:39:42,781 --> 00:39:43,881
+to that very room?
+
+995
+00:39:43,882 --> 00:39:45,252
+- Louis, please.
+- Was it because you had
+
+996
+00:39:45,250 --> 00:39:46,350
+a relationship with that man?
+
+997
+00:39:46,351 --> 00:39:48,021
+A relationship
+that ultimately failed?
+
+998
+00:39:48,019 --> 00:39:49,189
+- That's not--
+- Relevant?
+
+999
+00:39:49,187 --> 00:39:50,717
+It's more
+than goddamn relevant!
+
+1000
+00:39:50,722 --> 00:39:52,722
+Because when he broke up
+with you,
+
+1001
+00:39:52,724 --> 00:39:55,394
+you started this vicious rumor
+to get back at him.
+
+1002
+00:39:55,394 --> 00:39:57,294
+- That's a lie.
+Those are all lies.
+
+1003
+00:39:57,295 --> 00:39:59,125
+- It is a lie that you had sex
+with that man,
+
+1004
+00:39:59,131 --> 00:40:01,031
+and left him alone
+in the supposedly
+
+1005
+00:40:01,032 --> 00:40:02,502
+impenetrable Harvard
+file room?
+
+1006
+00:40:02,501 --> 00:40:04,031
+- Louis, this could
+cost me my job.
+
+1007
+00:40:04,035 --> 00:40:06,695
+- Goddamn it!
+Harvey is not gonna care.
+
+1008
+00:40:08,874 --> 00:40:11,174
+- No.
+
+1009
+00:40:11,176 --> 00:40:12,476
+It's not a lie.
+
+1010
+00:40:12,477 --> 00:40:14,737
+- And if you did that
+with him...
+
+1011
+00:40:16,782 --> 00:40:19,282
+why should we believe
+
+1012
+00:40:19,284 --> 00:40:21,824
+you didn't do that with others?
+
+1013
+00:40:21,820 --> 00:40:24,590
+<i> [sad music]</i>
+
+1014
+00:40:24,589 --> 00:40:26,219
+[sobbing] I'm sorry.
+
+1015
+00:40:26,224 --> 00:40:29,234
+Sheila, I'm only trying
+to protect you.
+
+1016
+00:40:29,227 --> 00:40:31,187
+- If you really wanted
+to protect me,
+
+1017
+00:40:31,196 --> 00:40:33,456
+you wouldn't tell Harvey
+those things in the first place.
+
+1018
+00:40:33,465 --> 00:40:35,125
+- He's gonna want me
+to tell him.
+
+1019
+00:40:35,133 --> 00:40:36,933
+Anything I know
+that would help.
+
+1020
+00:40:36,935 --> 00:40:40,065
+You asked me
+to not make you lie.
+
+1021
+00:40:40,071 --> 00:40:42,471
+Please, don't ask me
+to lie to him.
+
+1022
+00:40:42,474 --> 00:40:44,714
+- Okay, Louis.
+
+1023
+00:40:47,145 --> 00:40:49,475
+I'll go.
+
+1024
+00:40:49,481 --> 00:40:57,551
+<i> ♪ ♪</i>
+
+1025
+00:40:58,790 --> 00:41:00,160
+- What are you
+still doing here?
+
+1026
+00:41:00,158 --> 00:41:01,958
+- We've still got a trial
+coming up.
+
+1027
+00:41:01,960 --> 00:41:03,890
+I'm gonna make any headway
+on my defense,
+
+1028
+00:41:03,895 --> 00:41:04,955
+I need to get going.
+
+1029
+00:41:04,963 --> 00:41:06,963
+-<i> Your</i> defense?
+
+1030
+00:41:06,965 --> 00:41:08,565
+- Yes.
+
+1031
+00:41:08,567 --> 00:41:09,697
+My defense.
+
+1032
+00:41:09,701 --> 00:41:11,101
+- Are you saying
+what I think you're saying?
+
+1033
+00:41:11,102 --> 00:41:12,902
+Because there's an expression
+about that.
+
+1034
+00:41:12,904 --> 00:41:14,744
+It says, "if you're
+thinking it, you're a fool."
+
+1035
+00:41:14,739 --> 00:41:16,009
+- You heard her.
+She said,
+
+1036
+00:41:16,007 --> 00:41:17,707
+"the fact is that I'm not
+a goddamn lawyer."
+
+1037
+00:41:17,709 --> 00:41:19,209
+Well, the only way to change
+that fact is for a jury
+
+1038
+00:41:19,211 --> 00:41:21,081
+to see me being
+a goddamn lawyer.
+
+1039
+00:41:21,079 --> 00:41:22,509
+- You try that,
+all they're gonna see
+
+1040
+00:41:22,514 --> 00:41:23,684
+is someone going to prison.
+
+1041
+00:41:23,682 --> 00:41:25,322
+- That's bullshit.
+I can handle her.
+
+1042
+00:41:25,317 --> 00:41:26,517
+- You've never
+even gone through
+
+1043
+00:41:26,518 --> 00:41:28,248
+a criminal trial before.
+
+1044
+00:41:28,253 --> 00:41:29,723
+- Oh, yeah, and when was
+the last time you did?
+
+1045
+00:41:29,721 --> 00:41:31,221
+How many years ago was it?
+
+1046
+00:41:31,223 --> 00:41:32,863
+- I don't believe it.
+You think you're better than me?
+
+1047
+00:41:32,858 --> 00:41:34,118
+- This isn't about
+who's better.
+
+1048
+00:41:34,125 --> 00:41:36,555
+It's about who's better
+for this case.
+
+1049
+00:41:36,561 --> 00:41:37,961
+And my life is on the line.
+
+1050
+00:41:37,963 --> 00:41:40,233
+If I go down because
+of my call, I can take it.
+
+1051
+00:41:40,232 --> 00:41:42,102
+If I go down
+because of yours, I can't.
+
+1052
+00:41:42,100 --> 00:41:44,730
+- This isn't just your life.
+This is all of ours.
+
+1053
+00:41:44,736 --> 00:41:45,796
+- Well, like I said,
+
+1054
+00:41:45,804 --> 00:41:47,444
+it's my call
+and I'm making it.
+
+1055
+00:41:47,439 --> 00:41:48,809
+- I'm sorry to interrupt.
+
+1056
+00:41:48,807 --> 00:41:50,237
+- This isn't over.
+
+1057
+00:41:50,242 --> 00:41:51,842
+- I just finished going
+through discovery
+
+1058
+00:41:51,843 --> 00:41:52,843
+and we have a problem.
+
+1059
+00:41:52,844 --> 00:41:53,914
+- What is it?
+
+1060
+00:41:53,912 --> 00:41:55,112
+<i> [suspenseful music]</i>
+
+1061
+00:41:55,113 --> 00:41:57,053
+- They found Trevor.
+
+1062
+00:41:57,048 --> 00:42:00,118
+<i> ♪ ♪</i>
+

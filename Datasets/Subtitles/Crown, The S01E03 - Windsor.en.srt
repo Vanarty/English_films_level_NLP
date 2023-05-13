@@ -1,0 +1,2838 @@
+﻿1
+00:00:11,960 --> 00:00:16,400
+<i> Gina! Gina! Ella!</i>
+
+2
+00:00:16,480 --> 00:00:19,680
+-Gina! Carina! Ella!
+-Gina! Carina! Ella!
+
+3
+00:00:21,480 --> 00:00:23,480
+Gina! Carina!
+
+4
+00:00:29,840 --> 00:00:32,640
+Gina! Carina!
+
+5
+00:00:32,720 --> 00:00:35,640
+Ella! Ella!
+
+6
+00:00:59,480 --> 00:01:01,520
+<i> Hello, Winston, this is Operations.</i>
+
+7
+00:01:01,600 --> 00:01:03,960
+<i>-Are you hearing me?</i>
+-Hear you clearly.
+
+8
+00:01:04,040 --> 00:01:05,600
+<i>Stand by for testing.</i>
+
+9
+00:01:06,440 --> 00:01:09,120
+-Testing now.
+<i>-Testing five, four, three, two, one.</i>
+
+10
+00:01:22,720 --> 00:01:23,760
+Mummy.
+
+11
+00:01:24,560 --> 00:01:27,960
+I've come to make a final representation.
+
+12
+00:01:28,040 --> 00:01:30,880
+And to beseech you not to do this.
+
+13
+00:01:30,960 --> 00:01:33,960
+I wish to address my people.
+It's my right.
+
+14
+00:01:34,040 --> 00:01:36,880
+You have forfeited that right.
+
+15
+00:01:36,960 --> 00:01:38,480
+There are things I wish to say.
+
+16
+00:01:38,560 --> 00:01:41,720
+In which capacity?
+You're no longer their king.
+
+17
+00:01:41,800 --> 00:01:43,160
+As a private individual.
+
+18
+00:01:43,240 --> 00:01:45,800
+Oh, no one wants to hear
+from a private individual.
+
+19
+00:01:45,880 --> 00:01:48,440
+Well, I beg to differ.
+The newspapers are for me.
+
+20
+00:01:48,520 --> 00:01:51,600
+The best thing for everyone
+would be if you said your goodbyes
+
+21
+00:01:51,680 --> 00:01:55,800
+quietly, privately,
+and disappeared into the night.
+
+22
+00:01:55,880 --> 00:01:57,680
+Preferably never to return.
+
+23
+00:01:59,840 --> 00:02:02,440
+-I didn't say that.
+-But you thought it.
+
+24
+00:02:04,360 --> 00:02:05,480
+Admit it.
+
+25
+00:02:13,800 --> 00:02:18,840
+Elizabeth! Margaret! Come inside!
+
+26
+00:02:18,920 --> 00:02:21,080
+<i> This is Windsor Castle.</i>
+
+27
+00:02:21,160 --> 00:02:25,280
+<i>There follows an important announcement</i>
+<i>from his Royal Highness,</i>
+
+28
+00:02:25,360 --> 00:02:26,640
+<i>the Duke of Windsor.</i>
+
+29
+00:02:26,720 --> 00:02:31,600
+A few hours ago, I discharged my last duty
+
+30
+00:02:31,680 --> 00:02:34,920
+as King and Emperor.
+
+31
+00:02:37,080 --> 00:02:39,960
+And, now that I have been succeeded
+by my brother,
+
+32
+00:02:41,040 --> 00:02:42,680
+the Duke of York,
+
+33
+00:02:43,960 --> 00:02:48,200
+my first words must be to declare
+my allegiance to him.
+
+34
+00:02:50,640 --> 00:02:52,640
+This I do with all my heart.
+
+35
+00:02:53,600 --> 00:02:55,120
+Come along, girls.
+
+36
+00:02:55,200 --> 00:02:59,640
+<i>You all know the reasons which have</i>
+<i>impelled me to renounce the throne.</i>
+
+37
+00:02:59,720 --> 00:03:02,000
+<i>-I have found it impossible to carry...</i>
+-Girls. Girls!
+
+38
+00:03:02,080 --> 00:03:07,760
+<i>...the heavy burden of responsibility,</i>
+<i>and to discharge my duties as King,</i>
+
+39
+00:03:07,840 --> 00:03:11,720
+as I would wish to do,
+
+40
+00:03:11,800 --> 00:03:17,280
+without the help and support
+of the woman I love.
+
+41
+00:03:17,360 --> 00:03:21,120
+<i>This decision has been made less difficult</i>
+<i>to me by the sure knowledge</i>
+
+42
+00:03:21,200 --> 00:03:25,080
+<i>that my brother</i>
+<i>has one matchless blessing...</i>
+
+43
+00:03:25,160 --> 00:03:28,920
+-Come in. Both of you.
+<i>-...enjoyed by so many of you,</i>
+
+44
+00:03:29,000 --> 00:03:31,000
+<i>and not bestowed on me.</i>
+
+45
+00:03:32,200 --> 00:03:36,400
+<i>A happy home, with his wife and children.</i>
+
+46
+00:03:38,120 --> 00:03:40,000
+<i>And now we all have a new king.</i>
+
+47
+00:03:41,880 --> 00:03:48,160
+<i>I wish him, and you, his people,</i>
+<i>happiness and prosperity...</i>
+
+48
+00:03:50,720 --> 00:03:52,360
+<i>with all my heart.</i>
+
+49
+00:03:53,520 --> 00:03:55,120
+<i>God bless you all.</i>
+
+50
+00:03:56,400 --> 00:03:58,760
+<i>God save the King.</i>
+
+51
+00:06:10,680 --> 00:06:12,640
+All right, Charles, all right. Stop it.
+
+52
+00:06:17,080 --> 00:06:20,040
+Well... good luck, darling.
+
+53
+00:06:21,080 --> 00:06:22,240
+Thank you.
+
+54
+00:06:24,600 --> 00:06:27,920
+And thank you for all this.
+It looks splendid.
+
+55
+00:06:29,120 --> 00:06:31,760
+This is the first proper home
+I've ever had.
+
+56
+00:07:47,880 --> 00:07:49,640
+-Tommy.
+-Good morning, Your Majesty.
+
+57
+00:07:49,720 --> 00:07:51,880
+-You tracked me down.
+-Slightly, ma'am.
+
+58
+00:07:51,960 --> 00:07:53,600
+If Your Majesty has no objection,
+
+59
+00:07:53,680 --> 00:07:55,600
+I thought we might attend
+to the Cabinet papers
+
+60
+00:07:55,680 --> 00:07:59,720
+after your meeting with Their Majesties.
+Your schedule allows for 20 minutes.
+
+61
+00:07:59,800 --> 00:08:01,400
+-For the papers?
+-No, ma'am,
+
+62
+00:08:01,480 --> 00:08:04,960
+20 minutes with Their Majesties,
+then directly on to the paperwork.
+
+63
+00:08:05,040 --> 00:08:06,400
+And then?
+
+64
+00:08:07,960 --> 00:08:10,920
+Things will become more manageable
+once everything settles down.
+
+65
+00:08:11,000 --> 00:08:11,840
+Will it?
+
+66
+00:08:11,920 --> 00:08:15,200
+And once the Palace
+is your main residence.
+
+67
+00:08:17,240 --> 00:08:21,160
+Our understanding is that he is
+arriving at Southampton as we speak.
+
+68
+00:08:21,240 --> 00:08:23,360
+- Alone?
+- We believe so, ma'am.
+
+69
+00:08:23,440 --> 00:08:25,480
+Hm. That's something.
+
+70
+00:08:30,440 --> 00:08:33,800
+Some last minute adjustments
+to the funeral arrangements.
+
+71
+00:08:33,880 --> 00:08:37,360
+If you are in agreement, ma'am,
+we thought that the Duke of Windsor
+
+72
+00:08:37,440 --> 00:08:40,480
+should join the Dukes of Gloucester,
+Kent and Edinburgh.
+
+73
+00:08:40,560 --> 00:08:44,240
+But that'd be the row behind me.
+Breathing down my neck.
+
+74
+00:08:44,320 --> 00:08:46,880
+We could, if Her Majesty likes,
+increase the distance,
+
+75
+00:08:46,960 --> 00:08:48,480
+put him back a few rows.
+
+76
+00:08:48,560 --> 00:08:52,120
+Any chance that could stretch
+to being on the steps outside the chapel?
+
+77
+00:08:52,200 --> 00:08:54,600
+I'm sorry, I know he's your son.
+
+78
+00:08:54,680 --> 00:08:58,720
+A son who gave up the throne
+and, effectively, killed my other son.
+
+79
+00:09:08,000 --> 00:09:11,000
+Why not put him there?
+Close to the Prime Minister?
+
+80
+00:09:12,000 --> 00:09:14,000
+-Thank you, ma'am.
+-Cry Baby.
+
+81
+00:09:15,040 --> 00:09:17,080
+-What?
+-It's what he calls Winston.
+
+82
+00:09:18,520 --> 00:09:21,560
+He and his wife have
+nasty little nicknames for all of us.
+
+83
+00:09:23,000 --> 00:09:25,400
+I'll tell you yours, if you ask me nicely.
+
+84
+00:09:25,480 --> 00:09:27,040
+No, thank you.
+
+85
+00:09:28,960 --> 00:09:30,880
+Shirley Temple.
+
+86
+00:09:52,400 --> 00:09:53,400
+Ready, sir.
+
+87
+00:10:05,040 --> 00:10:09,040
+<i> This is indeed</i>
+<i>a sad arrival in my country.</i>
+
+88
+00:10:10,200 --> 00:10:16,000
+<i>I have crossed the Atlantic</i>
+<i>for the funeral of a dear brother,</i>
+
+89
+00:10:16,080 --> 00:10:19,400
+<i>and to comfort Her Majesty, Queen Mary.</i>
+
+90
+00:10:20,320 --> 00:10:24,480
+My heart goes out
+to the widowed Queen Mother
+
+91
+00:10:24,560 --> 00:10:27,960
+and her two daughters in their grief.
+
+92
+00:10:29,440 --> 00:10:30,640
+Thank you.
+
+93
+00:10:53,000 --> 00:10:55,840
+-Down there, look!
+-Right, that's enough. Look sharp!
+
+94
+00:11:31,440 --> 00:11:34,000
+His Royal Highness,
+the Duke of Windsor, Your Majesty.
+
+95
+00:11:51,760 --> 00:11:53,280
+Dear Mama.
+
+96
+00:12:13,560 --> 00:12:14,640
+Poor Bertie.
+
+97
+00:12:16,360 --> 00:12:17,440
+So young.
+
+98
+00:12:19,680 --> 00:12:23,280
+One can only be thankful
+for all the years one had him.
+
+99
+00:12:25,680 --> 00:12:29,240
+So wonderfully thoughtful and caring.
+
+100
+00:12:29,320 --> 00:12:32,880
+An angel to his mother, wife and children.
+
+101
+00:12:34,480 --> 00:12:38,160
+I honestly believe
+he never thought of himself at all.
+
+102
+00:12:39,960 --> 00:12:43,400
+He really was the perfect son.
+
+103
+00:12:46,760 --> 00:12:49,400
+I can't imagine how difficult
+it must be for you.
+
+104
+00:12:51,280 --> 00:12:54,040
+You've been very much
+in our thoughts and prayers.
+
+105
+00:12:54,120 --> 00:12:55,320
+Ours?
+
+106
+00:12:56,240 --> 00:12:59,240
+You'd be wise not to mention
+that woman's name for the next few days.
+
+107
+00:12:59,320 --> 00:13:02,080
+-I mentioned no name.
+-The implication was enough.
+
+108
+00:13:02,160 --> 00:13:03,680
+If you say so.
+
+109
+00:13:03,760 --> 00:13:07,160
+I offer that in the spirit
+of maternal advice
+
+110
+00:13:07,240 --> 00:13:11,720
+that you may emerge from this trip with
+any remaining respect or affection at all.
+
+111
+00:13:24,560 --> 00:13:27,480
+I had hoped all this might wait.
+
+112
+00:13:27,560 --> 00:13:29,960
+I'm afraid not, ma'am.
+
+113
+00:13:33,720 --> 00:13:35,040
+I understand.
+
+114
+00:13:36,600 --> 00:13:37,800
+Shall we?
+
+115
+00:13:53,880 --> 00:13:59,560
+Now, the top sheet is simply a summary
+of all the contents of the box.
+
+116
+00:13:59,640 --> 00:14:03,840
+And we have in this case,
+a five power conference first. See...
+
+117
+00:14:03,920 --> 00:14:05,800
+-That's this one?
+-Yes.
+
+118
+00:14:05,880 --> 00:14:08,440
+-So this...
+-More detail.
+
+119
+00:14:08,520 --> 00:14:10,960
+-So, we start with this.
+-Yes, Your Majesty.
+
+120
+00:14:28,720 --> 00:14:31,560
+- He's here.
+- He's here!
+
+121
+00:14:33,840 --> 00:14:38,600
+Don't rush, darling. It'll take him
+an hour to get to the front door.
+
+122
+00:14:38,680 --> 00:14:40,720
+And then an hour to get through
+the bloody thing!
+
+123
+00:14:44,720 --> 00:14:47,200
+Now, don't forget
+the two things we discussed.
+
+124
+00:14:47,280 --> 00:14:49,240
+-I won't.
+-The children keeping my surname.
+
+125
+00:14:49,320 --> 00:14:51,320
+-Yes.
+-And us staying here in Clarence House,
+
+126
+00:14:51,400 --> 00:14:53,840
+not moving to Buckingham Palace.
+Both very important.
+
+127
+00:14:53,920 --> 00:14:55,000
+I know. I won't forget.
+
+128
+00:14:55,080 --> 00:14:56,920
+-And don't be nervous.
+-I'm not nervous.
+
+129
+00:14:57,000 --> 00:14:58,040
+You look nervous.
+
+130
+00:14:59,160 --> 00:15:00,600
+Be firm. Just lay down the law.
+
+131
+00:15:00,680 --> 00:15:03,400
+I know he's Winston Churchill
+and all that, but remember who you are.
+
+132
+00:15:03,480 --> 00:15:04,360
+-You're--
+-Nobody.
+
+133
+00:15:04,440 --> 00:15:05,800
+The Queen of England.
+
+134
+00:15:21,480 --> 00:15:23,880
+Don't let me overrun.
+
+135
+00:15:23,960 --> 00:15:25,640
+The Prime Minister, Your Majesty.
+
+136
+00:15:44,800 --> 00:15:46,000
+Your Majesty.
+
+137
+00:15:50,800 --> 00:15:55,000
+I so looked forward every Tuesday
+to my audiences with your...
+
+138
+00:15:56,720 --> 00:15:57,840
+dear papa.
+
+139
+00:15:59,720 --> 00:16:02,840
+His late Majesty was a hero
+
+140
+00:16:04,680 --> 00:16:06,600
+to me and to all his people.
+
+141
+00:16:07,200 --> 00:16:08,240
+Thank you.
+
+142
+00:16:11,840 --> 00:16:14,120
+Do sit down, Prime Minister.
+
+143
+00:16:15,160 --> 00:16:19,360
+I've ordered tea.
+Or something stronger, perhaps.
+
+144
+00:16:19,440 --> 00:16:21,800
+Oh, dear. Did no one explain?
+
+145
+00:16:21,880 --> 00:16:28,800
+The Sovereign never offers
+a Prime Minister refreshment.
+
+146
+00:16:28,880 --> 00:16:30,760
+Nor a chair.
+
+147
+00:16:30,840 --> 00:16:33,520
+The precedent set
+by your great-great-grandmother
+
+148
+00:16:33,600 --> 00:16:37,920
+was to keep us standing
+like Privy Councillors.
+
+149
+00:16:38,000 --> 00:16:41,600
+To waste time is a grievous sin.
+
+150
+00:16:41,680 --> 00:16:44,720
+And, if there is one thing I have learned
+in 52 years of public service,
+
+151
+00:16:44,800 --> 00:16:50,600
+it is that there is no problem so complex,
+nor crisis so grave,
+
+152
+00:16:50,680 --> 00:16:56,680
+that it cannot be satisfactorily resolved
+within 20 minutes. So...
+
+153
+00:16:58,400 --> 00:17:00,160
+shall we make a start?
+
+154
+00:17:02,160 --> 00:17:03,760
+<i> She's in with the PM now.</i>
+
+155
+00:17:04,400 --> 00:17:06,880
+And I made it abundantly clear
+how important it was
+
+156
+00:17:06,960 --> 00:17:09,600
+that she and the children take your name.
+
+157
+00:17:09,680 --> 00:17:13,640
+<i> It's your name too.</i>
+<i>It's the name I gave you.</i>
+
+158
+00:17:15,240 --> 00:17:20,280
+Having Mountbatten
+as the name of the Royal house,
+
+159
+00:17:20,360 --> 00:17:25,480
+having your first-born son, Charles,
+as the first Mountbatten king...
+
+160
+00:17:26,520 --> 00:17:29,200
+<i>Well, that would be some achievement,</i>
+<i>wouldn't it?</i>
+
+161
+00:17:30,240 --> 00:17:34,600
+Now, I would like to discuss
+your coronation.
+
+162
+00:17:34,680 --> 00:17:35,560
+Yes.
+
+163
+00:17:35,640 --> 00:17:39,440
+I have a proposed date which has been
+run past Cabinet and approved.
+
+164
+00:17:39,520 --> 00:17:44,600
+-Summer, I hope.
+-Indeed. Next year.
+
+165
+00:17:45,360 --> 00:17:47,720
+Next year? Why the delay?
+
+166
+00:17:49,320 --> 00:17:51,840
+For your benefit entirely.
+
+167
+00:17:51,920 --> 00:17:55,480
+A long period
+between accession and coronation
+
+168
+00:17:55,560 --> 00:17:57,960
+was of great value to your father.
+
+169
+00:17:58,040 --> 00:18:00,600
+He had five months.
+
+170
+00:18:00,680 --> 00:18:04,400
+You're proposing I have 16
+before I am crowned.
+
+171
+00:18:06,680 --> 00:18:07,720
+Yes.
+
+172
+00:18:11,160 --> 00:18:14,760
+That would take anyone
+weeks to read...
+
+173
+00:18:14,840 --> 00:18:18,960
+-Anyway, thanks for the drink.
+-Thank you, Jock.
+
+174
+00:18:19,040 --> 00:18:20,440
+-Sir.
+-Sir.
+
+175
+00:18:23,320 --> 00:18:26,200
+Foreign office first,
+let's surprise Anthony.
+
+176
+00:18:29,760 --> 00:18:31,480
+- And?
+- Nothing.
+
+177
+00:18:32,840 --> 00:18:35,840
+We discussed the end of rationing
+of sugar, butter and meat,
+
+178
+00:18:35,920 --> 00:18:39,360
+the situation in Korea,
+and the date of my coronation.
+
+179
+00:18:39,440 --> 00:18:40,560
+I barely got a word in.
+
+180
+00:18:40,640 --> 00:18:42,560
+Of course not,
+the man barely draws breath.
+
+181
+00:18:42,640 --> 00:18:44,920
+-You have to butt in.
+-You can't!
+
+182
+00:18:45,000 --> 00:18:46,880
+Not in the private audience.
+
+183
+00:18:46,960 --> 00:18:50,080
+So, what about the issues
+I asked you to address?
+
+184
+00:18:50,160 --> 00:18:52,480
+-I will find the right time.
+-When?
+
+185
+00:18:52,560 --> 00:18:54,360
+-Why would he do that?
+-What?
+
+186
+00:18:55,120 --> 00:18:56,960
+Why would he want to delay my coronation?
+
+187
+00:18:57,040 --> 00:19:00,560
+What are you talking about? What--
+Elizabeth!
+
+188
+00:19:28,120 --> 00:19:31,640
+I realize we've had our differences
+in the past.
+
+189
+00:19:32,680 --> 00:19:34,880
+If you'll allow me.
+
+190
+00:19:36,520 --> 00:19:41,520
+But, for now, let us think only
+of what we have in common.
+
+191
+00:19:43,040 --> 00:19:47,880
+You've lost a husband and father,
+
+192
+00:19:48,800 --> 00:19:50,400
+I a brother.
+
+193
+00:19:51,880 --> 00:19:58,880
+Let us be united in grief,
+on equal terms, for someone we all loved.
+
+194
+00:20:01,320 --> 00:20:04,760
+I'll be here for a few days
+after the funeral
+
+195
+00:20:04,840 --> 00:20:06,760
+before I return to New York.
+
+196
+00:20:07,960 --> 00:20:11,440
+Perhaps we might find time
+to see one another.
+
+197
+00:20:11,520 --> 00:20:13,760
+For lunch, or a walk.
+
+198
+00:20:16,880 --> 00:20:19,360
+Yes. I'd like that very much.
+
+199
+00:20:27,240 --> 00:20:28,760
+Your Majesties.
+
+200
+00:20:28,840 --> 00:20:32,120
+- We must go, girls.
+- So soon?
+
+201
+00:20:32,200 --> 00:20:34,440
+Yes, to Westminster Hall.
+
+202
+00:20:34,520 --> 00:20:36,040
+To see Papa.
+
+203
+00:20:49,720 --> 00:20:52,680
+With this family, when you're in,
+you're never quite sure that you're in.
+
+204
+00:20:52,760 --> 00:20:55,400
+But when you're out,
+there's no doubt at all.
+
+205
+00:20:55,480 --> 00:20:57,000
+You're out.
+
+206
+00:21:03,120 --> 00:21:05,400
+Why can't you just be civil to him, Mummy?
+
+207
+00:21:05,480 --> 00:21:08,240
+Let bygones be bygones.
+
+208
+00:21:08,320 --> 00:21:12,240
+Sixteen years since the abdication,
+and he was close to Papa.
+
+209
+00:21:12,320 --> 00:21:14,800
+Because the man is a monster!
+
+210
+00:21:14,880 --> 00:21:17,480
+The responsibility of becoming king
+killed your father
+
+211
+00:21:17,560 --> 00:21:22,520
+and I will never forgive his selfishness
+and weakness in passing on the burden.
+
+212
+00:21:25,800 --> 00:21:28,880
+He has done nothing for this family.
+
+213
+00:21:29,600 --> 00:21:32,120
+And don't be fooled by his obsequiousness.
+
+214
+00:21:33,600 --> 00:21:36,680
+The only reason he's even civil to us
+is because he wants to leech off us
+
+215
+00:21:36,760 --> 00:21:40,160
+with a rich allowance to keep
+that Jezebel divorcee of his in the manner
+
+216
+00:21:40,240 --> 00:21:41,720
+to which she's become accustomed.
+
+217
+00:21:41,800 --> 00:21:43,440
+Well, I've spoken to the lawyers
+
+218
+00:21:43,520 --> 00:21:46,320
+and we have a little surprise
+in store for them.
+
+219
+00:21:49,280 --> 00:21:51,160
+<i>My dear darling Peaches...</i>
+
+220
+00:21:52,560 --> 00:21:54,600
+<i>They say hell is an inferno.</i>
+
+221
+00:21:55,640 --> 00:21:59,560
+<i>What a sunless, frozen hell</i>
+<i>we both escaped in England.</i>
+
+222
+00:22:00,960 --> 00:22:05,320
+<i>And what a bunch of ice-veined monsters</i>
+<i>my family are.</i>
+
+223
+00:22:05,400 --> 00:22:07,480
+<i>How cold and thin-lipped,</i>
+
+224
+00:22:08,760 --> 00:22:11,000
+<i>how dumpy and plain.</i>
+
+225
+00:22:11,080 --> 00:22:13,480
+<i>How joyless and loveless.</i>
+
+226
+00:22:14,920 --> 00:22:19,400
+<i>The way Cookie treated me looking</i>
+<i>down at me through her dumpy nose,</i>
+
+227
+00:22:19,480 --> 00:22:23,880
+<i>it was as much as I could do</i>
+<i>not to let her have it with both barrels.</i>
+
+228
+00:22:23,960 --> 00:22:25,880
+<i>And Shirley Temple,</i>
+<i>who has the rank now</i>
+
+229
+00:22:25,960 --> 00:22:29,720
+<i>to silence her common mother,</i>
+<i>sadly, has no mind of her own.</i>
+
+230
+00:22:32,000 --> 00:22:36,160
+<i>But I remained civil</i>
+<i>because I am following your advice...</i>
+
+231
+00:22:38,040 --> 00:22:42,000
+<i>to keep them on side,</i>
+<i>keep a foot in the door...</i>
+
+232
+00:22:43,040 --> 00:22:46,200
+<i>and see what we can get out</i>
+<i>of the wretched circus.</i>
+
+233
+00:22:48,480 --> 00:22:53,640
+<i>Perhaps even a raise on the allowance,</i>
+<i>who knows?</i>
+
+234
+00:22:53,720 --> 00:22:58,880
+<i>It's the only revenge I can think of</i>
+<i>for the insult of your non-invitation,</i>
+
+235
+00:22:59,960 --> 00:23:02,520
+<i>to drain their coffers to our benefit.</i>
+
+236
+00:23:10,760 --> 00:23:12,360
+<i>Thinking always of you</i>
+
+237
+00:23:12,440 --> 00:23:17,040
+<i>and counting the minutes</i>
+<i>until I am back in your arms.</i>
+
+238
+00:23:17,120 --> 00:23:18,600
+<i>Your loving David.</i>
+
+239
+00:23:20,200 --> 00:23:23,480
+...and therefore commit his body
+to the ground.
+
+240
+00:23:24,480 --> 00:23:31,280
+Earth to earth,
+ashes to ashes, dust to dust.
+
+241
+00:23:32,400 --> 00:23:37,600
+In sure and certain hope
+of the resurrection to eternal life,
+
+242
+00:23:37,680 --> 00:23:40,880
+through our Lord Jesus Christ.
+
+243
+00:24:14,680 --> 00:24:18,800
+-What is that thing?
+-Oh, I inherited it from my grandfather.
+
+244
+00:24:18,880 --> 00:24:22,600
+Well, as you know, Kaiser Wilhelm
+was not blessed with a normal physique.
+
+245
+00:24:22,680 --> 00:24:25,000
+No, the withered arm.
+
+246
+00:24:25,080 --> 00:24:28,640
+Ah, but he loved to shoot,
+so modifications had to be made.
+
+247
+00:24:32,760 --> 00:24:36,240
+They didn't modify a shotgun,
+they modified a cannon.
+
+248
+00:24:41,320 --> 00:24:43,400
+You are a cheat, Hannover.
+
+249
+00:24:50,520 --> 00:24:55,200
+<i> I realize that,</i>
+<i>beyond these walls, the country mourns,</i>
+
+250
+00:24:55,280 --> 00:25:00,520
+struggles under a program
+of austerity and rationing
+
+251
+00:25:00,600 --> 00:25:03,240
+but, what to do?
+
+252
+00:25:03,320 --> 00:25:06,200
+It might all appear indulgent
+
+253
+00:25:06,280 --> 00:25:10,960
+but, in keeping the estate
+and the local community going,
+
+254
+00:25:11,040 --> 00:25:14,800
+we are all doing our share tonight
+for the economy.
+
+255
+00:25:15,960 --> 00:25:18,320
+So, let us start with a toast.
+
+256
+00:25:23,760 --> 00:25:27,440
+- To His late Majesty, the King.
+- The King.
+
+257
+00:25:28,800 --> 00:25:34,520
+- And, the Queen that has succeeded him.
+- The Queen.
+
+258
+00:25:34,600 --> 00:25:36,960
+And to our generous host.
+
+259
+00:25:37,040 --> 00:25:39,640
+And the Royal house
+that is now in his name.
+
+260
+00:25:39,720 --> 00:25:42,320
+To our host and the Royal house.
+
+261
+00:25:42,400 --> 00:25:47,320
+- To the Royal house Mountbatten.
+- To the Royal house Mountbatten.
+
+262
+00:25:54,720 --> 00:25:57,560
+Right, come on, then.
+You can do it.
+
+263
+00:25:57,640 --> 00:25:58,880
+Kick it back.
+
+264
+00:26:01,280 --> 00:26:02,800
+Kick it back, boy. Go on.
+
+265
+00:26:04,840 --> 00:26:08,920
+- It's not going to bite you. Kick it.
+- Ah, it's a Burnley centre back.
+
+266
+00:26:09,000 --> 00:26:10,720
+Tell me,
+do you play football with your boy?
+
+267
+00:26:10,800 --> 00:26:14,440
+-When I get to see him, yeah. Rugby.
+-Rugby? Chance'd be a fine thing.
+
+268
+00:26:14,520 --> 00:26:16,840
+This one doesn't seem to want
+to do anything but dream.
+
+269
+00:26:16,920 --> 00:26:20,440
+Ah. Your old man struggling a bit, is he?
+
+270
+00:26:20,520 --> 00:26:22,200
+Well, come on then.
+Show him how it's done.
+
+271
+00:26:22,280 --> 00:26:25,640
+Right. Come on then, Charles.
+Let's give you something to aim at.
+
+272
+00:26:27,840 --> 00:26:29,800
+That thing's been buzzing around
+all morning.
+
+273
+00:26:29,880 --> 00:26:31,520
+Right between his trousers.
+
+274
+00:26:32,960 --> 00:26:35,960
+Yup. Taking aerial photographs
+for some magazine.
+
+275
+00:26:36,040 --> 00:26:38,080
+-Oh, is that right?
+-Mm-hm.
+
+276
+00:26:39,440 --> 00:26:42,080
+It was always my dream
+to join the Air Force.
+
+277
+00:26:43,200 --> 00:26:46,000
+But Dickie put me in the Navy.
+
+278
+00:26:46,080 --> 00:26:48,160
+He felt the social connections
+would be better.
+
+279
+00:26:49,280 --> 00:26:52,640
+Hm. Judging by where you ended up,
+I'd say the plan worked.
+
+280
+00:26:52,720 --> 00:26:56,720
+- Ha.
+- Come on, Charles. Bash it.
+
+281
+00:26:58,080 --> 00:27:01,480
+Not bloody bad, Charles. Not bloody bad.
+
+282
+00:27:01,560 --> 00:27:04,240
+-No, Daddy, not in the bushes!
+-In the bushes he goes!
+
+283
+00:27:06,200 --> 00:27:09,280
+No, Daddy! Not the bushes!
+
+284
+00:27:11,720 --> 00:27:14,520
+Right, Charlie Boy, here we go.
+I'm going to teach you...
+
+285
+00:27:25,400 --> 00:27:26,360
+Come on, then!
+
+286
+00:27:57,600 --> 00:27:59,000
+<i> Oh, it's vile.</i>
+
+287
+00:27:59,080 --> 00:28:01,560
+Tommy Lascelles comes up to me
+at the funeral, of all places,
+
+288
+00:28:01,640 --> 00:28:06,160
+asks me for a word then tells me,
+to my face, "Do you credit it?"
+
+289
+00:28:06,240 --> 00:28:10,080
+I come all this way,
+back to this gaping wound of a country,
+
+290
+00:28:10,160 --> 00:28:14,640
+forbidden to bring my own wife,
+to pay respects to my dear, late brother
+
+291
+00:28:14,720 --> 00:28:18,800
+and they compound an already traumatic
+and painful trip with this humiliation!
+
+292
+00:28:18,880 --> 00:28:21,880
+The timing does seem
+particularly unfortunate.
+
+293
+00:28:21,960 --> 00:28:23,360
+It's an outrage!
+
+294
+00:28:24,520 --> 00:28:28,480
+-How much is the allowance?
+-Ten thousand a year.
+
+295
+00:28:28,560 --> 00:28:31,520
+The agreement between Bertie and me
+was that I would give up everything
+
+296
+00:28:31,600 --> 00:28:35,480
+and go into exile and keep a low profile
+in return for a pension
+
+297
+00:28:35,560 --> 00:28:39,440
+that was clearly meant to be
+for the term of my whole life, not his!
+
+298
+00:28:39,520 --> 00:28:42,600
+Now he's barely cold
+and Cookie turns off the bloody tap!
+
+299
+00:28:42,680 --> 00:28:45,720
+-How dare she?
+-You don't know that it was her.
+
+300
+00:28:45,800 --> 00:28:48,280
+-Of course it was her.
+-And don't call her that.
+
+301
+00:28:48,360 --> 00:28:51,040
+Why not?
+She's fat, common, and looks like a cook.
+
+302
+00:28:51,120 --> 00:28:53,480
+Did they offer any justification?
+
+303
+00:28:53,560 --> 00:28:59,320
+Oh, that it would appear insensitive
+for a member of the extended Royal family
+
+304
+00:28:59,400 --> 00:29:02,440
+to be seen to be rewarded
+and live in luxury.
+
+305
+00:29:02,520 --> 00:29:04,040
+Extended Royal family!
+
+306
+00:29:04,120 --> 00:29:07,360
+I was the most senior member
+of that family. The King!
+
+307
+00:29:07,440 --> 00:29:10,720
+Now, we barely make ends meet!
+Every day is a struggle.
+
+308
+00:29:10,800 --> 00:29:14,800
+You live in great style
+from what I've heard.
+
+309
+00:29:14,880 --> 00:29:18,440
+Perhaps you should take a leaf
+out of your late brother's book.
+
+310
+00:29:18,520 --> 00:29:23,240
+-He was frugal, you know.
+-He was born frugal. In every department.
+
+311
+00:29:23,320 --> 00:29:27,120
+And that frugality
+earned him great favour.
+
+312
+00:29:27,200 --> 00:29:29,680
+And he passed it on
+to the women in his family.
+
+313
+00:29:29,760 --> 00:29:32,480
+Who just spent 70,000
+renovating Clarence House,
+
+314
+00:29:32,560 --> 00:29:35,800
+so no lectures, please,
+about the frugality of the new Queen.
+
+315
+00:29:35,880 --> 00:29:38,800
+-That was her husband.
+-What, the foundling?
+
+316
+00:29:38,880 --> 00:29:41,120
+-Don't call him that.
+-Why not?
+
+317
+00:29:41,200 --> 00:29:44,720
+I'd call him by his name, if he had one.
+
+318
+00:29:49,280 --> 00:29:53,320
+His Royal Highness, Prince Ernst August
+of Hanover, Your Majesty.
+
+319
+00:29:53,400 --> 00:29:55,200
+-He's here.
+-What?
+
+320
+00:29:55,280 --> 00:29:59,360
+He apologizes for the lack of warning,
+but said it was important.
+
+321
+00:30:00,000 --> 00:30:04,440
+All right.
+You'd better show him in.
+
+322
+00:30:12,040 --> 00:30:13,000
+Ah...
+
+323
+00:30:13,960 --> 00:30:16,880
+Dear Aunt, forgive the intrusion.
+
+324
+00:30:16,960 --> 00:30:18,800
+I come directly from Broadlands.
+
+325
+00:30:18,880 --> 00:30:20,720
+What were you doing there?
+
+326
+00:30:20,800 --> 00:30:24,120
+Please tell me you weren't
+shooting, one day after the funeral.
+
+327
+00:30:24,200 --> 00:30:28,640
+-Oh, <i>meine liebe</i> Ernst.
+-I assure you the sport was very limited.
+
+328
+00:30:28,720 --> 00:30:32,360
+And your late son was in our thoughts
+the whole time.
+
+329
+00:30:32,440 --> 00:30:35,920
+Anyway, in the evening,
+we gathered for dinner.
+
+330
+00:30:36,000 --> 00:30:38,600
+The food is normally quite good
+at Broadlands.
+
+331
+00:30:38,680 --> 00:30:41,760
+-Outstanding!
+-Especially the duck, from memory.
+
+332
+00:30:41,840 --> 00:30:44,360
+-With oranges.
+-Rum-soaked raisins.
+
+333
+00:30:44,440 --> 00:30:46,680
+Oh! A Prussian recipe.
+
+334
+00:30:46,760 --> 00:30:50,640
+Spaetzle, too. Remarkable!
+Crispy, with cheese and breadcrumbs.
+
+335
+00:30:50,720 --> 00:30:52,960
+- Mmm. Delicious!
+- Go on.
+
+336
+00:30:53,800 --> 00:30:59,240
+Yes.
+So, after dinner, our host started to brag
+
+337
+00:30:59,320 --> 00:31:02,360
+about how the Royal house
+would soon be in his name.
+
+338
+00:31:02,440 --> 00:31:03,880
+Nonsense.
+
+339
+00:31:03,960 --> 00:31:07,880
+The Royal Warrant of 1917
+established the House of Windsor.
+
+340
+00:31:07,960 --> 00:31:11,000
+-Ah.
+-My late husband presided over it himself.
+
+341
+00:31:11,080 --> 00:31:15,080
+But the name Windsor would only be carried
+by the male descendants.
+
+342
+00:31:15,160 --> 00:31:18,560
+It did not take into account
+the female descendants.
+
+343
+00:31:18,640 --> 00:31:20,400
+They would take the name
+from their husbands
+
+344
+00:31:20,480 --> 00:31:22,680
+-which, in this case, would mean--
+-Mountbatten!
+
+345
+00:31:23,480 --> 00:31:25,000
+Well...
+
+346
+00:31:25,840 --> 00:31:29,560
+-He had us raising glasses to it.
+-Glasses containing what?
+
+347
+00:31:31,400 --> 00:31:34,800
+-Champagne.
+-You were drinking champagne
+
+348
+00:31:36,240 --> 00:31:39,000
+the day after my son's funeral?
+
+349
+00:31:56,440 --> 00:31:57,520
+Come in.
+
+350
+00:32:05,400 --> 00:32:06,680
+I had to see you.
+
+351
+00:32:08,440 --> 00:32:09,480
+Come in.
+
+352
+00:32:16,360 --> 00:32:19,480
+I got home last night
+to find this on the kitchen table.
+
+353
+00:32:38,720 --> 00:32:39,880
+She's gone.
+
+354
+00:32:41,400 --> 00:32:43,000
+All her belongings have gone.
+
+355
+00:32:45,320 --> 00:32:46,480
+I'm so sorry.
+
+356
+00:32:48,080 --> 00:32:49,400
+No, you're not.
+
+357
+00:32:50,200 --> 00:32:51,160
+No.
+
+358
+00:32:53,080 --> 00:32:54,160
+I'm not.
+
+359
+00:33:28,320 --> 00:33:32,720
+-So, will you sue her for divorce?
+-No, I'd lose my job.
+
+360
+00:33:32,800 --> 00:33:35,320
+Well, you'll keep your job.
+I'll make sure of that.
+
+361
+00:33:35,400 --> 00:33:37,800
+It would make me a divorcee.
+
+362
+00:33:44,000 --> 00:33:45,400
+But not the guilty party.
+
+363
+00:33:47,840 --> 00:33:52,520
+Still, I'd be soiled goods.
+I'd be tainted with scandal.
+
+364
+00:33:54,880 --> 00:33:56,520
+You'd also be free.
+
+365
+00:33:58,240 --> 00:33:59,400
+To remarry.
+
+366
+00:34:05,520 --> 00:34:06,800
+One day.
+
+367
+00:34:09,560 --> 00:34:10,600
+Yes.
+
+368
+00:34:16,640 --> 00:34:18,920
+Down there, please.
+
+369
+00:34:19,000 --> 00:34:21,960
+Christ. Hide. There, there. There. Go.
+
+370
+00:34:29,960 --> 00:34:32,880
+-Is it this one?
+-Yeah, I think so.
+
+371
+00:34:32,960 --> 00:34:35,280
+-No, no, it's not. It's this one.
+-Right.
+
+372
+00:34:36,720 --> 00:34:37,640
+Come in.
+
+373
+00:34:38,680 --> 00:34:40,440
+Sorry to barge in.
+Have you got a second?
+
+374
+00:34:40,520 --> 00:34:41,560
+-Of course, sir.
+-May I?
+
+375
+00:34:41,640 --> 00:34:42,520
+Please.
+
+376
+00:34:43,760 --> 00:34:45,720
+That's what I want to talk to you about.
+
+377
+00:34:48,200 --> 00:34:50,560
+-Flying.
+-Yes, sir.
+
+378
+00:34:50,640 --> 00:34:52,800
+You're an experienced air jockey
+and I've an idea.
+
+379
+00:34:52,880 --> 00:34:55,560
+And, look,
+please disavow me of it if I'm wrong
+
+380
+00:34:55,640 --> 00:34:59,800
+but, to be up there in a plane,
+it's the biggest thrill of them all.
+
+381
+00:34:59,880 --> 00:35:03,880
+-It is, sir.
+-I mean, really. The biggest.
+
+382
+00:35:05,000 --> 00:35:06,080
+It is, sir.
+
+383
+00:35:07,240 --> 00:35:13,240
+Once you break through the clouds to
+the clear blue beyond, the space, the...
+
+384
+00:35:15,040 --> 00:35:18,800
+the silence, the transcendent beauty,
+
+385
+00:35:18,880 --> 00:35:22,880
+it's church for the irreligious man.
+
+386
+00:35:22,960 --> 00:35:25,960
+That's what I'd hoped you'd say.
+Where could I learn?
+
+387
+00:35:26,040 --> 00:35:28,880
+Uh... White Waltham Airfield,
+they've a good school there.
+
+388
+00:35:28,960 --> 00:35:30,400
+-Would you take me?
+-Of course, sir.
+
+389
+00:35:30,480 --> 00:35:31,800
+Good man.
+
+390
+00:35:34,600 --> 00:35:37,920
+You know, my sister,
+my favourite sister actually,
+
+391
+00:35:38,000 --> 00:35:40,160
+Cecile, died in a plane.
+
+392
+00:35:40,240 --> 00:35:44,200
+It went down over Ostend in a storm.
+
+393
+00:35:44,280 --> 00:35:45,960
+Eight months pregnant.
+
+394
+00:35:46,840 --> 00:35:50,840
+She went into labour mid-flight
+and they found the child,
+
+395
+00:35:50,920 --> 00:35:52,880
+next to her in the wreckage.
+
+396
+00:35:55,440 --> 00:35:56,760
+A boy.
+
+397
+00:36:01,560 --> 00:36:02,960
+Mm.
+
+398
+00:36:16,360 --> 00:36:17,960
+Mm.
+
+399
+00:36:19,680 --> 00:36:22,040
+New part of the uniform, Peter?
+
+400
+00:36:29,040 --> 00:36:30,000
+Anyone we know?
+
+401
+00:36:31,080 --> 00:36:33,360
+I... no.
+
+402
+00:36:34,880 --> 00:36:37,080
+No, quite right. None of my business.
+
+403
+00:36:38,560 --> 00:36:39,520
+Thank you, sir.
+
+404
+00:36:55,240 --> 00:36:56,880
+You're enjoying this, aren't you?
+
+405
+00:37:01,320 --> 00:37:02,160
+Yes.
+
+406
+00:37:06,600 --> 00:37:08,600
+Mr. Colville, Your Majesty.
+
+407
+00:37:11,120 --> 00:37:13,080
+Your Majesties. Tommy.
+
+408
+00:37:14,360 --> 00:37:16,280
+Come in, Jock. Take a seat.
+
+409
+00:37:17,560 --> 00:37:20,880
+We have a significant concern
+which we'd like to convey
+
+410
+00:37:20,960 --> 00:37:22,800
+to the Prime Minister.
+
+411
+00:37:22,880 --> 00:37:26,520
+It concerns the Duke of Edinburgh.
+
+412
+00:37:37,520 --> 00:37:41,360
+<i> Ma'am, word has reached me</i>
+<i>that it is your desire</i>
+
+413
+00:37:41,440 --> 00:37:46,440
+<i>that you and your children should keep</i>
+<i>your husband's name, Mountbatten.</i>
+
+414
+00:37:47,840 --> 00:37:48,920
+It is.
+
+415
+00:37:49,000 --> 00:37:52,720
+Ma'am, you must not.
+It would be a grave mistake.
+
+416
+00:37:52,800 --> 00:37:55,840
+Mountbatten was the adoptive name
+
+417
+00:37:55,920 --> 00:37:58,600
+your husband took
+when he became a British citizen.
+
+418
+00:37:58,680 --> 00:38:03,280
+His real name...
+you'll not need reminding,
+
+419
+00:38:04,040 --> 00:38:07,240
+was
+Schleswig-Holstein-Sonderberg-Glucksberg
+
+420
+00:38:07,320 --> 00:38:11,720
+of the Royal houses of Denmark and Norway
+and, latterly, of Greece!
+
+421
+00:38:17,400 --> 00:38:18,920
+I am an old man.
+
+422
+00:38:20,560 --> 00:38:26,720
+Many have questioned my relevance,
+whether I still have something to offer.
+
+423
+00:38:26,800 --> 00:38:30,320
+In public life, the answer is, I have.
+
+424
+00:38:30,400 --> 00:38:34,520
+Which is to leave in place
+a Sovereign prepared for office.
+
+425
+00:38:34,600 --> 00:38:37,960
+Equipped, armed for her duty.
+
+426
+00:38:40,240 --> 00:38:46,360
+Great things have happened to this country
+under the sceptres of her queens
+
+427
+00:38:46,440 --> 00:38:49,520
+and you should be no exception.
+
+428
+00:38:49,600 --> 00:38:53,760
+Yes, I am Queen, but I am also a woman.
+
+429
+00:38:55,880 --> 00:38:57,440
+And a wife.
+
+430
+00:38:59,840 --> 00:39:04,120
+To a man whose pride and whose strength
+were, in part, what attracted me to him.
+
+431
+00:39:06,000 --> 00:39:09,440
+I want to be in a successful marriage.
+
+432
+00:39:09,520 --> 00:39:13,440
+I would argue, stability under this roof
+might even be in the national interest.
+
+433
+00:39:13,520 --> 00:39:15,160
+Had you considered that?
+
+434
+00:39:17,800 --> 00:39:21,240
+Very well. I will discuss it with Cabinet.
+
+435
+00:39:25,160 --> 00:39:26,080
+No.
+
+436
+00:39:28,880 --> 00:39:33,000
+You will inform the Cabinet,
+Prime Minister.
+
+437
+00:39:36,360 --> 00:39:38,440
+That is the favour you will do me,
+
+438
+00:39:40,400 --> 00:39:42,960
+in return for one I'm already doing you.
+
+439
+00:39:48,960 --> 00:39:54,200
+I know your party wants you to resign
+to make way for a younger man.
+
+440
+00:39:54,280 --> 00:39:55,400
+Mr. Eden.
+
+441
+00:39:57,600 --> 00:40:02,720
+I also know that no one
+will bring up your resignation
+
+442
+00:40:02,800 --> 00:40:05,640
+while you are actively engaged
+in planning the Coronation.
+
+443
+00:40:08,240 --> 00:40:13,320
+So, by delaying my investiture,
+you are, in fact, holding onto power...
+
+444
+00:40:17,320 --> 00:40:20,520
+in which case, I would suggest
+you are, somewhat, in my debt.
+
+445
+00:40:22,600 --> 00:40:25,680
+So, if... I agree to the delay,
+
+446
+00:40:27,120 --> 00:40:32,200
+perhaps you will consider supporting me
+in the matter regarding my husband's name.
+
+447
+00:40:38,200 --> 00:40:40,520
+And perhaps you could also inform Cabinet
+
+448
+00:40:40,600 --> 00:40:44,640
+that my husband and I
+intend to stay here at Clarence House.
+
+449
+00:40:44,720 --> 00:40:47,320
+-Why?
+-It is our home.
+
+450
+00:40:49,040 --> 00:40:51,200
+It has just been refurbished
+at great expense.
+
+451
+00:40:52,440 --> 00:40:55,000
+Buckingham Palace can still be
+where official business is done
+
+452
+00:40:55,080 --> 00:41:01,840
+but our home, our private family home,
+will be Clarence House.
+
+453
+00:41:07,640 --> 00:41:08,720
+Very well.
+
+454
+00:41:30,200 --> 00:41:32,160
+<i>He was a little surprised, I think.</i>
+
+455
+00:41:32,240 --> 00:41:34,840
+- <i> Really?</i>
+<i>- I dare express any view at all.</i>
+
+456
+00:41:34,920 --> 00:41:37,000
+Papa was always putty in his hands.
+
+457
+00:41:37,080 --> 00:41:39,160
+But I think one should start
+as one means to continue.
+
+458
+00:41:39,240 --> 00:41:43,160
+-Absolutely. Put a marker down.
+-Quite. Draw a line in the sand.
+
+459
+00:41:43,240 --> 00:41:46,720
+He said he'd put it to Cabinet
+and I said there was nothing to discuss.
+
+460
+00:41:46,800 --> 00:41:49,400
+-Good for you.
+-No, good for you.
+
+461
+00:41:49,480 --> 00:41:51,760
+-That's why I did it.
+-Thank you.
+
+462
+00:42:15,160 --> 00:42:17,240
+Your Royal Highness, thank you for coming.
+
+463
+00:42:17,320 --> 00:42:20,760
+Not at all, dear Winston. How can I help?
+
+464
+00:42:23,760 --> 00:42:27,440
+I took it to Cabinet and, as expected,
+the answer was unanimous,
+
+465
+00:42:27,520 --> 00:42:29,640
+"No" to both matters.
+
+466
+00:42:29,720 --> 00:42:32,520
+Well, she won't like it,
+neither the snub over the name
+
+467
+00:42:32,600 --> 00:42:34,720
+nor the move to Buckingham Palace.
+
+468
+00:42:34,800 --> 00:42:39,200
+It really is a most dreadful place,
+cold, uninviting,
+
+469
+00:42:39,280 --> 00:42:44,040
+but it's the right thing, for the young
+family and the children to live there.
+
+470
+00:42:44,120 --> 00:42:47,960
+It's the focal point,
+it's the monarch's home.
+
+471
+00:42:49,680 --> 00:42:54,640
+-Do you want me to break it to her?
+-That would be very kind.
+
+472
+00:42:54,720 --> 00:42:56,400
+It's the least I can do.
+
+473
+00:42:56,480 --> 00:42:59,640
+I've never forgotten the way
+in which you defended me,
+
+474
+00:42:59,720 --> 00:43:04,000
+fought for me during that terrible time.
+
+475
+00:43:04,080 --> 00:43:07,640
+I still think no man
+should be punished for love.
+
+476
+00:43:07,720 --> 00:43:10,800
+And I also believe I spoke for many
+in the country when I defended you.
+
+477
+00:43:11,680 --> 00:43:12,840
+You're very kind.
+
+478
+00:43:15,240 --> 00:43:21,600
+If I were to help you
+in this matter with her,
+
+479
+00:43:21,680 --> 00:43:24,920
+perhaps I could ask a favour in return?
+
+480
+00:43:26,760 --> 00:43:28,240
+Name it.
+
+481
+00:43:42,760 --> 00:43:48,080
+Put in a word with the young Queen
+for my allowance to be reinstated.
+
+482
+00:43:48,160 --> 00:43:50,560
+She holds the purse strings now.
+
+483
+00:43:50,640 --> 00:43:54,320
+The family expect me
+to turn down commercial opportunities,
+
+484
+00:43:54,400 --> 00:43:57,560
+yet cuts off my allowance
+at the same time.
+
+485
+00:43:57,640 --> 00:43:59,800
+Ten thousand pounds,
+
+486
+00:43:59,880 --> 00:44:03,360
+it's quite impossible
+to make ends meet without it.
+
+487
+00:44:03,440 --> 00:44:06,680
+That a former King
+should come to me begging...
+
+488
+00:44:09,200 --> 00:44:10,480
+Consider it done.
+
+489
+00:44:13,440 --> 00:44:19,200
+There is also a brief moment
+before the Coronation
+
+490
+00:44:20,680 --> 00:44:24,640
+where you might also
+mobilize Cabinet support
+
+491
+00:44:24,720 --> 00:44:31,520
+for the one other thing that has eluded me
+and gnaws away at my heart.
+
+492
+00:44:31,600 --> 00:44:33,480
+What?
+
+493
+00:44:33,560 --> 00:44:36,120
+The appropriate title
+for the woman I married.
+
+494
+00:44:36,200 --> 00:44:38,640
+-No, sir.
+-Her Royal Highness.
+
+495
+00:44:38,720 --> 00:44:41,640
+She is, after all,
+the wife of a former King.
+
+496
+00:44:41,720 --> 00:44:47,440
+She's also a woman who has three husbands
+that still live and breathe.
+
+497
+00:44:47,520 --> 00:44:50,920
+It is her right, Winston.
+
+498
+00:44:51,000 --> 00:44:55,440
+I'm determined she shall have it.
+I'm determined she is shown respect.
+
+499
+00:44:57,280 --> 00:44:59,200
+Will you fight for it?
+
+500
+00:44:59,280 --> 00:45:00,560
+One more time?
+
+501
+00:45:00,640 --> 00:45:05,680
+I have defended you so many times.
+Each time to my cost and in vain.
+
+502
+00:45:06,880 --> 00:45:10,480
+This love for her
+has destroyed everything.
+
+503
+00:45:11,480 --> 00:45:14,120
+It is love, Winston.
+
+504
+00:45:15,360 --> 00:45:16,680
+Love.
+
+505
+00:45:18,200 --> 00:45:20,880
+The greatest thing on Earth.
+
+506
+00:48:16,640 --> 00:48:19,280
+His Royal Highness
+the Duke of Windsor, Your Majesty.
+
+507
+00:48:24,360 --> 00:48:25,720
+Your Majesty.
+
+508
+00:48:27,360 --> 00:48:29,520
+Thank you for seeing me.
+
+509
+00:48:30,720 --> 00:48:32,080
+Thank you for coming.
+
+510
+00:48:41,560 --> 00:48:46,240
+Well, most of the time we're in Paris.
+We've been given a house there.
+
+511
+00:48:46,320 --> 00:48:50,640
+Wallis likes to entertain.
+She's so good at it.
+
+512
+00:48:50,720 --> 00:48:55,480
+So the place is always full.
+And we have dogs.
+
+513
+00:48:55,560 --> 00:48:57,480
+Oh, really? What kind?
+
+514
+00:48:57,560 --> 00:49:04,520
+Pugs. Davy Crockett, Trooper and Disraeli.
+
+515
+00:49:04,600 --> 00:49:09,280
+-Why pugs? What's the attraction?
+-Well, they're... childlike.
+
+516
+00:49:10,200 --> 00:49:13,720
+-Need a lot of loving.
+-They have a strange bark.
+
+517
+00:49:15,400 --> 00:49:17,480
+-Yes.
+-More of a yap.
+
+518
+00:49:17,560 --> 00:49:20,080
+And they're lazy. Spend all day sleeping.
+
+519
+00:49:20,160 --> 00:49:22,760
+-Yes.
+-They're awfully gassy.
+
+520
+00:49:24,040 --> 00:49:25,000
+Yes.
+
+521
+00:49:25,080 --> 00:49:27,840
+I suppose one can always open the windows.
+
+522
+00:49:32,320 --> 00:49:34,560
+-Don't you miss it?
+-What?
+
+523
+00:49:34,640 --> 00:49:37,000
+The country of your birth.
+The people here.
+
+524
+00:49:38,160 --> 00:49:39,560
+Your own flesh and blood.
+
+525
+00:49:40,520 --> 00:49:44,320
+Well, I would've done
+if they'd accepted the woman I love.
+
+526
+00:49:44,400 --> 00:49:48,400
+But they didn't, so I don't.
+
+527
+00:49:48,480 --> 00:49:51,280
+So the former King keeps himself
+at a distance.
+
+528
+00:49:51,360 --> 00:49:55,880
+A distance that was imposed upon me.
+They wanted me out.
+
+529
+00:49:55,960 --> 00:49:58,440
+And reduces us all to cruel nicknames.
+
+530
+00:50:00,480 --> 00:50:01,760
+Shirley Temple.
+
+531
+00:50:03,600 --> 00:50:06,120
+Uh... Yes.
+
+532
+00:50:07,440 --> 00:50:08,880
+On account of the curls?
+
+533
+00:50:11,280 --> 00:50:13,760
+And precociousness.
+
+534
+00:50:13,840 --> 00:50:16,760
+-And stardom.
+-You flatterer.
+
+535
+00:50:16,840 --> 00:50:17,880
+Not at all.
+
+536
+00:50:18,920 --> 00:50:22,400
+Generally,
+we're better at queens than kings.
+
+537
+00:50:22,480 --> 00:50:25,600
+In this country I have a feeling
+you'll be no exception.
+
+538
+00:50:26,600 --> 00:50:30,040
+-I certainly intend to do it well.
+-I did, too.
+
+539
+00:50:31,200 --> 00:50:32,600
+Obviously, not hard enough.
+
+540
+00:50:35,000 --> 00:50:35,920
+No.
+
+541
+00:50:39,120 --> 00:50:41,320
+You never apologized.
+
+542
+00:50:41,400 --> 00:50:43,760
+To your papa, I most certainly did.
+
+543
+00:50:43,840 --> 00:50:46,720
+Your mother too.
+I can show you the letters.
+
+544
+00:50:46,800 --> 00:50:50,680
+I didn't mean to them. I meant to me.
+
+545
+00:50:52,600 --> 00:50:53,480
+You?
+
+546
+00:50:57,080 --> 00:50:58,960
+You don't think I'm deserving of one.
+
+547
+00:51:01,360 --> 00:51:04,960
+You don't think I would have preferred
+to grow up out of the spotlight?
+
+548
+00:51:05,600 --> 00:51:06,920
+Away from Court?
+
+549
+00:51:08,240 --> 00:51:11,600
+Away from the scrutiny and the visibility.
+
+550
+00:51:13,680 --> 00:51:14,840
+A simpler life.
+
+551
+00:51:16,000 --> 00:51:17,160
+Happier life.
+
+552
+00:51:18,280 --> 00:51:19,800
+As a wife, a mother.
+
+553
+00:51:22,120 --> 00:51:24,920
+An ordinary English countrywoman.
+
+554
+00:51:27,760 --> 00:51:29,120
+I'm sorry.
+
+555
+00:51:33,920 --> 00:51:35,360
+Thank you.
+
+556
+00:51:42,360 --> 00:51:45,880
+You might extend the same apology
+to my husband the next time you see him.
+
+557
+00:51:45,960 --> 00:51:49,560
+-Oh, is he struggling?
+-A little.
+
+558
+00:51:49,640 --> 00:51:52,160
+Well, it'd be odd if he weren't.
+
+559
+00:51:53,840 --> 00:51:57,480
+Anyway, if I am to succeed,
+
+560
+00:51:58,400 --> 00:52:01,520
+then he and I are going to need
+all the help we can get.
+
+561
+00:52:01,600 --> 00:52:05,920
+Well, I'm sure you're surrounded
+by good people offering it.
+
+562
+00:52:06,000 --> 00:52:08,640
+Not if they're always off
+in Paris or New York,
+
+563
+00:52:08,720 --> 00:52:10,840
+or wherever it is you spend your time.
+
+564
+00:52:12,120 --> 00:52:14,880
+Y-You would take my advice?
+
+565
+00:52:15,840 --> 00:52:16,960
+I would.
+
+566
+00:52:19,320 --> 00:52:21,400
+Particularly now my father
+isn't here to give his.
+
+567
+00:52:23,960 --> 00:52:26,600
+I'd know it came from the heart.
+
+568
+00:52:26,680 --> 00:52:30,560
+Since I know, deep down,
+despite everything,
+
+569
+00:52:30,640 --> 00:52:32,480
+that you care very deeply.
+
+570
+00:52:33,720 --> 00:52:35,400
+I do.
+
+571
+00:52:43,440 --> 00:52:47,560
+As it happens, there are two issues
+
+572
+00:52:47,640 --> 00:52:51,280
+on which I would like to offer
+some advice.
+
+573
+00:52:51,360 --> 00:52:56,440
+The first is your husband's surname
+and the name of the Royal house.
+
+574
+00:52:59,720 --> 00:53:01,040
+And the second?
+
+575
+00:53:21,640 --> 00:53:24,600
+There you are. There's something
+I'd like to discuss with you.
+
+576
+00:53:24,680 --> 00:53:26,360
+Now, please don't react.
+
+577
+00:53:27,600 --> 00:53:29,520
+I'd like to take flying lessons.
+
+578
+00:53:31,120 --> 00:53:32,480
+I know.
+
+579
+00:53:32,560 --> 00:53:35,880
+But, trust me, becoming a pilot
+has been a lifelong ambition of mine
+
+580
+00:53:35,960 --> 00:53:40,760
+and I think I've found a teacher
+mad enough to take me on as a pupil.
+
+581
+00:53:41,600 --> 00:53:43,360
+Peter, no less, Peter Townsend.
+
+582
+00:53:48,160 --> 00:53:50,680
+-What's the matter?
+-I need to talk to you.
+
+583
+00:53:50,760 --> 00:53:51,760
+About what?
+
+584
+00:53:55,240 --> 00:53:57,080
+They'd rather we didn't keep the name.
+
+585
+00:53:58,320 --> 00:53:59,880
+Mountbatten.
+
+586
+00:54:01,120 --> 00:54:03,000
+Who's "they?"
+
+587
+00:54:03,080 --> 00:54:05,400
+-Cabinet.
+-It's none of their business.
+
+588
+00:54:05,480 --> 00:54:08,160
+I think you'll find
+it's very much their business.
+
+589
+00:54:08,240 --> 00:54:10,920
+You're my wife,
+taking my name is the law.
+
+590
+00:54:11,000 --> 00:54:12,960
+It's the custom. Not the law.
+
+591
+00:54:13,040 --> 00:54:15,840
+A custom practiced so universally
+it might as well be the law.
+
+592
+00:54:15,920 --> 00:54:18,120
+You can't do this.
+Am I to be the only man in the country
+
+593
+00:54:18,200 --> 00:54:20,000
+whose wife and children
+don't take his name?
+
+594
+00:54:20,080 --> 00:54:22,680
+You can't do this to Dickie.
+It will devastate him.
+
+595
+00:54:22,760 --> 00:54:25,600
+You know that.
+You know how important it is to him.
+
+596
+00:54:25,680 --> 00:54:28,800
+I've told him the Royal house Mountbatten
+is in the bag.
+
+597
+00:54:28,880 --> 00:54:32,320
+Well, that was a mistake. It's not.
+
+598
+00:54:32,400 --> 00:54:36,240
+The name has to be Windsor. For stability.
+
+599
+00:54:37,440 --> 00:54:38,400
+There's more.
+
+600
+00:54:40,920 --> 00:54:44,040
+-Clarence House...
+-Our home. What about it?
+
+601
+00:54:45,880 --> 00:54:47,400
+We have to give it up.
+
+602
+00:54:48,800 --> 00:54:50,680
+The home of the Sovereign
+of the United Kingdom
+
+603
+00:54:50,760 --> 00:54:51,840
+is Buckingham Palace.
+
+604
+00:54:51,920 --> 00:54:53,040
+Says who?
+
+605
+00:54:55,080 --> 00:54:56,720
+Me.
+
+606
+00:54:58,880 --> 00:55:00,600
+I thought you hated that place.
+
+607
+00:55:01,680 --> 00:55:04,000
+I do. We all do.
+
+608
+00:55:06,280 --> 00:55:07,880
+Then why go along with it?
+
+609
+00:55:09,240 --> 00:55:11,520
+Because that's the overwhelming advice.
+
+610
+00:55:11,600 --> 00:55:13,640
+But that's the point, Elizabeth,
+it's just advice.
+
+611
+00:55:13,720 --> 00:55:15,760
+It doesn't mean
+that you have to act on it.
+
+612
+00:55:15,840 --> 00:55:18,440
+When it comes from the government,
+you do.
+
+613
+00:55:31,120 --> 00:55:32,960
+What kind of marriage is this?
+
+614
+00:55:34,080 --> 00:55:36,000
+What kind of family?
+
+615
+00:55:37,600 --> 00:55:39,840
+You've taken my career from me,
+you've taken my home.
+
+616
+00:55:39,920 --> 00:55:42,840
+You've taken my name.
+
+617
+00:55:49,720 --> 00:55:51,800
+I thought we were in this together.
+
+618
+00:56:26,400 --> 00:56:28,360
+See? Daddy's here.
+
+619
+00:56:29,120 --> 00:56:30,120
+Welcome home, ma'am.
+
+620
+00:56:56,800 --> 00:56:58,600
+<i> My Lords...</i>
+
+621
+00:56:59,920 --> 00:57:03,520
+I hereby declare my will and pleasure
+
+622
+00:57:03,600 --> 00:57:08,760
+that I and my children
+shall be styled and known
+
+623
+00:57:08,840 --> 00:57:11,960
+as the House and Family of Windsor.
+
+624
+00:57:14,000 --> 00:57:15,360
+And that my descendants,
+
+625
+00:57:15,440 --> 00:57:20,240
+other than female descendants
+who marry, and their descendants,
+
+626
+00:57:20,320 --> 00:57:23,720
+shall bear the name of Windsor.
+

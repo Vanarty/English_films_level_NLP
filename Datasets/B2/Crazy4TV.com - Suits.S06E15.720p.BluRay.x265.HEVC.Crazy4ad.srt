@@ -1,0 +1,4616 @@
+1
+00:00:02,252 --> 00:00:04,346
+<font color=#FFFF00><i><b>This isn't Westworld.
+I can't make her human.</b></i></font>
+
+2
+00:00:04,421 --> 00:00:06,048
+<font color=#FFFF00><i><b>I'm just asking you to give
+her a little compassion.</b></i></font>
+
+3
+00:00:06,131 --> 00:00:07,223
+<font color=#FFFF00><i><b>Well, I don't know
+how to do that.</b></i></font>
+
+4
+00:00:07,299 --> 00:00:09,859
+<font color=#FFFF00><i><b>I just got off the phone with Carly
+Donahue. She fired us, Donna.</b></i></font>
+
+5
+00:00:09,927 --> 00:00:11,270
+<font color=#FFFF00><i><b>This isn't your fault.
+You couldn't have known.</b></i></font>
+
+6
+00:00:11,345 --> 00:00:12,847
+<font color=#FFFF00><i><b>It's okay.
+I just need to go home.</b></i></font>
+
+7
+00:00:12,930 --> 00:00:15,524
+<font color=#FFFF00><i><b>You filed a complaint alleging
+life-threatening health problems</b></i></font>
+
+8
+00:00:15,599 --> 00:00:17,852
+<font color=#FFFF00><i><b>and I want to help you get the
+compensation that you deserve.</b></i></font>
+
+9
+00:00:17,935 --> 00:00:20,188
+<font color=#FFFF00><i><b>Even if I wanted to sue
+those bastards, I can't.</b></i></font>
+
+10
+00:00:20,270 --> 00:00:21,817
+<font color=#FFFF00><i><b>We can shatter those NDAs.</b></i></font>
+
+11
+00:00:21,897 --> 00:00:23,194
+<font color=#FFFF00><i><b>What do I have to do?</b></i></font>
+
+12
+00:00:23,273 --> 00:00:25,696
+<font color=#FFFF00><i><b>I want to know if you're using this
+case to get back to Pearson Specter.</b></i></font>
+
+13
+00:00:25,776 --> 00:00:26,823
+<font color=#FFFF00><i><b>You said Pearson Specter</b></i></font>
+
+14
+00:00:26,902 --> 00:00:29,030
+<font color=#FFFF00><i><b>would never take on a case like
+this when you were there before.</b></i></font>
+
+15
+00:00:29,112 --> 00:00:30,739
+<font color=#FFFF00><i><b>We brought the suit so that
+I could get into the Bar.</b></i></font>
+
+16
+00:00:30,864 --> 00:00:32,984
+<font color=#FFFF00><i><b>One hundred million. With an
+admission of guilt. Sure.</b></i></font>
+
+17
+00:00:32,991 --> 00:00:33,992
+<font color=#FFFF00><i><b>Where do I sign?</b></i></font>
+
+18
+00:00:34,076 --> 00:00:35,168
+<font color=#FFFF00><i><b>I'm willing to cut
+your clients a check</b></i></font>
+
+19
+00:00:35,244 --> 00:00:37,542
+<font color=#FFFF00><i><b>that will change their lives and
+you're too stupid to see it.</b></i></font>
+
+20
+00:00:37,621 --> 00:00:39,840
+<font color=#FFFF00><i><b>Are you ready to take
+responsibility or not?</b></i></font>
+
+21
+00:00:39,915 --> 00:00:42,543
+<font color=#FFFF00><i><b>You think I won't go after you for
+stealing from Seidel's company?</b></i></font>
+
+22
+00:00:42,626 --> 00:00:43,969
+<font color=#FFFF00><i><b>I don't give a shit
+about his marriage.</b></i></font>
+
+23
+00:00:44,044 --> 00:00:47,218
+<font color=#FFFF00><i><b>The reason he hasn't come forward has
+nothing to do with his marriage.</b></i></font>
+
+24
+00:00:47,297 --> 00:00:49,578
+<font color=#FFFF00><i><b>You didn't have to keep this
+quiet because you're married.</b></i></font>
+
+25
+00:00:49,591 --> 00:00:51,434
+<font color=#FFFF00><i><b>You kept it quiet
+because you're in on it.</b></i></font>
+
+26
+00:00:51,510 --> 00:00:53,387
+<font color=#FFFF00><i><b>My employees are gonna lose
+their jobs because of me.</b></i></font>
+
+27
+00:00:53,470 --> 00:00:54,710
+<font color=#FFFF00><i><b>We need to keep
+this suit going.</b></i></font>
+
+28
+00:00:54,763 --> 00:00:56,481
+<font color=#FFFF00><i><b>You're not just getting
+Mike an interview,</b></i></font>
+
+29
+00:00:56,557 --> 00:00:58,855
+<font color=#FFFF00><i><b>you're going to block anyone
+who tries to vote no.</b></i></font>
+
+30
+00:00:58,934 --> 00:01:00,026
+<font color=#FFFF00><i><b>See you at the Bar.</b></i></font>
+
+31
+00:01:10,487 --> 00:01:11,864
+<font color=#FFFF00><i><b>Mr. Stamos.</b></i></font>
+
+32
+00:01:12,447 --> 00:01:13,699
+<font color=#FFFF00><i><b>What are you
+doing here?</b></i></font>
+
+33
+00:01:13,782 --> 00:01:17,286
+<font color=#FFFF00><i><b>I wanted to, um, get you the
+authorization to our medical records.</b></i></font>
+
+34
+00:01:18,787 --> 00:01:20,004
+<font color=#FFFF00><i><b>Thanks.</b></i></font>
+
+35
+00:01:22,082 --> 00:01:23,254
+<font color=#FFFF00><i><b>But, uh, you didn't come
+all the way down here</b></i></font>
+
+36
+00:01:23,333 --> 00:01:24,585
+<font color=#FFFF00><i><b>just to hand me
+some paperwork.</b></i></font>
+
+37
+00:01:24,668 --> 00:01:26,045
+<font color=#FFFF00><i><b>You're right.</b></i></font>
+
+38
+00:01:26,128 --> 00:01:28,096
+<font color=#FFFF00><i><b>I came to find out what's
+going on with our case.</b></i></font>
+
+39
+00:01:29,172 --> 00:01:30,674
+<font color=#FFFF00><i><b>We should hear
+something soon.</b></i></font>
+
+40
+00:01:31,008 --> 00:01:32,008
+<font color=#FFFF00><i><b>How can you know that?</b></i></font>
+
+41
+00:01:32,050 --> 00:01:33,927
+<font color=#FFFF00><i><b>Because Harvey's negotiating
+with James Palmer as we speak.</b></i></font>
+
+42
+00:01:34,011 --> 00:01:35,012
+<font color=#FFFF00><i><b>What do you mean?</b></i></font>
+
+43
+00:01:36,388 --> 00:01:38,186
+<font color=#FFFF00><i><b>Why is Harvey Specter
+negotiating this?</b></i></font>
+
+44
+00:01:38,265 --> 00:01:39,562
+<font color=#FFFF00><i><b>I told you
+when we took him on,</b></i></font>
+
+45
+00:01:39,641 --> 00:01:41,081
+<font color=#FFFF00><i><b>he's the best negotiator
+in the city.</b></i></font>
+
+46
+00:01:41,101 --> 00:01:43,229
+<font color=#FFFF00><i><b>I don't care who he is.</b></i></font>
+
+47
+00:01:43,312 --> 00:01:45,030
+<font color=#FFFF00><i><b>You're the one that came to me.
+You're the one I trusted.</b></i></font>
+
+48
+00:01:45,105 --> 00:01:46,106
+<font color=#FFFF00><i><b>I know that.</b></i></font>
+
+49
+00:01:46,189 --> 00:01:48,487
+<font color=#FFFF00><i><b>But we've got a good cop/bad cop
+strategy to get the offer up.</b></i></font>
+
+50
+00:01:48,567 --> 00:01:51,116
+<font color=#FFFF00><i><b>An offer? You didn't tell
+me there's an offer.</b></i></font>
+
+51
+00:01:51,236 --> 00:01:53,079
+<font color=#FFFF00><i><b>That's because things have been...
+How much?</b></i></font>
+
+52
+00:01:53,155 --> 00:01:54,873
+<font color=#FFFF00><i><b>The number on the table
+is a hundred,</b></i></font>
+
+53
+00:01:54,948 --> 00:01:57,167
+<font color=#FFFF00><i><b>but we're hoping
+to get a lot more.</b></i></font>
+
+54
+00:01:57,242 --> 00:01:59,586
+<font color=#FFFF00><i><b>Jesus Christ.
+A hundred million?</b></i></font>
+
+55
+00:01:59,661 --> 00:02:00,708
+<font color=#FFFF00><i><b>Take it.</b></i></font>
+
+56
+00:02:00,746 --> 00:02:03,124
+<font color=#FFFF00><i><b>I know it seems like a lot of money.
+It is a lot of money.</b></i></font>
+
+57
+00:02:03,206 --> 00:02:05,959
+<font color=#FFFF00><i><b>Not when you have to split it
+between 150 men who have cancer.</b></i></font>
+
+58
+00:02:06,043 --> 00:02:07,090
+<font color=#FFFF00><i><b>Do all the math
+you want, Mr. Ross,</b></i></font>
+
+59
+00:02:07,169 --> 00:02:10,093
+<font color=#FFFF00><i><b>but a hundred million is a hell
+of a lot better than zero,</b></i></font>
+
+60
+00:02:10,172 --> 00:02:11,932
+<font color=#FFFF00><i><b>which is what we've been
+walking around with.</b></i></font>
+
+61
+00:02:11,965 --> 00:02:14,309
+<font color=#FFFF00><i><b>Mr. Stamos,
+you have to trust me.</b></i></font>
+
+62
+00:02:14,384 --> 00:02:17,558
+<font color=#FFFF00><i><b>We know what we're doing, and I
+am not going to let you down.</b></i></font>
+
+63
+00:02:18,347 --> 00:02:19,439
+<font color=#FFFF00><i><b>Fine.</b></i></font>
+
+64
+00:02:20,265 --> 00:02:22,563
+<font color=#FFFF00><i><b>You do your
+good cop/bad cop thing.</b></i></font>
+
+65
+00:02:22,934 --> 00:02:26,029
+<font color=#FFFF00><i><b>But if that number doesn't go
+up in the next two days,</b></i></font>
+
+66
+00:02:26,104 --> 00:02:29,654
+<font color=#FFFF00><i><b>I'm telling my guys to take the
+offer that's on the table.</b></i></font>
+
+67
+00:02:35,614 --> 00:02:36,740
+<font color=#FFFF00><i><b>Benjamin.</b></i></font>
+
+68
+00:02:37,282 --> 00:02:39,580
+<font color=#FFFF00><i><b>The Donna is ready. What
+do you mean she's ready?</b></i></font>
+
+69
+00:02:39,660 --> 00:02:42,709
+<font color=#FFFF00><i><b>I mean, five minutes ago,
+she expressed empathy to me.</b></i></font>
+
+70
+00:02:43,246 --> 00:02:45,669
+<font color=#FFFF00><i><b>But it wasn't working before. I
+was convinced it never would.</b></i></font>
+
+71
+00:02:45,749 --> 00:02:47,877
+<font color=#FFFF00><i><b>I don't know what you did, but you
+said it could learn from itself,</b></i></font>
+
+72
+00:02:47,959 --> 00:02:49,552
+<font color=#FFFF00><i><b>and that's exactly
+what happened.</b></i></font>
+
+73
+00:02:49,878 --> 00:02:52,381
+<font color=#FFFF00><i><b>Oh, my God, maybe
+I really am a genius.</b></i></font>
+
+74
+00:02:52,464 --> 00:02:53,465
+<font color=#FFFF00><i><b>Yeah, maybe you are.</b></i></font>
+
+75
+00:02:54,341 --> 00:02:56,501
+<font color=#FFFF00><i><b>Well, then, it's a good thing
+I didn't throw this away.</b></i></font>
+
+76
+00:02:56,593 --> 00:02:58,015
+<font color=#FFFF00><i><b>What's this? I've compiled
+a list of everybody</b></i></font>
+
+77
+00:02:58,095 --> 00:03:00,598
+<font color=#FFFF00><i><b>who's invested in products like
+this in the last five years.</b></i></font>
+
+78
+00:03:01,515 --> 00:03:03,563
+<font color=#FFFF00><i><b>That's great, but we're
+not going to need this.</b></i></font>
+
+79
+00:03:03,642 --> 00:03:04,643
+<font color=#FFFF00><i><b>Why not?</b></i></font>
+
+80
+00:03:04,726 --> 00:03:07,400
+<font color=#FFFF00><i><b>Because the thing that makes
+The Donna special is me.</b></i></font>
+
+81
+00:03:07,771 --> 00:03:09,931
+<font color=#FFFF00><i><b>Which means we need to look
+into investors who know me.</b></i></font>
+
+82
+00:03:09,981 --> 00:03:11,198
+<font color=#FFFF00><i><b>Yes. Correct.</b></i></font>
+
+83
+00:03:11,274 --> 00:03:12,992
+<font color=#FFFF00><i><b>And nobody knows you
+better than Harvey.</b></i></font>
+
+84
+00:03:13,068 --> 00:03:14,490
+<font color=#FFFF00><i><b>Do you think he'll make
+calls on our behalf?</b></i></font>
+
+85
+00:03:14,569 --> 00:03:16,287
+<font color=#FFFF00><i><b>He would, but I'm not going
+to ask him to do that.</b></i></font>
+
+86
+00:03:16,363 --> 00:03:19,333
+<font color=#FFFF00><i><b>Because I want his clients to see
+this as coming from me and not him.</b></i></font>
+
+87
+00:03:19,408 --> 00:03:21,126
+<font color=#FFFF00><i><b>Then what's the next step?</b></i></font>
+
+88
+00:03:21,660 --> 00:03:24,755
+<font color=#FFFF00><i><b>The next step for you is get
+ready to present that thing,</b></i></font>
+
+89
+00:03:24,830 --> 00:03:26,628
+<font color=#FFFF00><i><b>because I'm going
+to get us some meetings.</b></i></font>
+
+90
+00:03:28,041 --> 00:03:29,793
+<font color=#FFFF00><i><b>Boom-shaka-laka.</b></i></font>
+
+91
+00:03:33,213 --> 00:03:35,432
+<font color=#FFFF00><i><b>Do you have any idea
+what time it is? I do.</b></i></font>
+
+92
+00:03:35,507 --> 00:03:37,384
+<font color=#FFFF00><i><b>But it couldn't wait.</b></i></font>
+
+93
+00:03:37,467 --> 00:03:38,810
+<font color=#FFFF00><i><b>Where's Rachel?</b></i></font>
+
+94
+00:03:38,885 --> 00:03:40,353
+<font color=#FFFF00><i><b>She's at her parents' house.
+Why?</b></i></font>
+
+95
+00:03:40,429 --> 00:03:42,431
+<font color=#FFFF00><i><b>Because I have some news, and
+she's going to want to hear it.</b></i></font>
+
+96
+00:03:42,514 --> 00:03:43,640
+<font color=#FFFF00><i><b>What is it?</b></i></font>
+
+97
+00:03:43,974 --> 00:03:46,693
+<font color=#FFFF00><i><b>We got it. You're in.
+You're going to be a lawyer.</b></i></font>
+
+98
+00:03:47,227 --> 00:03:48,604
+<font color=#FFFF00><i><b>What? How?</b></i></font>
+
+99
+00:03:48,687 --> 00:03:49,904
+<font color=#FFFF00><i><b>Seidel was in on it.</b></i></font>
+
+100
+00:03:49,980 --> 00:03:52,153
+<font color=#FFFF00><i><b>He got paid.
+And I got proof.</b></i></font>
+
+101
+00:03:52,399 --> 00:03:56,529
+<font color=#FFFF00><i><b>Which means we don't have to worry about
+tanking Velocity's stock anymore.</b></i></font>
+
+102
+00:03:57,237 --> 00:03:59,911
+<font color=#FFFF00><i><b>Oh, my God.
+I can't believe it.</b></i></font>
+
+103
+00:04:02,868 --> 00:04:04,666
+<font color=#FFFF00><i><b>I'm going to be a lawyer.
+I know.</b></i></font>
+
+104
+00:04:05,662 --> 00:04:07,335
+<font color=#FFFF00><i><b>There's just one thing.</b></i></font>
+
+105
+00:04:07,414 --> 00:04:10,008
+<font color=#FFFF00><i><b>Palmer figured out that we're
+doing this with Seidel.</b></i></font>
+
+106
+00:04:10,417 --> 00:04:12,169
+<font color=#FFFF00><i><b>And unless
+we drop the lawsuit,</b></i></font>
+
+107
+00:04:12,252 --> 00:04:14,346
+<font color=#FFFF00><i><b>he's going to come
+after us for collusion.</b></i></font>
+
+108
+00:04:14,504 --> 00:04:15,926
+<font color=#FFFF00><i><b>Wait. What?</b></i></font>
+
+109
+00:04:16,506 --> 00:04:17,803
+<font color=#FFFF00><i><b>No, this is bullshit.</b></i></font>
+
+110
+00:04:17,924 --> 00:04:20,427
+<font color=#FFFF00><i><b>I'm not giving up on those miners.
+You have to.</b></i></font>
+
+111
+00:04:21,011 --> 00:04:22,354
+<font color=#FFFF00><i><b>No, I don't.</b></i></font>
+
+112
+00:04:22,679 --> 00:04:24,397
+<font color=#FFFF00><i><b>Mike... Look, the only
+thing we did wrong</b></i></font>
+
+113
+00:04:24,473 --> 00:04:26,396
+<font color=#FFFF00><i><b>was make a deal
+to get me into the Bar.</b></i></font>
+
+114
+00:04:26,725 --> 00:04:29,274
+<font color=#FFFF00><i><b>If I pull out of that hearing,
+Palmer can't touch us.</b></i></font>
+
+115
+00:04:29,352 --> 00:04:30,729
+<font color=#FFFF00><i><b>Are you...</b></i></font>
+
+116
+00:04:30,812 --> 00:04:31,779
+<font color=#FFFF00><i><b>Think about
+what you're saying.</b></i></font>
+
+117
+00:04:31,855 --> 00:04:32,947
+<font color=#FFFF00><i><b>I don't need
+to think about it.</b></i></font>
+
+118
+00:04:33,023 --> 00:04:34,900
+<font color=#FFFF00><i><b>I'm not throwing
+those guys under the bus.</b></i></font>
+
+119
+00:04:35,025 --> 00:04:37,403
+<font color=#FFFF00><i><b>Mike, we've come too far.
+I don't care.</b></i></font>
+
+120
+00:04:37,486 --> 00:04:39,580
+<font color=#FFFF00><i><b>Tell Seidel
+the deal's off.</b></i></font>
+
+121
+00:04:43,700 --> 00:04:45,043
+<font color=#FFFF00><i><b>What if there was another way?
+Harvey,</b></i></font>
+
+122
+00:04:45,118 --> 00:04:46,961
+<font color=#FFFF00><i><b>if you're talking about somebody
+else handling this case...</b></i></font>
+
+123
+00:04:47,037 --> 00:04:48,584
+<font color=#FFFF00><i><b>No, I'm not.
+Listen to me.</b></i></font>
+
+124
+00:04:48,663 --> 00:04:50,836
+<font color=#FFFF00><i><b>There's no way Seidel
+came up with the idea</b></i></font>
+
+125
+00:04:50,916 --> 00:04:52,634
+<font color=#FFFF00><i><b>to sell that shit
+to Velocity himself.</b></i></font>
+
+126
+00:04:52,709 --> 00:04:55,633
+<font color=#FFFF00><i><b>The woman he had an affair
+with has to work for them,</b></i></font>
+
+127
+00:04:55,712 --> 00:04:57,885
+<font color=#FFFF00><i><b>which means we can leverage
+her to sink Palmer.</b></i></font>
+
+128
+00:04:57,964 --> 00:04:59,637
+<font color=#FFFF00><i><b>Are you kidding me?
+No. I'm...</b></i></font>
+
+129
+00:04:59,716 --> 00:05:00,683
+<font color=#FFFF00><i><b>Harvey, listen to yourself.</b></i></font>
+
+130
+00:05:00,759 --> 00:05:03,603
+<font color=#FFFF00><i><b>You're talking about out-and-out
+extortion and blackmail.</b></i></font>
+
+131
+00:05:03,678 --> 00:05:05,146
+<font color=#FFFF00><i><b>I'm not going to do
+any of that shit</b></i></font>
+
+132
+00:05:05,222 --> 00:05:06,815
+<font color=#FFFF00><i><b>just to get
+into the goddamn Bar.</b></i></font>
+
+133
+00:05:06,890 --> 00:05:09,109
+<font color=#FFFF00><i><b>You were the one that told me that
+after watching that kid lose,</b></i></font>
+
+134
+00:05:09,184 --> 00:05:10,584
+<font color=#FFFF00><i><b>you never wanted it
+to happen again.</b></i></font>
+
+135
+00:05:10,602 --> 00:05:11,854
+<font color=#FFFF00><i><b>And now,
+that same kid is telling us</b></i></font>
+
+136
+00:05:11,937 --> 00:05:12,984
+<font color=#FFFF00><i><b>that what we're doing
+is wrong.</b></i></font>
+
+137
+00:05:13,063 --> 00:05:14,063
+<font color=#FFFF00><i><b>And he's right.</b></i></font>
+
+138
+00:05:14,105 --> 00:05:16,733
+<font color=#FFFF00><i><b>Mike...
+No, Harvey, it's enough.</b></i></font>
+
+139
+00:05:17,859 --> 00:05:21,113
+<font color=#FFFF00><i><b>You promised Rachel that you'd pull
+the plug if things got too risky.</b></i></font>
+
+140
+00:05:22,155 --> 00:05:24,704
+<font color=#FFFF00><i><b>Well, it just got
+too goddamn risky.</b></i></font>
+
+141
+00:05:30,580 --> 00:05:33,299
+<font color=#FFFF00><i><b>See the money,
+wanna stay for your meal</b></i></font>
+
+142
+00:05:33,750 --> 00:05:36,720
+<font color=#FFFF00><i><b>Get another piece of pie
+for your wife</b></i></font>
+
+143
+00:05:37,212 --> 00:05:40,261
+<font color=#FFFF00><i><b>Everybody wanna know
+how it feel</b></i></font>
+
+144
+00:05:40,757 --> 00:05:43,852
+<font color=#FFFF00><i><b>Everybody wanna see
+what it's like</b></i></font>
+
+145
+00:05:43,969 --> 00:05:46,768
+<font color=#FFFF00><i><b>I'll even eat a bean pie
+I don't mind</b></i></font>
+
+146
+00:05:47,055 --> 00:05:48,853
+<font color=#FFFF00><i><b>Me and missy is so early</b></i></font>
+
+147
+00:05:48,932 --> 00:05:50,684
+<font color=#FFFF00><i><b>Busy, busy making money</b></i></font>
+
+148
+00:05:50,767 --> 00:05:52,144
+<font color=#FFFF00><i><b>All right!</b></i></font>
+
+149
+00:05:52,310 --> 00:05:56,065
+<font color=#FFFF00><i><b>All step back
+I'm 'bout to dance</b></i></font>
+
+150
+00:05:58,108 --> 00:05:59,826
+<font color=#FFFF00><i><b>The greenback boogie</b></i></font>
+
+151
+00:06:00,026 --> 00:06:01,026
+<b><font color=#909090>^.^.^.^.subtitles by.^.^.^.^</font></b>
+<b><font color=#804040>P®</font></b> <b><font color=#ff0000>Krishna_Teja</font></b> <b><font color=#804040>P®</font></b>
+
+152
+00:06:06,575 --> 00:06:07,622
+<font color=#FFFF00><i><b>Hey.</b></i></font>
+
+153
+00:06:07,951 --> 00:06:09,578
+<font color=#FFFF00><i><b>What's going on?</b></i></font>
+
+154
+00:06:09,661 --> 00:06:11,038
+<font color=#FFFF00><i><b>You got out of bed</b></i></font>
+
+155
+00:06:11,121 --> 00:06:14,295
+<font color=#FFFF00><i><b>before it was light out
+and you never came back.</b></i></font>
+
+156
+00:06:14,708 --> 00:06:16,460
+<font color=#FFFF00><i><b>I want to talk to you
+for a minute.</b></i></font>
+
+157
+00:06:17,127 --> 00:06:18,299
+<font color=#FFFF00><i><b>About what?</b></i></font>
+
+158
+00:06:18,378 --> 00:06:21,757
+<font color=#FFFF00><i><b>I know you went to Harvey and you
+made him promise to pull the plug</b></i></font>
+
+159
+00:06:21,840 --> 00:06:24,639
+<font color=#FFFF00><i><b>on my getting into the Bar
+if things got too risky.</b></i></font>
+
+160
+00:06:24,759 --> 00:06:26,306
+<font color=#FFFF00><i><b>He wasn't
+supposed to tell you that.</b></i></font>
+
+161
+00:06:26,386 --> 00:06:27,763
+<font color=#FFFF00><i><b>You really think
+he wouldn't?</b></i></font>
+
+162
+00:06:27,846 --> 00:06:32,067
+<font color=#FFFF00><i><b>Mike, I only made him promise
+because I care about you.</b></i></font>
+
+163
+00:06:32,142 --> 00:06:33,485
+<font color=#FFFF00><i><b>It's okay.</b></i></font>
+
+164
+00:06:34,436 --> 00:06:37,315
+<font color=#FFFF00><i><b>I know why you did it.
+And I understand it.</b></i></font>
+
+165
+00:06:38,106 --> 00:06:41,406
+<font color=#FFFF00><i><b>And last night, I ended up
+pulling the plug myself.</b></i></font>
+
+166
+00:06:42,944 --> 00:06:44,036
+<font color=#FFFF00><i><b>So, it's over?</b></i></font>
+
+167
+00:06:44,112 --> 00:06:45,329
+<font color=#FFFF00><i><b>It's over.</b></i></font>
+
+168
+00:06:46,448 --> 00:06:48,041
+<font color=#FFFF00><i><b>I'm not going
+to be a lawyer.</b></i></font>
+
+169
+00:06:50,744 --> 00:06:51,836
+<font color=#FFFF00><i><b>Mike...</b></i></font>
+
+170
+00:06:52,495 --> 00:06:54,714
+<font color=#FFFF00><i><b>The thing is,
+I was fine with it</b></i></font>
+
+171
+00:06:54,789 --> 00:06:57,463
+<font color=#FFFF00><i><b>until Harvey started dangling
+it in front of my face.</b></i></font>
+
+172
+00:07:00,837 --> 00:07:04,341
+<font color=#FFFF00><i><b>I think the problem was, I actually
+started believing it could happen.</b></i></font>
+
+173
+00:07:06,343 --> 00:07:07,890
+<font color=#FFFF00><i><b>Do you want me
+to stay with you today?</b></i></font>
+
+174
+00:07:08,011 --> 00:07:09,012
+<font color=#FFFF00><i><b>No.</b></i></font>
+
+175
+00:07:11,556 --> 00:07:13,024
+<font color=#FFFF00><i><b>I'll be okay.</b></i></font>
+
+176
+00:07:13,516 --> 00:07:14,517
+<font color=#FFFF00><i><b>Besides,</b></i></font>
+
+177
+00:07:15,185 --> 00:07:17,153
+<font color=#FFFF00><i><b>you've got
+a lot of work to do</b></i></font>
+
+178
+00:07:17,228 --> 00:07:19,026
+<font color=#FFFF00><i><b>and I've got
+a big case to win.</b></i></font>
+
+179
+00:07:22,359 --> 00:07:24,453
+<font color=#FFFF00><i><b>Harvey, there you are.</b></i></font>
+
+180
+00:07:24,527 --> 00:07:25,847
+<font color=#FFFF00><i><b>Louis needs to see you
+right away.</b></i></font>
+
+181
+00:07:25,904 --> 00:07:27,781
+<font color=#FFFF00><i><b>Donna, whatever it is, I
+don't have time right now.</b></i></font>
+
+182
+00:07:27,864 --> 00:07:28,956
+<font color=#FFFF00><i><b>Well, you need
+to make time.</b></i></font>
+
+183
+00:07:29,032 --> 00:07:31,313
+<font color=#FFFF00><i><b>Because he came looking for you
+last night and he's upset.</b></i></font>
+
+184
+00:07:31,368 --> 00:07:32,369
+<font color=#FFFF00><i><b>Well, I'm sorry,
+Donna.</b></i></font>
+
+185
+00:07:32,452 --> 00:07:35,456
+<font color=#FFFF00><i><b>But I'm too busy to hear about
+another crisis with his girlfriend</b></i></font>
+
+186
+00:07:35,538 --> 00:07:38,838
+<font color=#FFFF00><i><b>or drama in his canasta club, or
+how his mouth guard doesn't fit.</b></i></font>
+
+187
+00:07:39,793 --> 00:07:42,262
+<font color=#FFFF00><i><b>Couture Apparel fired us. What?</b></i></font>
+
+188
+00:07:42,337 --> 00:07:45,967
+<font color=#FFFF00><i><b>Carly got upset that Louis brought Rachel
+and Katrina to the meeting instead of you.</b></i></font>
+
+189
+00:07:46,049 --> 00:07:49,223
+<font color=#FFFF00><i><b>And when he stood up to her
+about it, she fired him.</b></i></font>
+
+190
+00:07:49,302 --> 00:07:50,303
+<font color=#FFFF00><i><b>Shit.</b></i></font>
+
+191
+00:07:50,804 --> 00:07:54,650
+<font color=#FFFF00><i><b>Harvey, he feels terrible about it.
+He thinks he let you down.</b></i></font>
+
+192
+00:07:54,724 --> 00:07:56,442
+<font color=#FFFF00><i><b>Well, he didn't.
+I let him down.</b></i></font>
+
+193
+00:07:56,518 --> 00:07:58,486
+<font color=#FFFF00><i><b>And it turns out
+it was all for nothing.</b></i></font>
+
+194
+00:07:58,853 --> 00:08:00,453
+<font color=#FFFF00><i><b>What do you mean, nothing?
+What happened?</b></i></font>
+
+195
+00:08:00,522 --> 00:08:02,524
+<font color=#FFFF00><i><b>Palmer figured out
+what's going on with Seidel</b></i></font>
+
+196
+00:08:02,607 --> 00:08:05,577
+<font color=#FFFF00><i><b>and Mike would rather pull
+his deal than drop the case.</b></i></font>
+
+197
+00:08:05,652 --> 00:08:07,029
+<font color=#FFFF00><i><b>But then he'll never
+get into the Bar.</b></i></font>
+
+198
+00:08:07,112 --> 00:08:09,535
+<font color=#FFFF00><i><b>Why do you think I said I don't have
+time for anything else right now?</b></i></font>
+
+199
+00:08:09,614 --> 00:08:12,163
+<font color=#FFFF00><i><b>So, you're telling me that
+asshole's holding all the cards</b></i></font>
+
+200
+00:08:12,242 --> 00:08:13,915
+<font color=#FFFF00><i><b>and Mike's never
+going to be a lawyer?</b></i></font>
+
+201
+00:08:14,244 --> 00:08:15,245
+<font color=#FFFF00><i><b>No.</b></i></font>
+
+202
+00:08:15,662 --> 00:08:17,255
+<font color=#FFFF00><i><b>No one's ever
+holding all the cards.</b></i></font>
+
+203
+00:08:17,330 --> 00:08:18,850
+<font color=#FFFF00><i><b>And I don't give a shit
+what Mike said.</b></i></font>
+
+204
+00:08:18,873 --> 00:08:21,547
+<font color=#FFFF00><i><b>I'm not folding
+when I know we can win.</b></i></font>
+
+205
+00:08:27,215 --> 00:08:30,014
+<font color=#FFFF00><i><b>Louis, before you say anything,
+Donna told me what happened.</b></i></font>
+
+206
+00:08:30,093 --> 00:08:32,016
+<font color=#FFFF00><i><b>Harvey, I am so sorry.
+I know you are.</b></i></font>
+
+207
+00:08:32,095 --> 00:08:33,096
+<font color=#FFFF00><i><b>But I didn't come here
+to scold you.</b></i></font>
+
+208
+00:08:33,179 --> 00:08:34,681
+<font color=#FFFF00><i><b>I came here
+because I need your help</b></i></font>
+
+209
+00:08:34,764 --> 00:08:36,311
+<font color=#FFFF00><i><b>or Mike's deal's
+gonna fall apart.</b></i></font>
+
+210
+00:08:36,391 --> 00:08:37,391
+<font color=#FFFF00><i><b>What?
+How's that possible?</b></i></font>
+
+211
+00:08:37,434 --> 00:08:39,482
+<font color=#FFFF00><i><b>Let's just say,
+someone's got leverage on us</b></i></font>
+
+212
+00:08:39,561 --> 00:08:41,188
+<font color=#FFFF00><i><b>and I need to get
+leverage on them.</b></i></font>
+
+213
+00:08:41,271 --> 00:08:42,363
+<font color=#FFFF00><i><b>What kind of leverage?</b></i></font>
+
+214
+00:08:42,439 --> 00:08:45,238
+<font color=#FFFF00><i><b>There's a woman who works at Velocity.
+She had an affair with Seidel.</b></i></font>
+
+215
+00:08:45,316 --> 00:08:46,784
+<font color=#FFFF00><i><b>I need to know
+who she is.</b></i></font>
+
+216
+00:08:47,068 --> 00:08:48,695
+<font color=#FFFF00><i><b>Thousands of people
+work at Velocity.</b></i></font>
+
+217
+00:08:48,778 --> 00:08:50,246
+<font color=#FFFF00><i><b>Yeah, I know that.
+But to do what she did,</b></i></font>
+
+218
+00:08:50,321 --> 00:08:52,289
+<font color=#FFFF00><i><b>she'd have to be
+a top corporate officer.</b></i></font>
+
+219
+00:08:52,365 --> 00:08:54,083
+<font color=#FFFF00><i><b>Well, that narrows it down, but
+it's still going to require</b></i></font>
+
+220
+00:08:54,159 --> 00:08:56,036
+<font color=#FFFF00><i><b>huge amounts of research
+and hundreds of phone calls.</b></i></font>
+
+221
+00:08:56,119 --> 00:08:58,793
+<font color=#FFFF00><i><b>No, Louis. It will only
+require one phone call.</b></i></font>
+
+222
+00:08:58,872 --> 00:09:01,466
+<font color=#FFFF00><i><b>Because what I need
+is access to their database.</b></i></font>
+
+223
+00:09:02,125 --> 00:09:03,217
+<font color=#FFFF00><i><b>No.</b></i></font>
+
+224
+00:09:03,293 --> 00:09:04,545
+<font color=#FFFF00><i><b>Harvey, there's got
+to be someone else.</b></i></font>
+
+225
+00:09:04,627 --> 00:09:07,176
+<font color=#FFFF00><i><b>Vanessa doesn't do this kind
+of thing and you know it.</b></i></font>
+
+226
+00:09:07,464 --> 00:09:10,058
+<font color=#FFFF00><i><b>I swore that I would never do business
+with that son of a bitch again.</b></i></font>
+
+227
+00:09:10,133 --> 00:09:12,135
+<font color=#FFFF00><i><b>I know that, Louis,
+but if we don't do this...</b></i></font>
+
+228
+00:09:13,511 --> 00:09:15,013
+<font color=#FFFF00><i><b>All right, get out.</b></i></font>
+
+229
+00:09:15,930 --> 00:09:17,773
+<font color=#FFFF00><i><b>Close the door
+behind you.</b></i></font>
+
+230
+00:09:27,275 --> 00:09:29,323
+<font color=#FFFF00><i><b>Oliver.
+What's up?</b></i></font>
+
+231
+00:09:29,402 --> 00:09:31,655
+<font color=#FFFF00><i><b>What's up is,
+we've got work to do.</b></i></font>
+
+232
+00:09:32,989 --> 00:09:35,162
+<font color=#FFFF00><i><b>Mike, I don't mean
+to be an asshole,</b></i></font>
+
+233
+00:09:35,909 --> 00:09:38,789
+<font color=#FFFF00><i><b>but I'm not doing anything until you
+tell Nathan exactly what's going on.</b></i></font>
+
+234
+00:09:38,828 --> 00:09:40,455
+<font color=#FFFF00><i><b>There's nothing to tell.</b></i></font>
+
+235
+00:09:40,538 --> 00:09:41,630
+<font color=#FFFF00><i><b>Are you kidding me?</b></i></font>
+
+236
+00:09:41,706 --> 00:09:43,754
+<font color=#FFFF00><i><b>You said you were doing this case
+as a way to get into the Bar.</b></i></font>
+
+237
+00:09:43,833 --> 00:09:45,676
+<font color=#FFFF00><i><b>And I just
+withdrew my application.</b></i></font>
+
+238
+00:09:46,336 --> 00:09:47,337
+<font color=#FFFF00><i><b>There's no deal anymore.</b></i></font>
+
+239
+00:09:47,420 --> 00:09:48,797
+<font color=#FFFF00><i><b>So, whatever it was
+I was going to tell Nathan,</b></i></font>
+
+240
+00:09:48,880 --> 00:09:50,160
+<font color=#FFFF00><i><b>I don't have
+to tell him anymore.</b></i></font>
+
+241
+00:09:50,840 --> 00:09:52,467
+<font color=#FFFF00><i><b>Just like that, you're
+giving up your chance?</b></i></font>
+
+242
+00:09:52,550 --> 00:09:56,020
+<font color=#FFFF00><i><b>Look, I heard what you said last
+night about setting an example.</b></i></font>
+
+243
+00:09:56,346 --> 00:09:58,474
+<font color=#FFFF00><i><b>So, instead of telling Nathan
+that I was up to something shady,</b></i></font>
+
+244
+00:09:58,556 --> 00:10:00,854
+<font color=#FFFF00><i><b>I'm telling you
+that I'm not.</b></i></font>
+
+245
+00:10:02,185 --> 00:10:03,357
+<font color=#FFFF00><i><b>What do you need me
+to do?</b></i></font>
+
+246
+00:10:05,063 --> 00:10:06,280
+<font color=#FFFF00><i><b>I need you
+to get down to PSL</b></i></font>
+
+247
+00:10:06,356 --> 00:10:08,996
+<font color=#FFFF00><i><b>and grab half a dozen of those
+associates and bring them back here.</b></i></font>
+
+248
+00:10:09,734 --> 00:10:10,860
+<font color=#FFFF00><i><b>What are you going to do?</b></i></font>
+
+249
+00:10:11,402 --> 00:10:14,281
+<font color=#FFFF00><i><b>I'm going to do whatever I can to
+make sure this thing isn't over yet.</b></i></font>
+
+250
+00:10:14,739 --> 00:10:15,740
+<font color=#FFFF00><i><b>Screw those assholes.</b></i></font>
+
+251
+00:10:15,824 --> 00:10:17,997
+<font color=#FFFF00><i><b>They're nothing but a
+bunch of dickless losers.</b></i></font>
+
+252
+00:10:18,076 --> 00:10:20,956
+<font color=#FFFF00><i><b>Yeah, I'll break them into little
+pieces for you. You have my word on it.</b></i></font>
+
+253
+00:10:21,371 --> 00:10:22,371
+<font color=#FFFF00><i><b>All right,
+I've got to go.</b></i></font>
+
+254
+00:10:22,413 --> 00:10:23,881
+<font color=#FFFF00><i><b>I love you, too, Mommy.</b></i></font>
+
+255
+00:10:24,707 --> 00:10:26,550
+<font color=#FFFF00><i><b>Stu.
+Donna.</b></i></font>
+
+256
+00:10:27,252 --> 00:10:29,630
+<font color=#FFFF00><i><b>Got to say, I didn't figure you for
+a guy who calls his mother "Mommy."</b></i></font>
+
+257
+00:10:29,712 --> 00:10:31,806
+<font color=#FFFF00><i><b>What can I say? If a man doesn't
+have the confidence to do that,</b></i></font>
+
+258
+00:10:31,881 --> 00:10:32,928
+<font color=#FFFF00><i><b>then he's not
+really a man.</b></i></font>
+
+259
+00:10:33,007 --> 00:10:34,975
+<font color=#FFFF00><i><b>But I'm guessing you didn't
+come all the way down here</b></i></font>
+
+260
+00:10:35,051 --> 00:10:37,679
+<font color=#FFFF00><i><b>just to evaluate my relationship
+with the greatest woman on Earth.</b></i></font>
+
+261
+00:10:37,762 --> 00:10:41,016
+<font color=#FFFF00><i><b>No, I didn't. I came
+here to show you this.</b></i></font>
+
+262
+00:10:41,224 --> 00:10:42,225
+<font color=#FFFF00><i><b>What's that?</b></i></font>
+
+263
+00:10:42,308 --> 00:10:43,685
+<font color=#FFFF00><i><b>It's a game-changer.</b></i></font>
+
+264
+00:10:43,768 --> 00:10:45,448
+<font color=#FFFF00><i><b>And I'm letting you in
+on the ground floor.</b></i></font>
+
+265
+00:10:45,728 --> 00:10:47,230
+<font color=#FFFF00><i><b>That's a bold statement.</b></i></font>
+
+266
+00:10:47,647 --> 00:10:50,275
+<font color=#FFFF00><i><b>Turn it on. Keep it for
+as long as you want.</b></i></font>
+
+267
+00:10:50,358 --> 00:10:53,157
+<font color=#FFFF00><i><b>And then, when you're blown away,
+come back to me with an offer.</b></i></font>
+
+268
+00:10:53,236 --> 00:10:55,455
+<font color=#FFFF00><i><b>Because my partner and I,
+we're going wide with this</b></i></font>
+
+269
+00:10:55,530 --> 00:10:57,077
+<font color=#FFFF00><i><b>and we're going
+to need an investor.</b></i></font>
+
+270
+00:10:58,616 --> 00:11:00,334
+<font color=#FFFF00><i><b>Why are you coming to me
+with this?</b></i></font>
+
+271
+00:11:00,410 --> 00:11:02,754
+<font color=#FFFF00><i><b>Because I wanted to give someone the
+chance to take it off the market.</b></i></font>
+
+272
+00:11:02,829 --> 00:11:06,424
+<font color=#FFFF00><i><b>And it needed to be someone with the
+confidence to call his mother "Mommy."</b></i></font>
+
+273
+00:11:13,423 --> 00:11:15,183
+<font color=#FFFF00><i><b>It's typical you would
+have us meet you here.</b></i></font>
+
+274
+00:11:15,258 --> 00:11:16,384
+<font color=#FFFF00><i><b>Gambling's for suckers,
+you know.</b></i></font>
+
+275
+00:11:16,467 --> 00:11:18,765
+<font color=#FFFF00><i><b>It's only gambling
+when the results are unknown.</b></i></font>
+
+276
+00:11:18,845 --> 00:11:21,126
+<font color=#FFFF00><i><b>There's nothing wrong with
+tilting the game in your favor.</b></i></font>
+
+277
+00:11:22,515 --> 00:11:24,358
+<font color=#FFFF00><i><b>I like this guy, Louis.</b></i></font>
+
+278
+00:11:24,434 --> 00:11:25,856
+<font color=#FFFF00><i><b>Why haven't I met him before?</b></i></font>
+
+279
+00:11:25,935 --> 00:11:28,484
+<font color=#FFFF00><i><b>You know why. So, why
+don't we just get to it?</b></i></font>
+
+280
+00:11:28,563 --> 00:11:31,282
+<font color=#FFFF00><i><b>We need you to hack into Velocity
+Data's personnel records.</b></i></font>
+
+281
+00:11:31,357 --> 00:11:32,397
+<font color=#FFFF00><i><b>Now, can you do it or not?</b></i></font>
+
+282
+00:11:32,442 --> 00:11:33,694
+<font color=#FFFF00><i><b>You want to say that
+a little bit louder,</b></i></font>
+
+283
+00:11:33,776 --> 00:11:35,198
+<font color=#FFFF00><i><b>so the Fed over there
+can hear it?</b></i></font>
+
+284
+00:11:35,278 --> 00:11:36,871
+<font color=#FFFF00><i><b>Relax, Jerry. What Louis
+is trying to say is,</b></i></font>
+
+285
+00:11:36,946 --> 00:11:38,493
+<font color=#FFFF00><i><b>there's a woman
+who works there</b></i></font>
+
+286
+00:11:38,573 --> 00:11:40,746
+<font color=#FFFF00><i><b>who has information we need
+to make a deal.</b></i></font>
+
+287
+00:11:40,992 --> 00:11:42,414
+<font color=#FFFF00><i><b>Make a deal?</b></i></font>
+
+288
+00:11:44,162 --> 00:11:45,163
+<font color=#FFFF00><i><b>I don't know.</b></i></font>
+
+289
+00:11:45,246 --> 00:11:47,214
+<font color=#FFFF00><i><b>That... That's starting
+to sound like blackmail,</b></i></font>
+
+290
+00:11:47,290 --> 00:11:48,587
+<font color=#FFFF00><i><b>which is a little bit
+out of my league.</b></i></font>
+
+291
+00:11:48,666 --> 00:11:50,134
+<font color=#FFFF00><i><b>Bullshit.
+It's in your league.</b></i></font>
+
+292
+00:11:50,210 --> 00:11:52,804
+<font color=#FFFF00><i><b>And it's starting to sound like you're
+renegotiating, like you always do.</b></i></font>
+
+293
+00:11:52,879 --> 00:11:53,971
+<font color=#FFFF00><i><b>You know what, Louis?</b></i></font>
+
+294
+00:11:54,047 --> 00:11:56,367
+<font color=#FFFF00><i><b>I've just about had enough of
+your bullshit over the years.</b></i></font>
+
+295
+00:11:56,382 --> 00:11:58,476
+<font color=#FFFF00><i><b>I renegotiate
+because you low-ball me.</b></i></font>
+
+296
+00:11:58,676 --> 00:11:59,723
+<font color=#FFFF00><i><b>I... I told...</b></i></font>
+
+297
+00:11:59,802 --> 00:12:01,554
+<font color=#FFFF00><i><b>Jerry, you're not dealing
+with Louis on this one.</b></i></font>
+
+298
+00:12:01,638 --> 00:12:02,639
+<font color=#FFFF00><i><b>You're dealing with me.</b></i></font>
+
+299
+00:12:02,722 --> 00:12:05,771
+<font color=#FFFF00><i><b>So, why don't you tell me what you
+need and let's get this thing done?</b></i></font>
+
+300
+00:12:05,850 --> 00:12:07,648
+<font color=#FFFF00><i><b>If I'm going
+to access anything,</b></i></font>
+
+301
+00:12:07,727 --> 00:12:09,400
+<font color=#FFFF00><i><b>I need to know
+more than you just told me.</b></i></font>
+
+302
+00:12:09,479 --> 00:12:10,799
+<font color=#FFFF00><i><b>Because I don't get
+what you want,</b></i></font>
+
+303
+00:12:10,813 --> 00:12:11,985
+<font color=#FFFF00><i><b>there's no going back
+a second time.</b></i></font>
+
+304
+00:12:12,065 --> 00:12:13,988
+<font color=#FFFF00><i><b>All right. There's a woman
+who works at Velocity</b></i></font>
+
+305
+00:12:14,067 --> 00:12:16,536
+<font color=#FFFF00><i><b>who slept with the in-house
+counsel at my client's company</b></i></font>
+
+306
+00:12:16,611 --> 00:12:18,409
+<font color=#FFFF00><i><b>and convinced him to sell
+confidential information.</b></i></font>
+
+307
+00:12:18,488 --> 00:12:19,489
+<font color=#FFFF00><i><b>Let me guess.</b></i></font>
+
+308
+00:12:20,490 --> 00:12:22,584
+<font color=#FFFF00><i><b>She promised him the moon,
+then hung him out to dry.</b></i></font>
+
+309
+00:12:22,659 --> 00:12:24,411
+<font color=#FFFF00><i><b>Yeah. Why?</b></i></font>
+
+310
+00:12:24,994 --> 00:12:27,713
+<font color=#FFFF00><i><b>You don't need to access Velocity's
+records. She doesn't work there.</b></i></font>
+
+311
+00:12:27,789 --> 00:12:28,961
+<font color=#FFFF00><i><b>How do you know?</b></i></font>
+
+312
+00:12:29,040 --> 00:12:30,792
+<font color=#FFFF00><i><b>Because I know who she is.</b></i></font>
+
+313
+00:12:31,960 --> 00:12:33,428
+<font color=#FFFF00><i><b>And the price just tripled.</b></i></font>
+
+314
+00:12:33,503 --> 00:12:34,800
+<font color=#FFFF00><i><b>Tripled?</b></i></font>
+
+315
+00:12:35,380 --> 00:12:36,802
+<font color=#FFFF00><i><b>You hypocritical
+piece of shit.</b></i></font>
+
+316
+00:12:36,881 --> 00:12:38,401
+<font color=#FFFF00><i><b>You don't even have
+to access anything.</b></i></font>
+
+317
+00:12:38,633 --> 00:12:40,010
+<font color=#FFFF00><i><b>Well, you know
+what they say.</b></i></font>
+
+318
+00:12:40,093 --> 00:12:42,471
+<font color=#FFFF00><i><b>You don't pay the plumber
+for banging on the pipes...</b></i></font>
+
+319
+00:12:42,553 --> 00:12:44,033
+<font color=#FFFF00><i><b>You pay him
+for knowing where to bang.</b></i></font>
+
+320
+00:12:44,264 --> 00:12:45,607
+<font color=#FFFF00><i><b>Yahtzee.</b></i></font>
+
+321
+00:12:46,599 --> 00:12:48,021
+<font color=#FFFF00><i><b>And I'm telling you,
+where I'm banging,</b></i></font>
+
+322
+00:12:48,101 --> 00:12:50,229
+<font color=#FFFF00><i><b>a whole lot of shit's
+going to fall out.</b></i></font>
+
+323
+00:12:50,478 --> 00:12:52,401
+<font color=#FFFF00><i><b>So, you're either going
+to pay up or you're not.</b></i></font>
+
+324
+00:13:00,863 --> 00:13:01,903
+<font color=#FFFF00><i><b>Am I interrupting?</b></i></font>
+
+325
+00:13:02,907 --> 00:13:04,830
+<font color=#FFFF00><i><b>To tell you the truth,
+I've just been</b></i></font>
+
+326
+00:13:04,909 --> 00:13:07,458
+<font color=#FFFF00><i><b>staring at this screen
+for the past 15 minutes.</b></i></font>
+
+327
+00:13:07,537 --> 00:13:10,211
+<font color=#FFFF00><i><b>That's what I do all day.
+I call it working.</b></i></font>
+
+328
+00:13:10,290 --> 00:13:13,294
+<font color=#FFFF00><i><b>But I'm going to guess
+that's not why you're staring.</b></i></font>
+
+329
+00:13:13,710 --> 00:13:15,303
+<font color=#FFFF00><i><b>I was thinking about Mike.</b></i></font>
+
+330
+00:13:15,378 --> 00:13:16,800
+<font color=#FFFF00><i><b>He told you
+he gave up the deal?</b></i></font>
+
+331
+00:13:17,255 --> 00:13:18,472
+<font color=#FFFF00><i><b>He did,</b></i></font>
+
+332
+00:13:20,341 --> 00:13:23,265
+<font color=#FFFF00><i><b>and he said that he's okay
+not being a lawyer.</b></i></font>
+
+333
+00:13:23,594 --> 00:13:26,564
+<font color=#FFFF00><i><b>But the look on his face
+didn't say that at all.</b></i></font>
+
+334
+00:13:27,890 --> 00:13:29,642
+<font color=#FFFF00><i><b>Then you might be interested
+in what I have to say.</b></i></font>
+
+335
+00:13:29,726 --> 00:13:33,276
+<font color=#FFFF00><i><b>Because it involves getting
+Mike into the Bar after all.</b></i></font>
+
+336
+00:13:35,440 --> 00:13:37,488
+<font color=#FFFF00><i><b>Harvey, why are you telling
+me this instead of Mike?</b></i></font>
+
+337
+00:13:37,567 --> 00:13:39,319
+<font color=#FFFF00><i><b>Because you asked me to pull
+the plug on this whole thing</b></i></font>
+
+338
+00:13:39,402 --> 00:13:40,403
+<font color=#FFFF00><i><b>if it got too risky,</b></i></font>
+
+339
+00:13:40,486 --> 00:13:43,286
+<font color=#FFFF00><i><b>and what I'm talking about is going
+to make it a hell of a lot riskier.</b></i></font>
+
+340
+00:13:43,364 --> 00:13:45,162
+<font color=#FFFF00><i><b>And what did Mike say?</b></i></font>
+
+341
+00:13:45,241 --> 00:13:46,618
+<font color=#FFFF00><i><b>He doesn't want to do it.</b></i></font>
+
+342
+00:13:46,701 --> 00:13:47,701
+<font color=#FFFF00><i><b>Why not?</b></i></font>
+
+343
+00:13:47,744 --> 00:13:49,997
+<font color=#FFFF00><i><b>You know why not.
+It's not 100% legal.</b></i></font>
+
+344
+00:13:50,079 --> 00:13:51,752
+<font color=#FFFF00><i><b>And you can say no
+if you want to.</b></i></font>
+
+345
+00:13:52,165 --> 00:13:54,759
+<font color=#FFFF00><i><b>But the look you saw
+on his face?</b></i></font>
+
+346
+00:13:54,834 --> 00:13:56,882
+<font color=#FFFF00><i><b>That's not going away
+any time soon.</b></i></font>
+
+347
+00:13:58,171 --> 00:13:59,388
+<font color=#FFFF00><i><b>Okay.</b></i></font>
+
+348
+00:14:01,215 --> 00:14:02,262
+<font color=#FFFF00><i><b>I'm in.</b></i></font>
+
+349
+00:14:02,467 --> 00:14:05,471
+<font color=#FFFF00><i><b>But this time, if something
+goes wrong, you take the fall.</b></i></font>
+
+350
+00:14:06,429 --> 00:14:07,931
+<font color=#FFFF00><i><b>Okay, I will.</b></i></font>
+
+351
+00:14:08,264 --> 00:14:11,063
+<font color=#FFFF00><i><b>Now, are you going to go back
+to staring at that thing</b></i></font>
+
+352
+00:14:11,142 --> 00:14:13,065
+<font color=#FFFF00><i><b>or you want to help me
+get Mike into the Bar</b></i></font>
+
+353
+00:14:13,144 --> 00:14:15,112
+<font color=#FFFF00><i><b>and have some fun
+at the same time?</b></i></font>
+
+354
+00:14:15,772 --> 00:14:17,194
+<font color=#FFFF00><i><b>What do you need me to do?</b></i></font>
+
+355
+00:14:18,066 --> 00:14:19,739
+<font color=#FFFF00><i><b>I need you to go home,</b></i></font>
+
+356
+00:14:19,817 --> 00:14:21,694
+<font color=#FFFF00><i><b>put on something
+a hell of a lot nicer,</b></i></font>
+
+357
+00:14:21,778 --> 00:14:23,621
+<font color=#FFFF00><i><b>and meet me at this
+address in an hour.</b></i></font>
+
+358
+00:14:33,456 --> 00:14:34,457
+<font color=#FFFF00><i><b>Hi.</b></i></font>
+
+359
+00:14:35,458 --> 00:14:38,052
+<font color=#FFFF00><i><b>Hey, sweetie.
+I'll be done in a few minutes.</b></i></font>
+
+360
+00:14:38,961 --> 00:14:40,213
+<font color=#FFFF00><i><b>How was your day?</b></i></font>
+
+361
+00:14:40,671 --> 00:14:41,797
+<font color=#FFFF00><i><b>Fine.</b></i></font>
+
+362
+00:14:41,964 --> 00:14:44,092
+<font color=#FFFF00><i><b>Louis, we talked about this.</b></i></font>
+
+363
+00:14:45,009 --> 00:14:46,807
+<font color=#FFFF00><i><b>You can share
+your day with me.</b></i></font>
+
+364
+00:14:47,261 --> 00:14:49,389
+<font color=#FFFF00><i><b>I'm here to cheer you up.
+It's not that.</b></i></font>
+
+365
+00:14:49,472 --> 00:14:50,644
+<font color=#FFFF00><i><b>It's just that, sometimes,</b></i></font>
+
+366
+00:14:50,723 --> 00:14:54,819
+<font color=#FFFF00><i><b>I have to do some less than great
+things with less than great people</b></i></font>
+
+367
+00:14:54,894 --> 00:14:58,023
+<font color=#FFFF00><i><b>and I'd rather just wash the
+memories from my brain.</b></i></font>
+
+368
+00:14:58,106 --> 00:14:59,904
+<font color=#FFFF00><i><b>What do you mean,
+less than great things?</b></i></font>
+
+369
+00:14:59,982 --> 00:15:01,484
+<font color=#FFFF00><i><b>Nothing. It's not
+that big of a deal.</b></i></font>
+
+370
+00:15:01,567 --> 00:15:04,787
+<font color=#FFFF00><i><b>Are you talking about
+hurting an innocent person?</b></i></font>
+
+371
+00:15:05,613 --> 00:15:06,830
+<font color=#FFFF00><i><b>No, of course not.</b></i></font>
+
+372
+00:15:06,906 --> 00:15:08,874
+<font color=#FFFF00><i><b>Then, how bad can it be?</b></i></font>
+
+373
+00:15:08,950 --> 00:15:10,418
+<font color=#FFFF00><i><b>Well, it's not
+that bad at all, Tara.</b></i></font>
+
+374
+00:15:10,493 --> 00:15:11,493
+<font color=#FFFF00><i><b>As a matter of fact,</b></i></font>
+
+375
+00:15:11,536 --> 00:15:14,039
+<font color=#FFFF00><i><b>I'm doing it all to help
+someone I care deeply about.</b></i></font>
+
+376
+00:15:14,122 --> 00:15:17,001
+<font color=#FFFF00><i><b>And sometimes to do good, you've
+got to get a little dirty.</b></i></font>
+
+377
+00:15:17,500 --> 00:15:21,175
+<font color=#FFFF00><i><b>Well, then, maybe you can take me
+home and get a little dirty with me.</b></i></font>
+
+378
+00:15:21,254 --> 00:15:24,679
+<font color=#FFFF00><i><b>Sweetie, I want to,
+but I'm just not in the mood.</b></i></font>
+
+379
+00:15:24,757 --> 00:15:27,117
+<font color=#FFFF00><i><b>Are you sure this isn't something
+you want to share with me?</b></i></font>
+
+380
+00:15:27,301 --> 00:15:29,645
+<font color=#FFFF00><i><b>Yes, I'm sure.
+Okay.</b></i></font>
+
+381
+00:15:29,720 --> 00:15:32,223
+<font color=#FFFF00><i><b>But I want you to know
+you can tell me anything.</b></i></font>
+
+382
+00:15:34,016 --> 00:15:36,940
+<font color=#FFFF00><i><b>Tara, I'm sorry, but I'm going
+to have to meet you at home.</b></i></font>
+
+383
+00:15:37,353 --> 00:15:38,650
+<font color=#FFFF00><i><b>What is it?</b></i></font>
+
+384
+00:15:38,729 --> 00:15:41,107
+<font color=#FFFF00><i><b>Nothing. I just have
+to go see Harvey, okay?</b></i></font>
+
+385
+00:15:41,190 --> 00:15:42,316
+<font color=#FFFF00><i><b>Okay.</b></i></font>
+
+386
+00:15:48,948 --> 00:15:50,791
+<font color=#FFFF00><i><b>Louis, I've got about two minutes.
+I'm going to meet Rachel.</b></i></font>
+
+387
+00:15:50,867 --> 00:15:52,744
+<font color=#FFFF00><i><b>Well, take two minutes
+to look at this.</b></i></font>
+
+388
+00:15:52,869 --> 00:15:54,963
+<font color=#FFFF00><i><b>What is it? It's a letter
+from Allen Fields.</b></i></font>
+
+389
+00:15:55,037 --> 00:15:56,129
+<font color=#FFFF00><i><b>Shit.</b></i></font>
+
+390
+00:15:56,205 --> 00:15:59,129
+<font color=#FFFF00><i><b>He's putting us in review
+based on our recent affiliations.</b></i></font>
+
+391
+00:15:59,208 --> 00:16:00,835
+<font color=#FFFF00><i><b>You know what that means.
+Yeah, I sure as hell do.</b></i></font>
+
+392
+00:16:00,918 --> 00:16:03,546
+<font color=#FFFF00><i><b>Well, then, you should know that I
+just got 10 more from 10 other clients</b></i></font>
+
+393
+00:16:03,629 --> 00:16:04,869
+<font color=#FFFF00><i><b>and they all say
+the same thing.</b></i></font>
+
+394
+00:16:04,881 --> 00:16:06,349
+<font color=#FFFF00><i><b>That son of a bitch.</b></i></font>
+
+395
+00:16:06,424 --> 00:16:07,846
+<font color=#FFFF00><i><b>Louis, I am not
+going to be bullied.</b></i></font>
+
+396
+00:16:07,925 --> 00:16:09,347
+<font color=#FFFF00><i><b>No, I don't care
+what you're going to be.</b></i></font>
+
+397
+00:16:09,427 --> 00:16:11,805
+<font color=#FFFF00><i><b>Now, we lost Couture Apparel because
+you were too busy with Mike.</b></i></font>
+
+398
+00:16:11,888 --> 00:16:14,767
+<font color=#FFFF00><i><b>This is the same exact thing
+in different clothes.</b></i></font>
+
+399
+00:16:14,891 --> 00:16:17,610
+<font color=#FFFF00><i><b>Louis. Harvey, I just had
+to lie to the woman I love</b></i></font>
+
+400
+00:16:17,685 --> 00:16:19,733
+<font color=#FFFF00><i><b>because I didn't want to admit
+the whole truth about Mike.</b></i></font>
+
+401
+00:16:19,812 --> 00:16:21,655
+<font color=#FFFF00><i><b>Now, I'm willing to go with
+the Hail Mary of using Jerry.</b></i></font>
+
+402
+00:16:21,731 --> 00:16:24,325
+<font color=#FFFF00><i><b>But what I am not willing
+to do is risk our survival.</b></i></font>
+
+403
+00:16:24,400 --> 00:16:26,494
+<font color=#FFFF00><i><b>Louis.
+Harvey, that is enough.</b></i></font>
+
+404
+00:16:26,569 --> 00:16:28,742
+<font color=#FFFF00><i><b>You know what needs to be done.
+Do it or I will.</b></i></font>
+
+405
+00:16:36,746 --> 00:16:37,746
+<font color=#FFFF00><i><b>Mr. Palmer.</b></i></font>
+
+406
+00:16:37,788 --> 00:16:40,007
+<font color=#FFFF00><i><b>I take it you didn't
+get the memo.</b></i></font>
+
+407
+00:16:40,082 --> 00:16:41,425
+<font color=#FFFF00><i><b>This case is over.</b></i></font>
+
+408
+00:16:41,501 --> 00:16:42,923
+<font color=#FFFF00><i><b>That's because
+it's not.</b></i></font>
+
+409
+00:16:44,253 --> 00:16:45,596
+<font color=#FFFF00><i><b>What the hell is this?</b></i></font>
+
+410
+00:16:45,671 --> 00:16:47,298
+<font color=#FFFF00><i><b>That's a copy of my letter
+to the New York Bar</b></i></font>
+
+411
+00:16:47,381 --> 00:16:49,133
+<font color=#FFFF00><i><b>removing myself
+from consideration.</b></i></font>
+
+412
+00:16:49,550 --> 00:16:52,599
+<font color=#FFFF00><i><b>No interview, no application,
+no quid pro quo.</b></i></font>
+
+413
+00:16:53,012 --> 00:16:55,014
+<font color=#FFFF00><i><b>Which means this case
+is far from over.</b></i></font>
+
+414
+00:16:55,097 --> 00:16:57,441
+<font color=#FFFF00><i><b>You have got to be
+kidding me.</b></i></font>
+
+415
+00:16:57,517 --> 00:16:59,019
+<font color=#FFFF00><i><b>You're going to give up
+your chance to be a lawyer</b></i></font>
+
+416
+00:16:59,101 --> 00:17:01,854
+<font color=#FFFF00><i><b>for some miners you didn't even
+know existed before last week?</b></i></font>
+
+417
+00:17:01,938 --> 00:17:04,191
+<font color=#FFFF00><i><b>Well, I know
+they exist now.</b></i></font>
+
+418
+00:17:04,273 --> 00:17:06,196
+<font color=#FFFF00><i><b>And I know they're
+dying because of you.</b></i></font>
+
+419
+00:17:06,275 --> 00:17:08,027
+<font color=#FFFF00><i><b>So, we're going
+to settle this thing</b></i></font>
+
+420
+00:17:08,110 --> 00:17:09,737
+<font color=#FFFF00><i><b>and we're going
+to settle it right now.</b></i></font>
+
+421
+00:17:09,820 --> 00:17:11,367
+<font color=#FFFF00><i><b>Well, I'll tell you
+what I'll do.</b></i></font>
+
+422
+00:17:11,447 --> 00:17:13,700
+<font color=#FFFF00><i><b>I'll write you a check
+for $10 million right here.</b></i></font>
+
+423
+00:17:14,200 --> 00:17:15,622
+<font color=#FFFF00><i><b>Ten million.</b></i></font>
+
+424
+00:17:18,329 --> 00:17:19,956
+<font color=#FFFF00><i><b>What the hell
+are you talking about?</b></i></font>
+
+425
+00:17:20,331 --> 00:17:23,631
+<font color=#FFFF00><i><b>Oh, you told them you'd get
+them a hundred, didn't you?</b></i></font>
+
+426
+00:17:23,709 --> 00:17:27,179
+<font color=#FFFF00><i><b>Yeah, you did.
+I can see it in your face.</b></i></font>
+
+427
+00:17:28,339 --> 00:17:31,058
+<font color=#FFFF00><i><b>Well, I suggest you tell them
+you accidentally added a zero.</b></i></font>
+
+428
+00:17:31,133 --> 00:17:32,601
+<font color=#FFFF00><i><b>Because you're not
+getting a nickel more.</b></i></font>
+
+429
+00:17:32,677 --> 00:17:36,398
+<font color=#FFFF00><i><b>Let me remind you, Mr. Palmer,
+we filed 150 suits against you.</b></i></font>
+
+430
+00:17:36,472 --> 00:17:38,019
+<font color=#FFFF00><i><b>And we are going
+to fight them all.</b></i></font>
+
+431
+00:17:38,099 --> 00:17:39,772
+<font color=#FFFF00><i><b>And that shook me before.</b></i></font>
+
+432
+00:17:39,850 --> 00:17:42,069
+<font color=#FFFF00><i><b>But who's going to supply the
+manpower to fight those suits now?</b></i></font>
+
+433
+00:17:42,144 --> 00:17:43,236
+<font color=#FFFF00><i><b>You know who.</b></i></font>
+
+434
+00:17:44,772 --> 00:17:47,116
+<font color=#FFFF00><i><b>I guess you really didn't
+get the memo, did you?</b></i></font>
+
+435
+00:17:47,191 --> 00:17:51,367
+<font color=#FFFF00><i><b>Because Pearson Specter Litt
+just withdrew from this case.</b></i></font>
+
+436
+00:17:54,115 --> 00:17:55,492
+<font color=#FFFF00><i><b>I'll find someone else.</b></i></font>
+
+437
+00:17:55,825 --> 00:17:57,498
+<font color=#FFFF00><i><b>I highly doubt it.</b></i></font>
+
+438
+00:17:58,035 --> 00:17:59,378
+<font color=#FFFF00><i><b>Hey, listen to me.</b></i></font>
+
+439
+00:17:59,453 --> 00:18:01,330
+<font color=#FFFF00><i><b>Your company
+hurt these people.</b></i></font>
+
+440
+00:18:01,664 --> 00:18:04,133
+<font color=#FFFF00><i><b>Now, you were willing to settle
+for $100 million before.</b></i></font>
+
+441
+00:18:04,709 --> 00:18:07,588
+<font color=#FFFF00><i><b>This is your chance
+to do the right thing</b></i></font>
+
+442
+00:18:07,670 --> 00:18:10,264
+<font color=#FFFF00><i><b>and clear your conscience
+at the same time.</b></i></font>
+
+443
+00:18:10,339 --> 00:18:12,808
+<font color=#FFFF00><i><b>Sounds to me like
+a chance to clear yours.</b></i></font>
+
+444
+00:18:12,883 --> 00:18:15,056
+<font color=#FFFF00><i><b>This is a take it or leave
+it offer, Mr. Ross.</b></i></font>
+
+445
+00:18:16,762 --> 00:18:18,764
+<font color=#FFFF00><i><b>And whether
+you take it or not,</b></i></font>
+
+446
+00:18:18,848 --> 00:18:21,601
+<font color=#FFFF00><i><b>I don't ever expect
+to see you here again.</b></i></font>
+
+447
+00:18:37,575 --> 00:18:39,873
+<font color=#FFFF00><i><b>Ms. Cromwell?
+Yes?</b></i></font>
+
+448
+00:18:39,952 --> 00:18:44,549
+<font color=#FFFF00><i><b>My name's Michelle Ross and I was
+hoping to employ your services.</b></i></font>
+
+449
+00:18:45,374 --> 00:18:46,717
+<font color=#FFFF00><i><b>My services?
+Yes.</b></i></font>
+
+450
+00:18:46,792 --> 00:18:48,192
+<font color=#FFFF00><i><b>I'm a junior partner
+at Rand Kaldor,</b></i></font>
+
+451
+00:18:48,210 --> 00:18:49,632
+<font color=#FFFF00><i><b>and I'm looking
+to make a change.</b></i></font>
+
+452
+00:18:49,712 --> 00:18:52,135
+<font color=#FFFF00><i><b>I'm sorry, I don't really do
+much work with the legal sector.</b></i></font>
+
+453
+00:18:52,214 --> 00:18:54,763
+<font color=#FFFF00><i><b>Actually, I was hoping
+to use my experience</b></i></font>
+
+454
+00:18:54,842 --> 00:18:56,560
+<font color=#FFFF00><i><b>and parlay it
+into the business world.</b></i></font>
+
+455
+00:18:56,636 --> 00:18:58,309
+<font color=#FFFF00><i><b>Well, I can take your resume,
+but to be honest,</b></i></font>
+
+456
+00:18:58,387 --> 00:19:01,482
+<font color=#FFFF00><i><b>I don't have a client who's looking for
+a candidate like you at the moment.</b></i></font>
+
+457
+00:19:01,557 --> 00:19:02,979
+<font color=#FFFF00><i><b>I know you don't.</b></i></font>
+
+458
+00:19:03,059 --> 00:19:04,276
+<font color=#FFFF00><i><b>In fact, since
+we're being honest,</b></i></font>
+
+459
+00:19:04,352 --> 00:19:07,231
+<font color=#FFFF00><i><b>I know exactly what kind of
+candidate you're looking for.</b></i></font>
+
+460
+00:19:07,480 --> 00:19:08,732
+<font color=#FFFF00><i><b>What kind is that?</b></i></font>
+
+461
+00:19:09,398 --> 00:19:13,198
+<font color=#FFFF00><i><b>One that can be manipulated into
+selling their employer's products.</b></i></font>
+
+462
+00:19:13,903 --> 00:19:15,029
+<font color=#FFFF00><i><b>Who are you?</b></i></font>
+
+463
+00:19:15,112 --> 00:19:16,830
+<font color=#FFFF00><i><b>It doesn't matter
+who I am.</b></i></font>
+
+464
+00:19:16,906 --> 00:19:18,624
+<font color=#FFFF00><i><b>What matters is,
+I know what you do.</b></i></font>
+
+465
+00:19:19,158 --> 00:19:20,455
+<font color=#FFFF00><i><b>You don't know
+anything about me.</b></i></font>
+
+466
+00:19:20,618 --> 00:19:23,087
+<font color=#FFFF00><i><b>I know that, officially,
+you're a headhunter.</b></i></font>
+
+467
+00:19:23,162 --> 00:19:27,042
+<font color=#FFFF00><i><b>But unofficially, you meet your exclusively
+male clients at places like this.</b></i></font>
+
+468
+00:19:27,541 --> 00:19:29,418
+<font color=#FFFF00><i><b>I also know that at the end
+of each of those meetings,</b></i></font>
+
+469
+00:19:29,502 --> 00:19:31,175
+<font color=#FFFF00><i><b>you say to them,
+"I never do this,</b></i></font>
+
+470
+00:19:31,253 --> 00:19:33,221
+<font color=#FFFF00><i><b>"but would you like
+to have dinner?"</b></i></font>
+
+471
+00:19:33,297 --> 00:19:36,927
+<font color=#FFFF00><i><b>And then, dinner leads to
+dessert, dessert leads to sex,</b></i></font>
+
+472
+00:19:37,009 --> 00:19:39,182
+<font color=#FFFF00><i><b>and sex leads to them falling
+for you, and that leads to...</b></i></font>
+
+473
+00:19:39,261 --> 00:19:41,480
+<font color=#FFFF00><i><b>All right,
+I've heard enough.</b></i></font>
+
+474
+00:19:41,555 --> 00:19:43,057
+<font color=#FFFF00><i><b>And you don't have
+proof of anything.</b></i></font>
+
+475
+00:19:43,140 --> 00:19:45,017
+<font color=#FFFF00><i><b>Actually, I do.</b></i></font>
+
+476
+00:19:45,101 --> 00:19:47,103
+<font color=#FFFF00><i><b>But you know what?
+I don't need it.</b></i></font>
+
+477
+00:19:47,186 --> 00:19:49,109
+<font color=#FFFF00><i><b>Because one of two things
+is going to happen.</b></i></font>
+
+478
+00:19:49,605 --> 00:19:53,075
+<font color=#FFFF00><i><b>Either I am going to hire someone to
+tell every one of your male clients</b></i></font>
+
+479
+00:19:53,150 --> 00:19:55,118
+<font color=#FFFF00><i><b>when you meet them
+that you're going to rob them,</b></i></font>
+
+480
+00:19:55,528 --> 00:19:59,374
+<font color=#FFFF00><i><b>and then your cushy job making $1
+million per sucker is going away...</b></i></font>
+
+481
+00:19:59,448 --> 00:20:00,448
+<font color=#FFFF00><i><b>Or?</b></i></font>
+
+482
+00:20:00,491 --> 00:20:02,664
+<font color=#FFFF00><i><b>Or you're going
+to tell me about every time</b></i></font>
+
+483
+00:20:02,743 --> 00:20:04,711
+<font color=#FFFF00><i><b>you've done this
+for James Palmer.</b></i></font>
+
+484
+00:20:04,787 --> 00:20:06,755
+<font color=#FFFF00><i><b>And you're never going to hear
+from either one of us again.</b></i></font>
+
+485
+00:20:06,997 --> 00:20:08,340
+<font color=#FFFF00><i><b>I can't do that.</b></i></font>
+
+486
+00:20:08,416 --> 00:20:10,589
+<font color=#FFFF00><i><b>My job requires
+a reputation for discretion.</b></i></font>
+
+487
+00:20:10,668 --> 00:20:11,669
+<font color=#FFFF00><i><b>You're going to do
+what we want,</b></i></font>
+
+488
+00:20:11,752 --> 00:20:15,006
+<font color=#FFFF00><i><b>or you're going to find out how much
+your reputation protects you in prison.</b></i></font>
+
+489
+00:20:16,507 --> 00:20:19,886
+<font color=#FFFF00><i><b>Oh, I get it. You're not
+worried about Palmer knowing.</b></i></font>
+
+490
+00:20:20,469 --> 00:20:22,972
+<font color=#FFFF00><i><b>You're worried
+about word spreading.</b></i></font>
+
+491
+00:20:23,347 --> 00:20:25,566
+<font color=#FFFF00><i><b>Trust me,
+he'll never tell a soul</b></i></font>
+
+492
+00:20:25,641 --> 00:20:27,643
+<font color=#FFFF00><i><b>and your business
+will stay intact.</b></i></font>
+
+493
+00:20:28,144 --> 00:20:29,566
+<font color=#FFFF00><i><b>How can you be sure?</b></i></font>
+
+494
+00:20:30,271 --> 00:20:33,741
+<font color=#FFFF00><i><b>The same way I'm sure
+that you don't have a choice.</b></i></font>
+
+495
+00:20:33,816 --> 00:20:36,114
+<font color=#FFFF00><i><b>The question is, are you
+going to go against him</b></i></font>
+
+496
+00:20:36,193 --> 00:20:37,866
+<font color=#FFFF00><i><b>or are you going
+to go against me?</b></i></font>
+
+497
+00:20:47,288 --> 00:20:48,540
+<font color=#FFFF00><i><b>Okay, I'm in.</b></i></font>
+
+498
+00:20:48,956 --> 00:20:50,333
+<font color=#FFFF00><i><b>Just like that?
+Just like that.</b></i></font>
+
+499
+00:20:50,416 --> 00:20:51,463
+<font color=#FFFF00><i><b>This thing
+is damn impressive.</b></i></font>
+
+500
+00:20:51,542 --> 00:20:52,589
+<font color=#FFFF00><i><b>But before
+we move forward,</b></i></font>
+
+501
+00:20:52,668 --> 00:20:54,420
+<font color=#FFFF00><i><b>I need to make sure
+you're good with one thing.</b></i></font>
+
+502
+00:20:54,503 --> 00:20:55,720
+<font color=#FFFF00><i><b>What's that?</b></i></font>
+
+503
+00:20:56,005 --> 00:20:57,848
+<font color=#FFFF00><i><b>I want 90% ownership.</b></i></font>
+
+504
+00:20:58,340 --> 00:20:59,842
+<font color=#FFFF00><i><b>90%?</b></i></font>
+
+505
+00:21:00,342 --> 00:21:01,889
+<font color=#FFFF00><i><b>Are you out of your mind?
+No, I'm not.</b></i></font>
+
+506
+00:21:01,969 --> 00:21:04,597
+<font color=#FFFF00><i><b>And I'm not in the venture capital
+business. I invest in the stock market.</b></i></font>
+
+507
+00:21:04,680 --> 00:21:07,149
+<font color=#FFFF00><i><b>Which means I'd be using
+my own money on this.</b></i></font>
+
+508
+00:21:07,224 --> 00:21:08,396
+<font color=#FFFF00><i><b>Money that you'd
+earn back in spades.</b></i></font>
+
+509
+00:21:08,476 --> 00:21:09,443
+<font color=#FFFF00><i><b>I hope it turns out
+that way.</b></i></font>
+
+510
+00:21:09,518 --> 00:21:12,317
+<font color=#FFFF00><i><b>But this thing has a lot of risk
+and I'd be taking all of it.</b></i></font>
+
+511
+00:21:12,855 --> 00:21:14,448
+<font color=#FFFF00><i><b>Then maybe you should
+take none of it.</b></i></font>
+
+512
+00:21:14,523 --> 00:21:15,775
+<font color=#FFFF00><i><b>Donna.</b></i></font>
+
+513
+00:21:15,858 --> 00:21:16,898
+<font color=#FFFF00><i><b>As good as
+this product is,</b></i></font>
+
+514
+00:21:16,942 --> 00:21:18,910
+<font color=#FFFF00><i><b>I'm telling you as one
+business person to another,</b></i></font>
+
+515
+00:21:18,986 --> 00:21:20,613
+<font color=#FFFF00><i><b>you have no credibility
+to do this.</b></i></font>
+
+516
+00:21:20,696 --> 00:21:23,245
+<font color=#FFFF00><i><b>Believe me, these are the best
+terms you're going to get.</b></i></font>
+
+517
+00:21:23,324 --> 00:21:26,373
+<font color=#FFFF00><i><b>Well, you see, that's
+where you're wrong, Stu.</b></i></font>
+
+518
+00:21:26,827 --> 00:21:29,125
+<font color=#FFFF00><i><b>Because like I
+told you once before,</b></i></font>
+
+519
+00:21:29,205 --> 00:21:33,711
+<font color=#FFFF00><i><b>I'm Donna, this is awesome,
+and I can do better.</b></i></font>
+
+520
+00:21:36,462 --> 00:21:38,305
+<font color=#FFFF00><i><b>Well, I hope
+you prove me wrong.</b></i></font>
+
+521
+00:21:38,380 --> 00:21:40,803
+<font color=#FFFF00><i><b>But in the meantime, I won't
+be used as a stalking horse.</b></i></font>
+
+522
+00:21:40,883 --> 00:21:43,483
+<font color=#FFFF00><i><b>Which means if you walk away now,
+you can't come back to me later.</b></i></font>
+
+523
+00:21:43,803 --> 00:21:45,430
+<font color=#FFFF00><i><b>Oh, you don't have to
+worry about that, Stu.</b></i></font>
+
+524
+00:21:45,513 --> 00:21:47,481
+<font color=#FFFF00><i><b>Because once I
+walk out that door,</b></i></font>
+
+525
+00:21:47,556 --> 00:21:49,433
+<font color=#FFFF00><i><b>I promise you
+I'm not coming back.</b></i></font>
+
+526
+00:21:54,814 --> 00:21:55,906
+<font color=#FFFF00><i><b>I can't believe you.</b></i></font>
+
+527
+00:21:55,981 --> 00:21:57,324
+<font color=#FFFF00><i><b>Listen, Mike, before
+you say anything...</b></i></font>
+
+528
+00:21:57,399 --> 00:21:58,821
+<font color=#FFFF00><i><b>I know you didn't give a
+shit about those miners,</b></i></font>
+
+529
+00:21:58,901 --> 00:21:59,993
+<font color=#FFFF00><i><b>but the least
+you could have done</b></i></font>
+
+530
+00:22:00,069 --> 00:22:01,662
+<font color=#FFFF00><i><b>was stuck around long enough
+to give me some leverage.</b></i></font>
+
+531
+00:22:01,737 --> 00:22:03,034
+<font color=#FFFF00><i><b>We had no choice.</b></i></font>
+
+532
+00:22:03,113 --> 00:22:04,990
+<font color=#FFFF00><i><b>Palmer pressured
+10 of our top clients</b></i></font>
+
+533
+00:22:05,074 --> 00:22:06,747
+<font color=#FFFF00><i><b>to drop us
+unless we pulled out.</b></i></font>
+
+534
+00:22:06,826 --> 00:22:07,866
+<font color=#FFFF00><i><b>So, it's either
+them or me.</b></i></font>
+
+535
+00:22:07,910 --> 00:22:09,753
+<font color=#FFFF00><i><b>Unless you can replace
+$30 million in billings,</b></i></font>
+
+536
+00:22:09,829 --> 00:22:10,955
+<font color=#FFFF00><i><b>you're damn right it is.</b></i></font>
+
+537
+00:22:11,038 --> 00:22:13,666
+<font color=#FFFF00><i><b>Harvey, without you backing
+me, those miners are screwed</b></i></font>
+
+538
+00:22:13,749 --> 00:22:15,469
+<font color=#FFFF00><i><b>and there is nothing
+that I can do about it.</b></i></font>
+
+539
+00:22:15,501 --> 00:22:17,720
+<font color=#FFFF00><i><b>There's something you can do about
+it, you just don't want to do it.</b></i></font>
+
+540
+00:22:18,045 --> 00:22:19,012
+<font color=#FFFF00><i><b>You're talking
+about that woman.</b></i></font>
+
+541
+00:22:19,088 --> 00:22:20,840
+<font color=#FFFF00><i><b>You want leverage on Palmer,
+she's the one who's got it.</b></i></font>
+
+542
+00:22:20,923 --> 00:22:22,049
+<font color=#FFFF00><i><b>Harvey,
+we've been over this.</b></i></font>
+
+543
+00:22:22,132 --> 00:22:23,258
+<font color=#FFFF00><i><b>I'm not going
+to use that woman.</b></i></font>
+
+544
+00:22:23,342 --> 00:22:25,185
+<font color=#FFFF00><i><b>And what if I told you
+we already did?</b></i></font>
+
+545
+00:22:26,303 --> 00:22:27,395
+<font color=#FFFF00><i><b>What?
+Mike...</b></i></font>
+
+546
+00:22:27,638 --> 00:22:29,356
+<font color=#FFFF00><i><b>We not only found her,</b></i></font>
+
+547
+00:22:29,431 --> 00:22:32,310
+<font color=#FFFF00><i><b>we got enough to force that
+bastard into a settlement.</b></i></font>
+
+548
+00:22:32,393 --> 00:22:34,691
+<font color=#FFFF00><i><b>The question is,
+are you willing to use it?</b></i></font>
+
+549
+00:22:34,770 --> 00:22:36,067
+<font color=#FFFF00><i><b>What do you mean, "we"?</b></i></font>
+
+550
+00:22:36,438 --> 00:22:38,281
+<font color=#FFFF00><i><b>Mike. No, no. You
+just said "we."</b></i></font>
+
+551
+00:22:39,525 --> 00:22:41,027
+<font color=#FFFF00><i><b>Who the hell is "we"?</b></i></font>
+
+552
+00:22:41,193 --> 00:22:42,410
+<font color=#FFFF00><i><b>Rachel.</b></i></font>
+
+553
+00:22:43,112 --> 00:22:44,329
+<font color=#FFFF00><i><b>Me and Rachel.</b></i></font>
+
+554
+00:22:46,323 --> 00:22:47,916
+<font color=#FFFF00><i><b>You dragged Rachel
+into this.</b></i></font>
+
+555
+00:22:48,325 --> 00:22:49,702
+<font color=#FFFF00><i><b>I didn't drag her
+into anything.</b></i></font>
+
+556
+00:22:49,785 --> 00:22:53,289
+<font color=#FFFF00><i><b>I went to her for permission
+because I knew how you felt,</b></i></font>
+
+557
+00:22:53,372 --> 00:22:55,795
+<font color=#FFFF00><i><b>and she jumped at the chance
+since you're too stupid to.</b></i></font>
+
+558
+00:22:55,875 --> 00:22:56,876
+<font color=#FFFF00><i><b>You had no right.</b></i></font>
+
+559
+00:22:56,959 --> 00:22:57,960
+<font color=#FFFF00><i><b>Mike, listen to me.</b></i></font>
+
+560
+00:22:58,043 --> 00:22:59,795
+<font color=#FFFF00><i><b>You had no right!</b></i></font>
+
+561
+00:23:04,258 --> 00:23:05,760
+<font color=#FFFF00><i><b>Night, Johnny.</b></i></font>
+
+562
+00:23:08,804 --> 00:23:10,056
+<font color=#FFFF00><i><b>Benjamin?</b></i></font>
+
+563
+00:23:10,306 --> 00:23:11,478
+<font color=#FFFF00><i><b>Donna.</b></i></font>
+
+564
+00:23:11,974 --> 00:23:13,976
+<font color=#FFFF00><i><b>Uh, I hope you don't think it's
+weird that I came to your place.</b></i></font>
+
+565
+00:23:14,059 --> 00:23:16,232
+<font color=#FFFF00><i><b>Well, I find it a little weird
+that you know where I live.</b></i></font>
+
+566
+00:23:16,312 --> 00:23:18,406
+<font color=#FFFF00><i><b>I work in IT,
+I know where everyone lives.</b></i></font>
+
+567
+00:23:18,480 --> 00:23:19,902
+<font color=#FFFF00><i><b>But that's not what
+I came here to talk about.</b></i></font>
+
+568
+00:23:19,982 --> 00:23:21,199
+<font color=#FFFF00><i><b>What did you
+come here for?</b></i></font>
+
+569
+00:23:21,525 --> 00:23:22,993
+<font color=#FFFF00><i><b>I'm freaking out
+about tomorrow.</b></i></font>
+
+570
+00:23:23,068 --> 00:23:24,320
+<font color=#FFFF00><i><b>I mean,
+what if we're not ready?</b></i></font>
+
+571
+00:23:24,612 --> 00:23:26,410
+<font color=#FFFF00><i><b>Relax, Benjamin,
+it's going to be fine.</b></i></font>
+
+572
+00:23:26,488 --> 00:23:27,831
+<font color=#FFFF00><i><b>How can you know that?</b></i></font>
+
+573
+00:23:27,907 --> 00:23:29,500
+<font color=#FFFF00><i><b>Because I already
+did a practice run.</b></i></font>
+
+574
+00:23:29,950 --> 00:23:31,076
+<font color=#FFFF00><i><b>What are you
+talking about?</b></i></font>
+
+575
+00:23:31,160 --> 00:23:32,582
+<font color=#FFFF00><i><b>There's a guy I know
+who I thought might invest,</b></i></font>
+
+576
+00:23:32,661 --> 00:23:33,913
+<font color=#FFFF00><i><b>but he's not really
+in this business.</b></i></font>
+
+577
+00:23:33,996 --> 00:23:36,419
+<font color=#FFFF00><i><b>So, I brought The Donna over to
+him and I gave him our pitch.</b></i></font>
+
+578
+00:23:36,498 --> 00:23:38,296
+<font color=#FFFF00><i><b>And it went okay?
+It went more than okay.</b></i></font>
+
+579
+00:23:38,500 --> 00:23:39,717
+<font color=#FFFF00><i><b>He made us an offer.</b></i></font>
+
+580
+00:23:39,793 --> 00:23:42,637
+<font color=#FFFF00><i><b>Then what in God's name do we need to
+put ourselves through this torture for?</b></i></font>
+
+581
+00:23:42,713 --> 00:23:43,805
+<font color=#FFFF00><i><b>I turned him down.</b></i></font>
+
+582
+00:23:44,340 --> 00:23:47,184
+<font color=#FFFF00><i><b>Wait. Sorry, what?
+Donna, this is our dream.</b></i></font>
+
+583
+00:23:47,259 --> 00:23:48,852
+<font color=#FFFF00><i><b>I know that, Benjamin.</b></i></font>
+
+584
+00:23:48,928 --> 00:23:50,475
+<font color=#FFFF00><i><b>But he wanted
+to own 90% of it.</b></i></font>
+
+585
+00:23:50,554 --> 00:23:53,103
+<font color=#FFFF00><i><b>And I'm not willing to
+give up 90% of our dream.</b></i></font>
+
+586
+00:23:53,682 --> 00:23:54,683
+<font color=#FFFF00><i><b>Now, go home
+and get some sleep.</b></i></font>
+
+587
+00:23:54,767 --> 00:23:56,064
+<font color=#FFFF00><i><b>Because we've got our
+first meeting tomorrow.</b></i></font>
+
+588
+00:23:56,143 --> 00:23:58,191
+<font color=#FFFF00><i><b>And you and I are going
+to kick some serious ass.</b></i></font>
+
+589
+00:24:11,200 --> 00:24:12,452
+<font color=#FFFF00><i><b>When were you
+going to tell me?</b></i></font>
+
+590
+00:24:13,077 --> 00:24:15,705
+<font color=#FFFF00><i><b>Mike... Were you ever
+going to goddamn tell me?</b></i></font>
+
+591
+00:24:15,829 --> 00:24:17,456
+<font color=#FFFF00><i><b>Don't speak to me like that.
+You went behind my back</b></i></font>
+
+592
+00:24:17,539 --> 00:24:19,086
+<font color=#FFFF00><i><b>When you knew
+how I felt about this.</b></i></font>
+
+593
+00:24:19,166 --> 00:24:23,512
+<font color=#FFFF00><i><b>No, I went behind your back because
+I knew how you felt about it.</b></i></font>
+
+594
+00:24:23,587 --> 00:24:24,884
+<font color=#FFFF00><i><b>Is that supposed
+to make it okay?</b></i></font>
+
+595
+00:24:24,964 --> 00:24:27,934
+<font color=#FFFF00><i><b>No, look, I was the one that didn't
+want to let things get too risky.</b></i></font>
+
+596
+00:24:28,008 --> 00:24:30,807
+<font color=#FFFF00><i><b>But when Harvey laid it out for
+me, I decided that it wasn't.</b></i></font>
+
+597
+00:24:30,886 --> 00:24:32,684
+<font color=#FFFF00><i><b>Then why didn't you
+come to me first?</b></i></font>
+
+598
+00:24:32,763 --> 00:24:34,003
+<font color=#FFFF00><i><b>Because you're the one
+that says</b></i></font>
+
+599
+00:24:34,056 --> 00:24:36,058
+<font color=#FFFF00><i><b>forgiveness is easier
+to ask for than permission.</b></i></font>
+
+600
+00:24:36,141 --> 00:24:37,358
+<font color=#FFFF00><i><b>That's a bullshit reason.</b></i></font>
+
+601
+00:24:37,685 --> 00:24:41,440
+<font color=#FFFF00><i><b>Then how about focusing on the
+fact that I did it for you?</b></i></font>
+
+602
+00:24:42,147 --> 00:24:43,649
+<font color=#FFFF00><i><b>Rachel.
+Mike,</b></i></font>
+
+603
+00:24:43,732 --> 00:24:47,953
+<font color=#FFFF00><i><b>this morning, when you told me it
+was over, the look on your face...</b></i></font>
+
+604
+00:24:49,238 --> 00:24:51,286
+<font color=#FFFF00><i><b>I don't want you to have that
+look for the rest of your life.</b></i></font>
+
+605
+00:24:51,365 --> 00:24:52,708
+<font color=#FFFF00><i><b>Rachel, I was upset.
+It had just happened.</b></i></font>
+
+606
+00:24:52,783 --> 00:24:55,252
+<font color=#FFFF00><i><b>No, Mike. That's just it.
+It hadn't.</b></i></font>
+
+607
+00:24:55,786 --> 00:24:57,504
+<font color=#FFFF00><i><b>You've been living
+with this for so long.</b></i></font>
+
+608
+00:24:57,579 --> 00:24:59,832
+<font color=#FFFF00><i><b>That's why you gave Harvey
+the go-ahead to begin with.</b></i></font>
+
+609
+00:24:59,915 --> 00:25:02,134
+<font color=#FFFF00><i><b>I did that because
+I had to watch Oliver fail</b></i></font>
+
+610
+00:25:02,209 --> 00:25:04,553
+<font color=#FFFF00><i><b>and there was nothing
+I could do about it.</b></i></font>
+
+611
+00:25:04,878 --> 00:25:06,471
+<font color=#FFFF00><i><b>And if it wasn't Oliver,</b></i></font>
+
+612
+00:25:06,547 --> 00:25:10,017
+<font color=#FFFF00><i><b>it was going to be someone
+else or something else.</b></i></font>
+
+613
+00:25:10,092 --> 00:25:13,687
+<font color=#FFFF00><i><b>There's always going to be some
+reminder that you weren't a lawyer.</b></i></font>
+
+614
+00:25:15,055 --> 00:25:17,183
+<font color=#FFFF00><i><b>And it would eat away at you because
+it's what you're meant to be.</b></i></font>
+
+615
+00:25:17,266 --> 00:25:18,706
+<font color=#FFFF00><i><b>You shouldn't have done
+what you did.</b></i></font>
+
+616
+00:25:18,767 --> 00:25:21,270
+<font color=#FFFF00><i><b>I know you're mad at me
+for going behind your back.</b></i></font>
+
+617
+00:25:22,771 --> 00:25:24,193
+<font color=#FFFF00><i><b>But I'm not
+going to apologize.</b></i></font>
+
+618
+00:25:24,440 --> 00:25:26,067
+<font color=#FFFF00><i><b>Because I don't want to
+spend the rest of my life</b></i></font>
+
+619
+00:25:26,150 --> 00:25:27,902
+<font color=#FFFF00><i><b>with a man who gave
+up on his dreams.</b></i></font>
+
+620
+00:25:27,985 --> 00:25:30,704
+<font color=#FFFF00><i><b>And I know that you don't
+want to be that man either.</b></i></font>
+
+621
+00:25:41,290 --> 00:25:42,291
+<font color=#FFFF00><i><b>Louis?</b></i></font>
+
+622
+00:25:42,750 --> 00:25:44,218
+<font color=#FFFF00><i><b>What are you doing
+in here?</b></i></font>
+
+623
+00:25:44,293 --> 00:25:45,653
+<font color=#FFFF00><i><b>Rachel, can I
+talk to you a second?</b></i></font>
+
+624
+00:25:45,878 --> 00:25:47,221
+<font color=#FFFF00><i><b>Of course.</b></i></font>
+
+625
+00:25:47,504 --> 00:25:50,303
+<font color=#FFFF00><i><b>I heard Mike had a problem
+involving that woman.</b></i></font>
+
+626
+00:25:51,300 --> 00:25:52,722
+<font color=#FFFF00><i><b>Yes, he did.</b></i></font>
+
+627
+00:25:52,801 --> 00:25:54,895
+<font color=#FFFF00><i><b>We actually got into a fight
+about it last night.</b></i></font>
+
+628
+00:25:55,888 --> 00:25:57,606
+<font color=#FFFF00><i><b>What's he going to do?
+I don't know.</b></i></font>
+
+629
+00:25:57,681 --> 00:26:00,901
+<font color=#FFFF00><i><b>But thank you for doing whatever
+you did to find her, anyway.</b></i></font>
+
+630
+00:26:00,976 --> 00:26:02,319
+<font color=#FFFF00><i><b>Of course.</b></i></font>
+
+631
+00:26:04,646 --> 00:26:05,647
+<font color=#FFFF00><i><b>So.</b></i></font>
+
+632
+00:26:06,023 --> 00:26:07,063
+<font color=#FFFF00><i><b>What are you doing
+in here?</b></i></font>
+
+633
+00:26:07,107 --> 00:26:08,484
+<font color=#FFFF00><i><b>Do you ever wish
+you hadn't found out?</b></i></font>
+
+634
+00:26:08,567 --> 00:26:09,568
+<font color=#FFFF00><i><b>What?</b></i></font>
+
+635
+00:26:09,651 --> 00:26:12,029
+<font color=#FFFF00><i><b>Do you ever wish you'd never
+known about Mike's secret?</b></i></font>
+
+636
+00:26:12,112 --> 00:26:15,082
+<font color=#FFFF00><i><b>Or, for that matter,
+never even met him?</b></i></font>
+
+637
+00:26:16,742 --> 00:26:18,665
+<font color=#FFFF00><i><b>Louis,
+what's going on?</b></i></font>
+
+638
+00:26:22,247 --> 00:26:25,877
+<font color=#FFFF00><i><b>Tara and I have been
+sharing a lot lately.</b></i></font>
+
+639
+00:26:27,836 --> 00:26:30,259
+<font color=#FFFF00><i><b>But there are still
+things I haven't told her.</b></i></font>
+
+640
+00:26:30,839 --> 00:26:35,185
+<font color=#FFFF00><i><b>And yesterday, she asked me what
+I was having a bad day about.</b></i></font>
+
+641
+00:26:35,677 --> 00:26:38,851
+<font color=#FFFF00><i><b>And the truth is, it was
+pretty much about Mike.</b></i></font>
+
+642
+00:26:40,140 --> 00:26:41,392
+<font color=#FFFF00><i><b>And I wanted to tell her
+about it, but...</b></i></font>
+
+643
+00:26:41,475 --> 00:26:43,193
+<font color=#FFFF00><i><b>You don't know
+how she'll react.</b></i></font>
+
+644
+00:26:43,268 --> 00:26:44,269
+<font color=#FFFF00><i><b>No, I don't.</b></i></font>
+
+645
+00:26:44,353 --> 00:26:47,277
+<font color=#FFFF00><i><b>I still haven't even told her I knew about
+Mike's secret before he got caught.</b></i></font>
+
+646
+00:26:47,356 --> 00:26:50,075
+<font color=#FFFF00><i><b>Let alone the fact that I
+used it to get name partner.</b></i></font>
+
+647
+00:26:50,150 --> 00:26:51,322
+<font color=#FFFF00><i><b>Louis...
+Rachel.</b></i></font>
+
+648
+00:26:51,401 --> 00:26:54,951
+<font color=#FFFF00><i><b>When Sheila found out, she said
+I wasn't her soul mate anymore.</b></i></font>
+
+649
+00:26:55,030 --> 00:26:57,124
+<font color=#FFFF00><i><b>But that was Sheila, Louis.</b></i></font>
+
+650
+00:26:57,199 --> 00:26:59,873
+<font color=#FFFF00><i><b>And the key phrase
+is "she found out."</b></i></font>
+
+651
+00:27:00,202 --> 00:27:01,829
+<font color=#FFFF00><i><b>You didn't tell her.</b></i></font>
+
+652
+00:27:02,371 --> 00:27:03,839
+<font color=#FFFF00><i><b>So, you were okay
+when Mike told you?</b></i></font>
+
+653
+00:27:03,914 --> 00:27:06,167
+<font color=#FFFF00><i><b>No, I wouldn't say
+that I was okay with it.</b></i></font>
+
+654
+00:27:06,250 --> 00:27:10,005
+<font color=#FFFF00><i><b>But I love him,
+so I forgave him.</b></i></font>
+
+655
+00:27:10,963 --> 00:27:13,682
+<font color=#FFFF00><i><b>And I can't guarantee
+that Tara will forgive you.</b></i></font>
+
+656
+00:27:13,757 --> 00:27:16,977
+<font color=#FFFF00><i><b>But I can tell you that if she
+finds out some other way,</b></i></font>
+
+657
+00:27:17,052 --> 00:27:18,474
+<font color=#FFFF00><i><b>then she won't.</b></i></font>
+
+658
+00:27:23,725 --> 00:27:25,398
+<font color=#FFFF00><i><b>Thank you, Rachel.</b></i></font>
+
+659
+00:27:26,311 --> 00:27:27,733
+<font color=#FFFF00><i><b>I appreciate your time.</b></i></font>
+
+660
+00:27:38,365 --> 00:27:39,992
+<font color=#FFFF00><i><b>Thank you for
+sitting down with us.</b></i></font>
+
+661
+00:27:40,075 --> 00:27:42,248
+<font color=#FFFF00><i><b>It's our pleasure. I'm
+Andrew and this is Russell.</b></i></font>
+
+662
+00:27:42,661 --> 00:27:44,459
+<font color=#FFFF00><i><b>I'm Donna.
+And my name is Benjamin.</b></i></font>
+
+663
+00:27:44,663 --> 00:27:45,915
+<font color=#FFFF00><i><b>Mind if
+I call you Ben?</b></i></font>
+
+664
+00:27:45,998 --> 00:27:47,671
+<font color=#FFFF00><i><b>Yes, actually,
+I mind very much.</b></i></font>
+
+665
+00:27:48,292 --> 00:27:49,760
+<font color=#FFFF00><i><b>But you open up
+that checkbook of yours,</b></i></font>
+
+666
+00:27:49,835 --> 00:27:52,429
+<font color=#FFFF00><i><b>and you can call Ben here
+whatever the hell you want.</b></i></font>
+
+667
+00:27:53,130 --> 00:27:54,890
+<font color=#FFFF00><i><b>I appreciate that,
+but before we get started,</b></i></font>
+
+668
+00:27:54,923 --> 00:27:58,678
+<font color=#FFFF00><i><b>you should know that we get pitched six
+personal assistant devices a month.</b></i></font>
+
+669
+00:27:58,760 --> 00:28:00,262
+<font color=#FFFF00><i><b>And you should know
+that our device</b></i></font>
+
+670
+00:28:00,345 --> 00:28:03,098
+<font color=#FFFF00><i><b>makes Siri and the Alexa
+look like toaster ovens.</b></i></font>
+
+671
+00:28:03,182 --> 00:28:04,262
+<font color=#FFFF00><i><b>Well, that may be the case,</b></i></font>
+
+672
+00:28:04,266 --> 00:28:05,939
+<font color=#FFFF00><i><b>but I'm concerned that the
+market is already saturated.</b></i></font>
+
+673
+00:28:06,018 --> 00:28:07,019
+<font color=#FFFF00><i><b>If you were so concerned,</b></i></font>
+
+674
+00:28:07,102 --> 00:28:08,228
+<font color=#FFFF00><i><b>you wouldn't be sitting here
+in the first place.</b></i></font>
+
+675
+00:28:08,604 --> 00:28:10,527
+<font color=#FFFF00><i><b>Is that a fact?
+Yes, it is.</b></i></font>
+
+676
+00:28:11,023 --> 00:28:12,275
+<font color=#FFFF00><i><b>Because you're the head
+of the investment team,</b></i></font>
+
+677
+00:28:12,357 --> 00:28:13,734
+<font color=#FFFF00><i><b>and the head of the team
+doesn't waste his time</b></i></font>
+
+678
+00:28:13,817 --> 00:28:15,569
+<font color=#FFFF00><i><b>unless he thinks there might
+be something in it for him.</b></i></font>
+
+679
+00:28:15,652 --> 00:28:18,371
+<font color=#FFFF00><i><b>There might be other things in
+it for me than just investing.</b></i></font>
+
+680
+00:28:18,447 --> 00:28:19,869
+<font color=#FFFF00><i><b>Yes, there could.</b></i></font>
+
+681
+00:28:19,948 --> 00:28:21,291
+<font color=#FFFF00><i><b>Like marking your territory.</b></i></font>
+
+682
+00:28:21,950 --> 00:28:24,169
+<font color=#FFFF00><i><b>Because anybody can see by the
+way you two are sitting there</b></i></font>
+
+683
+00:28:24,244 --> 00:28:26,497
+<font color=#FFFF00><i><b>that he's gunning for your job
+and you don't like that one bit.</b></i></font>
+
+684
+00:28:26,622 --> 00:28:28,875
+<font color=#FFFF00><i><b>That's not...
+Who told you that?</b></i></font>
+
+685
+00:28:28,957 --> 00:28:30,174
+<font color=#FFFF00><i><b>No one told me that.</b></i></font>
+
+686
+00:28:30,250 --> 00:28:31,877
+<font color=#FFFF00><i><b>Just like no one told me
+that you can't fire him</b></i></font>
+
+687
+00:28:31,960 --> 00:28:33,052
+<font color=#FFFF00><i><b>because that will
+make you look weak.</b></i></font>
+
+688
+00:28:33,128 --> 00:28:34,220
+<font color=#FFFF00><i><b>Which is why
+you took this meeting,</b></i></font>
+
+689
+00:28:34,296 --> 00:28:36,640
+<font color=#FFFF00><i><b>because you didn't want him
+taking it without you.</b></i></font>
+
+690
+00:28:36,840 --> 00:28:39,468
+<font color=#FFFF00><i><b>Okay. How in the hell
+are you doing all this?</b></i></font>
+
+691
+00:28:40,344 --> 00:28:42,722
+<font color=#FFFF00><i><b>I'm doing this
+because I'm Donna.</b></i></font>
+
+692
+00:28:42,971 --> 00:28:45,815
+<font color=#FFFF00><i><b>And if it hasn't dawned on you
+already, so is this device.</b></i></font>
+
+693
+00:28:46,683 --> 00:28:49,732
+<font color=#FFFF00><i><b>Now, do you want to puff up your
+chest and play office politics</b></i></font>
+
+694
+00:28:49,811 --> 00:28:52,064
+<font color=#FFFF00><i><b>or do you want to hear
+about an opportunity</b></i></font>
+
+695
+00:28:52,147 --> 00:28:54,491
+<font color=#FFFF00><i><b>that could vault you both
+to the top of the ladder?</b></i></font>
+
+696
+00:28:55,817 --> 00:28:57,615
+<font color=#FFFF00><i><b>Why don't you tell us
+about your product?</b></i></font>
+
+697
+00:29:00,155 --> 00:29:02,157
+<font color=#FFFF00><i><b>Can I get a black coffee?</b></i></font>
+
+698
+00:29:02,824 --> 00:29:05,043
+<font color=#FFFF00><i><b>Make it two
+of whatever he's having.</b></i></font>
+
+699
+00:29:05,118 --> 00:29:06,540
+<font color=#FFFF00><i><b>You here to tell me
+what a dick I am</b></i></font>
+
+700
+00:29:06,620 --> 00:29:07,712
+<font color=#FFFF00><i><b>for going behind
+your back again?</b></i></font>
+
+701
+00:29:07,788 --> 00:29:10,712
+<font color=#FFFF00><i><b>No, I'm here to find out what
+time your meeting with Palmer is.</b></i></font>
+
+702
+00:29:10,791 --> 00:29:11,792
+<font color=#FFFF00><i><b>I don't know.</b></i></font>
+
+703
+00:29:12,292 --> 00:29:13,259
+<font color=#FFFF00><i><b>What do you mean,
+you don't know?</b></i></font>
+
+704
+00:29:13,335 --> 00:29:14,928
+<font color=#FFFF00><i><b>Well, I wasn't going to do it
+without your permission.</b></i></font>
+
+705
+00:29:15,003 --> 00:29:16,596
+<font color=#FFFF00><i><b>Which means there is
+no meeting with Palmer.</b></i></font>
+
+706
+00:29:16,672 --> 00:29:18,720
+<font color=#FFFF00><i><b>Well, I'm giving
+you my permission.</b></i></font>
+
+707
+00:29:18,799 --> 00:29:20,142
+<font color=#FFFF00><i><b>Mike, I'm not
+trying to be an asshole.</b></i></font>
+
+708
+00:29:20,217 --> 00:29:23,437
+<font color=#FFFF00><i><b>But we went to a lot of trouble
+to get that shit on Palmer</b></i></font>
+
+709
+00:29:23,512 --> 00:29:25,310
+<font color=#FFFF00><i><b>and you looked like
+you wanted to kill me.</b></i></font>
+
+710
+00:29:25,389 --> 00:29:27,266
+<font color=#FFFF00><i><b>So, how do I know you're not
+gonna want to change your mind?</b></i></font>
+
+711
+00:29:27,349 --> 00:29:29,568
+<font color=#FFFF00><i><b>Because I want
+to be a lawyer.</b></i></font>
+
+712
+00:29:30,519 --> 00:29:32,146
+<font color=#FFFF00><i><b>I don't care
+how we do it.</b></i></font>
+
+713
+00:29:34,022 --> 00:29:36,116
+<font color=#FFFF00><i><b>Then take out your wallet,
+pay for this coffee,</b></i></font>
+
+714
+00:29:36,191 --> 00:29:38,239
+<font color=#FFFF00><i><b>and let's bring
+this thing home.</b></i></font>
+
+715
+00:29:47,411 --> 00:29:50,335
+<font color=#FFFF00><i><b>Well, that was the most amazing
+27 minutes of my entire life.</b></i></font>
+
+716
+00:29:50,414 --> 00:29:51,415
+<font color=#FFFF00><i><b>Hmm. Which part?</b></i></font>
+
+717
+00:29:51,498 --> 00:29:52,750
+<font color=#FFFF00><i><b>When you sat there
+with your mouth glued shut,</b></i></font>
+
+718
+00:29:52,833 --> 00:29:54,835
+<font color=#FFFF00><i><b>or when you shit the bed
+describing the operating system?</b></i></font>
+
+719
+00:29:54,918 --> 00:29:57,967
+<font color=#FFFF00><i><b>Oh, my God, I knew I should have
+stopped after the design specs.</b></i></font>
+
+720
+00:29:58,046 --> 00:29:59,923
+<font color=#FFFF00><i><b>Benjamin,
+I'm teasing you.</b></i></font>
+
+721
+00:30:00,007 --> 00:30:02,260
+<font color=#FFFF00><i><b>Now I don't know
+if I should believe you.</b></i></font>
+
+722
+00:30:02,342 --> 00:30:04,219
+<font color=#FFFF00><i><b>Then listen to me
+carefully.</b></i></font>
+
+723
+00:30:04,678 --> 00:30:05,975
+<font color=#FFFF00><i><b>You killed it.</b></i></font>
+
+724
+00:30:06,471 --> 00:30:09,065
+<font color=#FFFF00><i><b>Thank you.
+But in fact, we killed it.</b></i></font>
+
+725
+00:30:09,141 --> 00:30:10,142
+<font color=#FFFF00><i><b>You're damn right
+we did.</b></i></font>
+
+726
+00:30:10,225 --> 00:30:11,977
+<font color=#FFFF00><i><b>Now, get going. I'm going to
+see you back at the firm.</b></i></font>
+
+727
+00:30:12,060 --> 00:30:13,186
+<font color=#FFFF00><i><b>Where are you going?</b></i></font>
+
+728
+00:30:13,270 --> 00:30:15,944
+<font color=#FFFF00><i><b>I accidentally forgot my pen
+in the conference room.</b></i></font>
+
+729
+00:30:16,023 --> 00:30:17,024
+<font color=#FFFF00><i><b>Oh, I have one
+you can borrow.</b></i></font>
+
+730
+00:30:17,107 --> 00:30:20,236
+<font color=#FFFF00><i><b>Benjamin, when I say accidentally,
+I mean intentionally,</b></i></font>
+
+731
+00:30:20,319 --> 00:30:22,071
+<font color=#FFFF00><i><b>because it gives me an
+excuse to go back in there</b></i></font>
+
+732
+00:30:22,154 --> 00:30:24,282
+<font color=#FFFF00><i><b>and eavesdrop on what
+they're saying about us.</b></i></font>
+
+733
+00:30:24,364 --> 00:30:26,124
+<font color=#FFFF00><i><b>Oh, that's a great idea.
+Can I come with you?</b></i></font>
+
+734
+00:30:26,158 --> 00:30:27,535
+<font color=#FFFF00><i><b>No, I need
+to do this alone.</b></i></font>
+
+735
+00:30:27,617 --> 00:30:28,664
+<font color=#FFFF00><i><b>Why?</b></i></font>
+
+736
+00:30:28,744 --> 00:30:30,041
+<font color=#FFFF00><i><b>Because when
+they see me without you,</b></i></font>
+
+737
+00:30:30,120 --> 00:30:31,667
+<font color=#FFFF00><i><b>they're going to think
+it's two against one</b></i></font>
+
+738
+00:30:31,747 --> 00:30:32,873
+<font color=#FFFF00><i><b>and they'll make me
+an offer to cut you out.</b></i></font>
+
+739
+00:30:32,956 --> 00:30:34,676
+<font color=#FFFF00><i><b>Wait, you actually think
+they would do that?</b></i></font>
+
+740
+00:30:34,750 --> 00:30:36,548
+<font color=#FFFF00><i><b>Of course they will.
+These guys are vultures.</b></i></font>
+
+741
+00:30:36,626 --> 00:30:38,754
+<font color=#FFFF00><i><b>Well, then, shouldn't I go
+with you so we can stop it?</b></i></font>
+
+742
+00:30:39,296 --> 00:30:40,593
+<font color=#FFFF00><i><b>Do you trust me?</b></i></font>
+
+743
+00:30:41,089 --> 00:30:42,341
+<font color=#FFFF00><i><b>Yes, I do.</b></i></font>
+
+744
+00:30:42,424 --> 00:30:45,303
+<font color=#FFFF00><i><b>Then trust when they make me the
+offer, I'm going to act outraged,</b></i></font>
+
+745
+00:30:45,385 --> 00:30:47,262
+<font color=#FFFF00><i><b>tell them we'll never do
+business with them,</b></i></font>
+
+746
+00:30:47,346 --> 00:30:49,769
+<font color=#FFFF00><i><b>and they'll give us
+an extra 5% right there.</b></i></font>
+
+747
+00:30:52,976 --> 00:30:54,102
+<font color=#FFFF00><i><b>Okay.</b></i></font>
+
+748
+00:30:56,730 --> 00:30:57,697
+<font color=#FFFF00><i><b>So,
+what did you think?</b></i></font>
+
+749
+00:30:57,773 --> 00:30:59,213
+<font color=#FFFF00><i><b>I thought
+it was impressive.</b></i></font>
+
+750
+00:30:59,232 --> 00:31:01,655
+<font color=#FFFF00><i><b>Well, then, I think
+you're easily impressed.</b></i></font>
+
+751
+00:31:01,735 --> 00:31:03,612
+<font color=#FFFF00><i><b>- You didn't like it.
+- I liked it just fine.</b></i></font>
+
+752
+00:31:03,695 --> 00:31:04,867
+<font color=#FFFF00><i><b>But do you know
+how much it would cost</b></i></font>
+
+753
+00:31:04,946 --> 00:31:06,426
+<font color=#FFFF00><i><b>to roll out a piece
+of tech like that?</b></i></font>
+
+754
+00:31:06,448 --> 00:31:09,042
+<font color=#FFFF00><i><b>Between the engineering, design and
+beta testing, it costs a ton of money.</b></i></font>
+
+755
+00:31:09,117 --> 00:31:11,370
+<font color=#FFFF00><i><b>You're the one who says you've got
+to spend money to make money.</b></i></font>
+
+756
+00:31:11,453 --> 00:31:13,706
+<font color=#FFFF00><i><b>I also said when you fund a
+project, you fund the person.</b></i></font>
+
+757
+00:31:13,789 --> 00:31:15,712
+<font color=#FFFF00><i><b>And the truth is,
+I'm not funding that woman.</b></i></font>
+
+758
+00:31:15,791 --> 00:31:17,964
+<font color=#FFFF00><i><b>So, why did
+we take this meeting?</b></i></font>
+
+759
+00:31:18,043 --> 00:31:20,091
+<font color=#FFFF00><i><b>I took it as a favor
+to Harvey Specter.</b></i></font>
+
+760
+00:31:20,170 --> 00:31:21,763
+<font color=#FFFF00><i><b>Now, if she was starting up
+a lemonade stand,</b></i></font>
+
+761
+00:31:21,797 --> 00:31:23,219
+<font color=#FFFF00><i><b>I might throw in a few bucks.</b></i></font>
+
+762
+00:31:23,298 --> 00:31:28,896
+<font color=#FFFF00><i><b>But there is no way in hell I'm getting into
+business with a career legal secretary.</b></i></font>
+
+763
+00:31:29,638 --> 00:31:31,238
+<font color=#FFFF00><i><b>You don't
+have to tell me twice.</b></i></font>
+
+764
+00:31:31,556 --> 00:31:33,558
+<font color=#FFFF00><i><b>- You want to grab some lunch?
+- Yeah.</b></i></font>
+
+765
+00:31:33,642 --> 00:31:34,859
+<font color=#FFFF00><i><b>Maybe a drink.</b></i></font>
+
+766
+00:31:34,935 --> 00:31:38,781
+<font color=#FFFF00><i><b>I feel like I deserve it after having to
+sit through that with a straight face.</b></i></font>
+
+767
+00:31:42,109 --> 00:31:43,577
+<font color=#FFFF00><i><b>Hey, Jimbo.
+Nice club.</b></i></font>
+
+768
+00:31:43,652 --> 00:31:45,245
+<font color=#FFFF00><i><b>A little heavy
+on the wood for my taste.</b></i></font>
+
+769
+00:31:45,320 --> 00:31:47,368
+<font color=#FFFF00><i><b>A little heavy on the
+douchebag for mine.</b></i></font>
+
+770
+00:31:48,490 --> 00:31:50,333
+<font color=#FFFF00><i><b>How did you get in here?</b></i></font>
+
+771
+00:31:50,409 --> 00:31:52,286
+<font color=#FFFF00><i><b>I told them I was your cousin,
+we had some bad news,</b></i></font>
+
+772
+00:31:52,369 --> 00:31:53,586
+<font color=#FFFF00><i><b>and you were going to
+want to hear about it.</b></i></font>
+
+773
+00:31:53,662 --> 00:31:54,709
+<font color=#FFFF00><i><b>Bullshit.</b></i></font>
+
+774
+00:31:54,788 --> 00:31:57,792
+<font color=#FFFF00><i><b>Maybe not the cousin part.
+But here's the news.</b></i></font>
+
+775
+00:31:57,874 --> 00:32:00,718
+<font color=#FFFF00><i><b>We've got your balls in a vice
+and there's only one way out.</b></i></font>
+
+776
+00:32:01,128 --> 00:32:02,345
+<font color=#FFFF00><i><b>The hell you do.</b></i></font>
+
+777
+00:32:03,713 --> 00:32:07,343
+<font color=#FFFF00><i><b>And since you decided to
+just wade back into this,</b></i></font>
+
+778
+00:32:07,843 --> 00:32:10,642
+<font color=#FFFF00><i><b>those six clients of yours
+are gone.</b></i></font>
+
+779
+00:32:10,887 --> 00:32:13,811
+<font color=#FFFF00><i><b>Mmm.
+I don't think so, Slim Jim.</b></i></font>
+
+780
+00:32:13,890 --> 00:32:15,813
+<font color=#FFFF00><i><b>See, the only reason you almost
+got to us in the first place</b></i></font>
+
+781
+00:32:15,892 --> 00:32:17,735
+<font color=#FFFF00><i><b>was you found
+my Achilles' heel.</b></i></font>
+
+782
+00:32:17,811 --> 00:32:18,983
+<font color=#FFFF00><i><b>But then,
+we found yours.</b></i></font>
+
+783
+00:32:19,062 --> 00:32:21,611
+<font color=#FFFF00><i><b>I've got to say,
+she sure is pretty.</b></i></font>
+
+784
+00:32:22,691 --> 00:32:24,211
+<font color=#FFFF00><i><b>I don't know
+what you're talking about.</b></i></font>
+
+785
+00:32:24,651 --> 00:32:26,528
+<font color=#FFFF00><i><b>Maybe this
+will jog your memory.</b></i></font>
+
+786
+00:32:26,611 --> 00:32:31,492
+<font color=#FFFF00><i><b>Names, dates, phone numbers, e-mails,
+bank statements, wire transfers.</b></i></font>
+
+787
+00:32:31,575 --> 00:32:35,205
+<font color=#FFFF00><i><b>Proof of over a dozen instances of
+you committing corporate espionage.</b></i></font>
+
+788
+00:32:35,287 --> 00:32:37,790
+<font color=#FFFF00><i><b>Lucky for us,
+she isn't just pretty.</b></i></font>
+
+789
+00:32:37,873 --> 00:32:39,500
+<font color=#FFFF00><i><b>She's a hell
+of a bookkeeper.</b></i></font>
+
+790
+00:32:41,042 --> 00:32:42,715
+<font color=#FFFF00><i><b>What do you want?</b></i></font>
+
+791
+00:32:43,962 --> 00:32:46,056
+<font color=#FFFF00><i><b>For you to do what you should
+have done in the first place.</b></i></font>
+
+792
+00:32:46,131 --> 00:32:48,725
+<font color=#FFFF00><i><b>You're going to settle with
+those miners for $200 million.</b></i></font>
+
+793
+00:32:48,800 --> 00:32:51,519
+<font color=#FFFF00><i><b>You're going to forget you ever
+heard of us or Ms. Cromwell.</b></i></font>
+
+794
+00:32:51,595 --> 00:32:54,394
+<font color=#FFFF00><i><b>And you're going to honor your
+original agreement with Craig Seidel.</b></i></font>
+
+795
+00:32:55,724 --> 00:32:57,476
+<font color=#FFFF00><i><b>What do you care about
+that weasel's future for?</b></i></font>
+
+796
+00:32:57,559 --> 00:32:58,811
+<font color=#FFFF00><i><b>That's between me and him.</b></i></font>
+
+797
+00:32:59,102 --> 00:33:00,194
+<font color=#FFFF00><i><b>Oh...</b></i></font>
+
+798
+00:33:00,270 --> 00:33:01,897
+<font color=#FFFF00><i><b>One other thing?</b></i></font>
+
+799
+00:33:01,980 --> 00:33:03,823
+<font color=#FFFF00><i><b>This really is
+a take it or leave it offer.</b></i></font>
+
+800
+00:33:04,316 --> 00:33:06,284
+<font color=#FFFF00><i><b>It expires in 15 seconds.</b></i></font>
+
+801
+00:33:06,359 --> 00:33:07,531
+<font color=#FFFF00><i><b>And once it's signed,</b></i></font>
+
+802
+00:33:07,611 --> 00:33:09,534
+<font color=#FFFF00><i><b>I never want to hear about
+your shitty little company</b></i></font>
+
+803
+00:33:09,613 --> 00:33:11,707
+<font color=#FFFF00><i><b>doing something
+like this ever again.</b></i></font>
+
+804
+00:33:19,581 --> 00:33:20,798
+<font color=#FFFF00><i><b>There you are.</b></i></font>
+
+805
+00:33:20,874 --> 00:33:22,672
+<font color=#FFFF00><i><b>Where have you been
+since that meeting?</b></i></font>
+
+806
+00:33:23,460 --> 00:33:24,632
+<font color=#FFFF00><i><b>I've been doing
+some thinking.</b></i></font>
+
+807
+00:33:24,711 --> 00:33:28,090
+<font color=#FFFF00><i><b>And I've been wondering if my
+partner sold me out all day.</b></i></font>
+
+808
+00:33:29,799 --> 00:33:30,891
+<font color=#FFFF00><i><b>Well, I hate to break it
+to you, Benjamin,</b></i></font>
+
+809
+00:33:30,967 --> 00:33:33,345
+<font color=#FFFF00><i><b>but that's actually the
+opposite of what happened.</b></i></font>
+
+810
+00:33:33,428 --> 00:33:35,772
+<font color=#FFFF00><i><b>What do you mean?
+I mean...</b></i></font>
+
+811
+00:33:36,139 --> 00:33:37,607
+<font color=#FFFF00><i><b>They don't want
+to make us an offer.</b></i></font>
+
+812
+00:33:38,600 --> 00:33:41,149
+<font color=#FFFF00><i><b>In fact, they don't want
+anything to do with The Donna.</b></i></font>
+
+813
+00:33:42,312 --> 00:33:43,734
+<font color=#FFFF00><i><b>It's my fault,
+isn't it?</b></i></font>
+
+814
+00:33:43,855 --> 00:33:45,573
+<font color=#FFFF00><i><b>Benjamin... You don't have
+to protect my feelings.</b></i></font>
+
+815
+00:33:45,649 --> 00:33:49,654
+<font color=#FFFF00><i><b>A chain is only as strong as its weakest
+link, and I know that's what I am.</b></i></font>
+
+816
+00:33:49,736 --> 00:33:50,737
+<font color=#FFFF00><i><b>No, you're not.</b></i></font>
+
+817
+00:33:51,780 --> 00:33:53,453
+<font color=#FFFF00><i><b>Turns out, I am.</b></i></font>
+
+818
+00:33:55,116 --> 00:33:56,584
+<font color=#FFFF00><i><b>Listen to me.</b></i></font>
+
+819
+00:33:56,993 --> 00:33:59,917
+<font color=#FFFF00><i><b>You have designed
+an incredible product,</b></i></font>
+
+820
+00:33:59,996 --> 00:34:01,623
+<font color=#FFFF00><i><b>and I don't want
+to hold you back.</b></i></font>
+
+821
+00:34:02,123 --> 00:34:03,375
+<font color=#FFFF00><i><b>Which is why,
+as of right now,</b></i></font>
+
+822
+00:34:03,458 --> 00:34:05,256
+<font color=#FFFF00><i><b>I am dissolving
+our partnership</b></i></font>
+
+823
+00:34:05,335 --> 00:34:07,258
+<font color=#FFFF00><i><b>so you can take it out
+on your own.</b></i></font>
+
+824
+00:34:10,799 --> 00:34:12,676
+<font color=#FFFF00><i><b>Where the hell
+do you think you're going?</b></i></font>
+
+825
+00:34:13,969 --> 00:34:14,969
+<font color=#FFFF00><i><b>We're partners.</b></i></font>
+
+826
+00:34:15,011 --> 00:34:17,560
+<font color=#FFFF00><i><b>I'd rather throw The Donna into the
+ocean than move forward without you.</b></i></font>
+
+827
+00:34:17,639 --> 00:34:19,232
+<font color=#FFFF00><i><b>Benjamin, please,
+don't be a martyr.</b></i></font>
+
+828
+00:34:19,307 --> 00:34:21,184
+<font color=#FFFF00><i><b>I'm not being a martyr.</b></i></font>
+
+829
+00:34:21,268 --> 00:34:23,020
+<font color=#FFFF00><i><b>I'm being a partner.</b></i></font>
+
+830
+00:34:23,478 --> 00:34:26,106
+<font color=#FFFF00><i><b>We're in this together
+or not at all.</b></i></font>
+
+831
+00:34:26,690 --> 00:34:28,363
+<font color=#FFFF00><i><b>So, it's up to you.</b></i></font>
+
+832
+00:34:28,441 --> 00:34:29,909
+<font color=#FFFF00><i><b>Are we going to give up
+on our dream?</b></i></font>
+
+833
+00:34:30,944 --> 00:34:33,322
+<font color=#FFFF00><i><b>Or live to fight
+another day?</b></i></font>
+
+834
+00:34:36,449 --> 00:34:38,417
+<font color=#FFFF00><i><b>Live to fight, Benjamin.</b></i></font>
+
+835
+00:34:40,245 --> 00:34:41,747
+<font color=#FFFF00><i><b>Live to fight.</b></i></font>
+
+836
+00:34:50,505 --> 00:34:51,677
+<font color=#FFFF00><i><b>Again?</b></i></font>
+
+837
+00:34:52,465 --> 00:34:54,308
+<font color=#FFFF00><i><b>What the hell is it
+this time?</b></i></font>
+
+838
+00:34:54,384 --> 00:34:56,386
+<font color=#FFFF00><i><b>The same thing
+as it was last time.</b></i></font>
+
+839
+00:34:56,469 --> 00:34:58,392
+<font color=#FFFF00><i><b>I need you to get
+that hearing back for me.</b></i></font>
+
+840
+00:34:58,471 --> 00:35:00,690
+<font color=#FFFF00><i><b>Are you kidding me? You know how
+much trouble it was the first time?</b></i></font>
+
+841
+00:35:00,765 --> 00:35:03,609
+<font color=#FFFF00><i><b>I don't care how much trouble it was.
+You're going to do it again.</b></i></font>
+
+842
+00:35:03,685 --> 00:35:05,153
+<font color=#FFFF00><i><b>Unless, of course, you don't
+want the original terms</b></i></font>
+
+843
+00:35:05,228 --> 00:35:06,855
+<font color=#FFFF00><i><b>of your deal
+with Palmer upheld.</b></i></font>
+
+844
+00:35:07,647 --> 00:35:08,899
+<font color=#FFFF00><i><b>What are you
+talking about?</b></i></font>
+
+845
+00:35:08,982 --> 00:35:10,609
+<font color=#FFFF00><i><b>We had him guarantee
+to pay you what he promised</b></i></font>
+
+846
+00:35:10,692 --> 00:35:13,286
+<font color=#FFFF00><i><b>and to hire you over there
+at the end of the quarter.</b></i></font>
+
+847
+00:35:13,361 --> 00:35:14,361
+<font color=#FFFF00><i><b>Why would you do that?</b></i></font>
+
+848
+00:35:14,404 --> 00:35:16,907
+<font color=#FFFF00><i><b>Because I don't just want you
+to set that hearing.</b></i></font>
+
+849
+00:35:16,990 --> 00:35:19,618
+<font color=#FFFF00><i><b>I want you to bulldoze anyone
+who stands in my way.</b></i></font>
+
+850
+00:35:20,410 --> 00:35:22,083
+<font color=#FFFF00><i><b>Look, it's up to you.</b></i></font>
+
+851
+00:35:22,162 --> 00:35:24,631
+<font color=#FFFF00><i><b>You take the job and the
+money and you get me in,</b></i></font>
+
+852
+00:35:24,706 --> 00:35:26,083
+<font color=#FFFF00><i><b>or you stay
+on a sinking ship</b></i></font>
+
+853
+00:35:26,166 --> 00:35:28,686
+<font color=#FFFF00><i><b>and wait for them to figure out
+that you're the one who sank it.</b></i></font>
+
+854
+00:35:34,132 --> 00:35:35,634
+<font color=#FFFF00><i><b>I'll make it happen.
+Yeah.</b></i></font>
+
+855
+00:35:35,884 --> 00:35:37,352
+<font color=#FFFF00><i><b>I'm not surprised.</b></i></font>
+
+856
+00:35:44,976 --> 00:35:47,695
+<font color=#FFFF00><i><b>I would have thought you'd
+be at happy hour by now.</b></i></font>
+
+857
+00:35:47,771 --> 00:35:49,318
+<font color=#FFFF00><i><b>These days, my happy
+hour is the 60 minutes</b></i></font>
+
+858
+00:35:49,397 --> 00:35:51,650
+<font color=#FFFF00><i><b>from the time I get home
+to the time I pass out.</b></i></font>
+
+859
+00:35:51,733 --> 00:35:52,905
+<font color=#FFFF00><i><b>You're a hard worker, Stu.</b></i></font>
+
+860
+00:35:52,984 --> 00:35:54,611
+<font color=#FFFF00><i><b>Turns out they don't just give
+you money for your looks.</b></i></font>
+
+861
+00:35:54,736 --> 00:35:56,738
+<font color=#FFFF00><i><b>Hmm. But you didn't come
+all the way back here</b></i></font>
+
+862
+00:35:56,821 --> 00:35:58,573
+<font color=#FFFF00><i><b>just to tell me
+how hard I work.</b></i></font>
+
+863
+00:35:58,865 --> 00:36:00,617
+<font color=#FFFF00><i><b>I came to see
+if you'd reconsider.</b></i></font>
+
+864
+00:36:01,743 --> 00:36:03,541
+<font color=#FFFF00><i><b>You couldn't beat it, could you?
+No.</b></i></font>
+
+865
+00:36:03,995 --> 00:36:05,497
+<font color=#FFFF00><i><b>But that's not
+why I'm here.</b></i></font>
+
+866
+00:36:05,580 --> 00:36:06,672
+<font color=#FFFF00><i><b>Then why are you here?</b></i></font>
+
+867
+00:36:06,748 --> 00:36:08,216
+<font color=#FFFF00><i><b>Because even though
+I didn't like your terms,</b></i></font>
+
+868
+00:36:08,291 --> 00:36:11,386
+<font color=#FFFF00><i><b>you spoke to me as an equal and
+you treated me with respect.</b></i></font>
+
+869
+00:36:11,461 --> 00:36:14,055
+<font color=#FFFF00><i><b>And that's the kind of person I
+want to be in business with.</b></i></font>
+
+870
+00:36:15,090 --> 00:36:18,845
+<font color=#FFFF00><i><b>What would you say if I told you
+the offer was back on the table?</b></i></font>
+
+871
+00:36:18,927 --> 00:36:19,927
+<font color=#FFFF00><i><b>I'd say my assumption is</b></i></font>
+
+872
+00:36:19,969 --> 00:36:22,267
+<font color=#FFFF00><i><b>the terms won't be as good as
+they were the first time around.</b></i></font>
+
+873
+00:36:22,347 --> 00:36:23,724
+<font color=#FFFF00><i><b>The terms
+aren't going to change.</b></i></font>
+
+874
+00:36:23,807 --> 00:36:24,854
+<font color=#FFFF00><i><b>Why not?</b></i></font>
+
+875
+00:36:25,266 --> 00:36:27,018
+<font color=#FFFF00><i><b>Because I don't want to go
+into business with someone</b></i></font>
+
+876
+00:36:27,102 --> 00:36:29,446
+<font color=#FFFF00><i><b>who feels like I'm
+giving them the shaft.</b></i></font>
+
+877
+00:36:29,521 --> 00:36:32,445
+<font color=#FFFF00><i><b>I want to go into business with someone
+who's happy with my partnership.</b></i></font>
+
+878
+00:36:34,359 --> 00:36:35,702
+<font color=#FFFF00><i><b>Thank you, Stu.</b></i></font>
+
+879
+00:36:36,194 --> 00:36:37,821
+<font color=#FFFF00><i><b>You're welcome, Donna.</b></i></font>
+
+880
+00:36:37,904 --> 00:36:39,702
+<font color=#FFFF00><i><b>Oh, and just so you know,</b></i></font>
+
+881
+00:36:39,781 --> 00:36:42,034
+<font color=#FFFF00><i><b>when I put my money
+where my mouth is,</b></i></font>
+
+882
+00:36:42,117 --> 00:36:44,370
+<font color=#FFFF00><i><b>I throw everything
+I have into it.</b></i></font>
+
+883
+00:36:45,704 --> 00:36:49,254
+<font color=#FFFF00><i><b>I wouldn't expect anything less
+from a big mouth like you.</b></i></font>
+
+884
+00:36:57,966 --> 00:36:59,058
+<font color=#FFFF00><i><b>Done?</b></i></font>
+
+885
+00:37:00,135 --> 00:37:01,261
+<font color=#FFFF00><i><b>Done.</b></i></font>
+
+886
+00:37:01,970 --> 00:37:03,222
+<font color=#FFFF00><i><b>I've got to say,
+the world's going to be</b></i></font>
+
+887
+00:37:03,304 --> 00:37:05,056
+<font color=#FFFF00><i><b>a better place
+with you as a lawyer.</b></i></font>
+
+888
+00:37:05,140 --> 00:37:08,360
+<font color=#FFFF00><i><b>Why? Because we just strong-armed
+some jackass into doing what we want?</b></i></font>
+
+889
+00:37:08,435 --> 00:37:12,281
+<font color=#FFFF00><i><b>No, because you did what it took to
+get those miners what they deserve.</b></i></font>
+
+890
+00:37:12,355 --> 00:37:14,028
+<font color=#FFFF00><i><b>Speaking of which. You want
+to come with me after this?</b></i></font>
+
+891
+00:37:14,357 --> 00:37:15,358
+<font color=#FFFF00><i><b>Where you going?</b></i></font>
+
+892
+00:37:15,442 --> 00:37:17,035
+<font color=#FFFF00><i><b>To tell those miners
+that the world's best lawyer</b></i></font>
+
+893
+00:37:17,110 --> 00:37:18,282
+<font color=#FFFF00><i><b>just got them
+what they deserved.</b></i></font>
+
+894
+00:37:18,361 --> 00:37:19,487
+<font color=#FFFF00><i><b>Second best.</b></i></font>
+
+895
+00:37:19,571 --> 00:37:21,369
+<font color=#FFFF00><i><b>Ah, potato, potahto.</b></i></font>
+
+896
+00:37:24,075 --> 00:37:26,123
+<font color=#FFFF00><i><b>Seriously, Mike,
+you go tell them.</b></i></font>
+
+897
+00:37:26,202 --> 00:37:27,545
+<font color=#FFFF00><i><b>Besides, after that,</b></i></font>
+
+898
+00:37:28,079 --> 00:37:30,548
+<font color=#FFFF00><i><b>you've got some preparing
+to do for that hearing.</b></i></font>
+
+899
+00:37:30,957 --> 00:37:32,379
+<font color=#FFFF00><i><b>What are you
+talking about?</b></i></font>
+
+900
+00:37:32,792 --> 00:37:34,260
+<font color=#FFFF00><i><b>I just told you,
+Seidel's got it in the bag.</b></i></font>
+
+901
+00:37:34,335 --> 00:37:36,258
+<font color=#FFFF00><i><b>And if you think there isn't
+going to be some kind of hitch,</b></i></font>
+
+902
+00:37:36,337 --> 00:37:37,384
+<font color=#FFFF00><i><b>I haven't taught you shit.</b></i></font>
+
+903
+00:37:37,464 --> 00:37:39,307
+<font color=#FFFF00><i><b>If you think whatever it is,
+I can't handle it,</b></i></font>
+
+904
+00:37:39,382 --> 00:37:40,804
+<font color=#FFFF00><i><b>then you have not
+been paying attention.</b></i></font>
+
+905
+00:37:40,884 --> 00:37:43,558
+<font color=#FFFF00><i><b>You mean like when you handled
+yourself into going to prison?</b></i></font>
+
+906
+00:37:43,636 --> 00:37:45,638
+<font color=#FFFF00><i><b>No, I mean when I came out
+smelling like a rose.</b></i></font>
+
+907
+00:37:45,722 --> 00:37:47,816
+<font color=#FFFF00><i><b>Hey, I was there
+when you came out.</b></i></font>
+
+908
+00:37:47,932 --> 00:37:50,606
+<font color=#FFFF00><i><b>And rose wasn't the aroma you
+were emanating.</b></i></font>
+
+909
+00:37:50,685 --> 00:37:52,733
+<font color=#FFFF00><i><b>You're right,
+I was emanating awesome.</b></i></font>
+
+910
+00:37:54,147 --> 00:37:56,070
+<font color=#FFFF00><i><b>You really are like me,
+aren't you?</b></i></font>
+
+911
+00:37:56,149 --> 00:37:57,617
+<font color=#FFFF00><i><b>Unfortunately.</b></i></font>
+
+912
+00:37:59,110 --> 00:38:00,703
+<font color=#FFFF00><i><b>Welcome back
+to the Bar, Mike.</b></i></font>
+
+913
+00:38:00,904 --> 00:38:02,326
+<font color=#FFFF00><i><b>Thanks, Harvey.</b></i></font>
+
+914
+00:38:05,408 --> 00:38:09,538
+<font color=#FFFF00><i><b>Technically, I wasn't... Yeah. Actually,
+you really weren't in the Bar, ever.</b></i></font>
+
+915
+00:38:16,461 --> 00:38:18,509
+<font color=#FFFF00><i><b>I'd ask how your day was,</b></i></font>
+
+916
+00:38:18,588 --> 00:38:21,683
+<font color=#FFFF00><i><b>but the last time I did that,
+it didn't go very well.</b></i></font>
+
+917
+00:38:22,550 --> 00:38:24,894
+<font color=#FFFF00><i><b>Tara, can I be
+honest with you?</b></i></font>
+
+918
+00:38:24,969 --> 00:38:26,346
+<font color=#FFFF00><i><b>Of course.</b></i></font>
+
+919
+00:38:26,429 --> 00:38:28,147
+<font color=#FFFF00><i><b>You can tell me anything.</b></i></font>
+
+920
+00:38:28,223 --> 00:38:30,317
+<font color=#FFFF00><i><b>It's part of getting to know each other.
+I told you that.</b></i></font>
+
+921
+00:38:30,391 --> 00:38:32,814
+<font color=#FFFF00><i><b>I'm just not sure that this
+is what you had in mind.</b></i></font>
+
+922
+00:38:33,812 --> 00:38:36,361
+<font color=#FFFF00><i><b>Louis, what is going on?</b></i></font>
+
+923
+00:38:36,439 --> 00:38:39,488
+<font color=#FFFF00><i><b>The other day, when I didn't want
+to tell you what I was upset about,</b></i></font>
+
+924
+00:38:39,567 --> 00:38:44,448
+<font color=#FFFF00><i><b>I was trying to figure out a way
+to get Mike Ross into the Bar.</b></i></font>
+
+925
+00:38:46,241 --> 00:38:48,494
+<font color=#FFFF00><i><b>You mean the fraud
+who worked at your firm?</b></i></font>
+
+926
+00:38:48,576 --> 00:38:51,329
+<font color=#FFFF00><i><b>It's a long story. But we're
+friends now, and we're past it.</b></i></font>
+
+927
+00:38:51,412 --> 00:38:53,164
+<font color=#FFFF00><i><b>What do you mean,
+it's along story?</b></i></font>
+
+928
+00:38:55,250 --> 00:38:57,753
+<font color=#FFFF00><i><b>I mean, I knew Mike was a
+fraud before he was arrested.</b></i></font>
+
+929
+00:38:57,836 --> 00:38:59,213
+<font color=#FFFF00><i><b>And I didnâ€™t just know.</b></i></font>
+
+930
+00:39:01,047 --> 00:39:03,049
+<font color=#FFFF00><i><b>When I found out about him,</b></i></font>
+
+931
+00:39:03,132 --> 00:39:05,681
+<font color=#FFFF00><i><b>instead of going to the police
+or going to the Bar,</b></i></font>
+
+932
+00:39:05,760 --> 00:39:08,263
+<font color=#FFFF00><i><b>I leveraged it to get
+my name on the wall.</b></i></font>
+
+933
+00:39:17,146 --> 00:39:18,614
+<font color=#FFFF00><i><b>Tara, say something.</b></i></font>
+
+934
+00:39:19,023 --> 00:39:20,275
+<font color=#FFFF00><i><b>Say What?</b></i></font>
+
+935
+00:39:22,610 --> 00:39:26,365
+<font color=#FFFF00><i><b>You just told me you found out
+you were working with a criminal</b></i></font>
+
+936
+00:39:26,447 --> 00:39:28,449
+<font color=#FFFF00><i><b>and you turned it
+into a promotion.</b></i></font>
+
+937
+00:39:28,533 --> 00:39:29,534
+<font color=#FFFF00><i><b>I know that.</b></i></font>
+
+938
+00:39:29,617 --> 00:39:31,369
+<font color=#FFFF00><i><b>But you said that we should
+get to know each other.</b></i></font>
+
+939
+00:39:31,452 --> 00:39:32,453
+<font color=#FFFF00><i><b>What do you want me
+to say, Louis?</b></i></font>
+
+940
+00:39:32,537 --> 00:39:35,381
+<font color=#FFFF00><i><b>I didn't know what
+your favorite movie was.</b></i></font>
+
+941
+00:39:35,456 --> 00:39:36,924
+<font color=#FFFF00><i><b>Or what side
+of the bed you like.</b></i></font>
+
+942
+00:39:37,000 --> 00:39:39,594
+<font color=#FFFF00><i><b>But I thought at least I knew
+what kind of man you were.</b></i></font>
+
+943
+00:39:39,669 --> 00:39:41,296
+<font color=#FFFF00><i><b>Tara, please.</b></i></font>
+
+944
+00:39:41,754 --> 00:39:44,052
+<font color=#FFFF00><i><b>This is the thing I'm most
+ashamed about in my life.</b></i></font>
+
+945
+00:39:44,132 --> 00:39:45,349
+<font color=#FFFF00><i><b>And I'm telling you
+to show you</b></i></font>
+
+946
+00:39:45,425 --> 00:39:46,551
+<font color=#FFFF00><i><b>that I'm never going to hide
+anything from you.</b></i></font>
+
+947
+00:39:46,634 --> 00:39:49,729
+<font color=#FFFF00><i><b>Well, maybe you should hide
+some things from me.</b></i></font>
+
+948
+00:39:49,804 --> 00:39:50,930
+<font color=#FFFF00><i><b>What?</b></i></font>
+
+949
+00:39:51,014 --> 00:39:52,357
+<font color=#FFFF00><i><b>You heard me.</b></i></font>
+
+950
+00:39:53,641 --> 00:39:55,063
+<font color=#FFFF00><i><b>I heard you.</b></i></font>
+
+951
+00:39:58,229 --> 00:40:01,654
+<font color=#FFFF00><i><b>How dare you say that to me after
+what I had to find out about you'?</b></i></font>
+
+952
+00:40:03,151 --> 00:40:04,778
+<font color=#FFFF00><i><b>What is that
+supposed to mean?</b></i></font>
+
+953
+00:40:04,861 --> 00:40:08,661
+<font color=#FFFF00><i><b>It means you're sitting there like you're
+the high priestess of moral authority,</b></i></font>
+
+954
+00:40:08,740 --> 00:40:12,370
+<font color=#FFFF00><i><b>when the first time we slept
+together, you were with another man!</b></i></font>
+
+955
+00:40:12,452 --> 00:40:14,420
+<font color=#FFFF00><i><b>How can you say that to me?</b></i></font>
+
+956
+00:40:14,495 --> 00:40:17,920
+<font color=#FFFF00><i><b>I was upfront about it
+with you and with him.</b></i></font>
+
+957
+00:40:17,999 --> 00:40:19,216
+<font color=#FFFF00><i><b>You were upfront about it
+with everybody</b></i></font>
+
+958
+00:40:19,292 --> 00:40:21,715
+<font color=#FFFF00><i><b>and then you wanted me to be
+upfront with you about things.</b></i></font>
+
+959
+00:40:21,794 --> 00:40:24,172
+<font color=#FFFF00><i><b>And now, you're looking
+at me like I'm a monster!</b></i></font>
+
+960
+00:40:24,255 --> 00:40:25,757
+<font color=#FFFF00><i><b>You know what?
+That's it.</b></i></font>
+
+961
+00:40:26,799 --> 00:40:28,392
+<font color=#FFFF00><i><b>That's it?
+Well, where are you going?</b></i></font>
+
+962
+00:40:28,509 --> 00:40:30,352
+<font color=#FFFF00><i><b>I'm sleeping at my place tonight.
+Look, Tara, please.</b></i></font>
+
+963
+00:40:30,428 --> 00:40:31,680
+<font color=#FFFF00><i><b>If I knew that you were
+gonna react this way,</b></i></font>
+
+964
+00:40:31,763 --> 00:40:33,323
+<font color=#FFFF00><i><b>I never would have
+told you any of this.</b></i></font>
+
+965
+00:40:33,348 --> 00:40:34,975
+<font color=#FFFF00><i><b>But you did tell me,
+Louis.</b></i></font>
+
+966
+00:40:37,435 --> 00:40:38,436
+<font color=#FFFF00><i><b>Good night.
+Tara, wait.</b></i></font>
+
+967
+00:40:40,229 --> 00:40:43,028
+<font color=#FFFF00><i><b>I'll give you a call when I've had
+a chance to figure things out.</b></i></font>
+
+968
+00:40:51,244 --> 00:40:55,027
+<b><font color=#909090>^.^.^.^.subtitles by.^.^.^.^</font></b>
+<b><font color=#804040>P®</font></b> <b><font color=#ff0000>Krishna_Teja</font></b> <b><font color=#804040>P®</font></b>
+
