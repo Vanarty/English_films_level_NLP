@@ -133,6 +133,8 @@ if sub_file:
                 st.text(f'{b1_ratio} {b1}')
                 st.text(f'{b2_ratio} {b2}')
                 st.text(f'{c1_ratio} {c1}')
+                st.text(f'{c1_ratio} {c1}')
+                st.text(f'{c1_ratio} {c1}')
 
         except Exception as e:
             st.error(f'Что-то пошло не так. Попробуйте загрузить файл еще раз!')
