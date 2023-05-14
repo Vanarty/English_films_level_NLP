@@ -123,11 +123,16 @@ if sub_file:
                 b2_ratio = b2 / word_all
                 c1_ratio = c1 / word_all
                 st.write('Узнайте, сколько уникальных слов определенного уровня встречаются в фильме согласно классического Oxford словаря:')
-                st.progress(a1_ratio, text=f"слов уровня A1: {round(a1)}")
-                st.progress(a2_ratio, text=f"слов уровня A2: {round(a2)}")
-                st.progress(b1_ratio, text=f"слов уровня B1: {round(b1)}")
-                st.progress(b2_ratio, text=f"слов уровня B2: {round(b2)}")
-                st.progress(c1_ratio, text=f"слов уровня C1: {round(c1)}")
+                #st.progress(a1_ratio, text=f"слов уровня A1: {round(a1)}")
+                #st.progress(a2_ratio, text=f"слов уровня A2: {round(a2)}")
+                #st.progress(b1_ratio, text=f"слов уровня B1: {round(b1)}")
+                #st.progress(b2_ratio, text=f"слов уровня B2: {round(b2)}")
+                #st.progress(c1_ratio, text=f"слов уровня C1: {round(c1)}")
+                st.text(f'{a1_ratio} {a1}')
+                st.text(f'{a2_ratio} {a2}')
+                st.text(f'{b1_ratio} {b1}')
+                st.text(f'{b2_ratio} {b2}')
+                st.text(f'{c1_ratio} {c1}')
 
         except Exception as e:
             st.error(f'Что-то пошло не так. Попробуйте загрузить файл еще раз!')
