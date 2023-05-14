@@ -12,11 +12,11 @@ import re
 import chardet                   # version 5.1.0
 from joblib import load          # version 1.1.1
 
-# имя загружаемой модели
-MODEL_NAME = '..\models\model_bayesNB.joblib'
+# путь загружаемой модели
+MODEL_NAME = '/models/model_bayesNB.joblib'
 
-# имя загружаемого словаря oxford
-OXFORD_NAME = '..\oxford\classic_oxford.joblib'
+# путь загружаемого словаря oxford
+OXFORD_NAME = '/oxford/lassic_oxford.joblib'
 
 # путь к директории проекта
 PATHNAME = os.path.dirname(__file__)
