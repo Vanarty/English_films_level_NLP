@@ -131,4 +131,4 @@ if sub_file:
 
         except Exception as e:
             st.error(f'Что-то пошло не так. Попробуйте загрузить файл еще раз!')
-            print(e)
+            st.error(e)
