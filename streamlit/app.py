@@ -129,5 +129,6 @@ if sub_file:
                 st.progress(b2_ratio, text=f"слов уровня B2: {round(b2)}")
                 st.progress(c1_ratio, text=f"слов уровня C1: {round(c1)}")
 
-        except:
+        except Exception as e:
             st.error(f'Что-то пошло не так. Попробуйте загрузить файл еще раз!')
+            print(e)
