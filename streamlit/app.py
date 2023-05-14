@@ -13,10 +13,10 @@ import chardet                   # version 5.1.0
 from joblib import load          # version 1.1.1
 
 # путь загружаемой модели
-MODEL_NAME = '../models/model_bayesNB.joblib'
+MODEL_NAME = './models/model_bayesNB.joblib'
 
 # путь загружаемого словаря oxford
-OXFORD_NAME = '../oxford/lassic_oxford.joblib'
+OXFORD_NAME = './oxford/classic_oxford.joblib'
 
 # путь к директории проекта
 PATHNAME = os.path.dirname(__file__)
